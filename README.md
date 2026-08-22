@@ -2,6 +2,8 @@
 
 Sucht täglich auf Kleinanzeigen und eBay sowie bei den Refurbished-Händlern AfB Shop, ITSCO, ESM Computer und LapStore nach aktiven gebrauchten Silent-/Fanless-PCs und nachweislich leisen Komplettsystemen. Lokale Angebote werden im Umkreis von 250 km um Darmstadt berücksichtigt; bei überregionalen Händlern und eBay wird deutschlandweiter Versand akzeptiert. Silentmaxx wird bevorzugt; außerdem werden Systeme anderer Hersteller wie cirrus7, ichbinleise und PrimeComputer sowie herstellerunabhängig belegte leise PCs berücksichtigt. Treffer werden nur akzeptiert, wenn mindestens 16 GB RAM, SSD/NVMe, ein nachgewiesenes Silent-/Leise-Konzept und belastbare Hinweise auf drei gleichzeitige Monitore vorhanden sind. Die bloße Nennung einer leisen Einzelkomponente reicht nicht aus.
 
+Die Suche berücksichtigt außerdem Begriffe und Marken wie `silent office pc`, `silent workstation`, `low noise pc`, `geräuschloser pc`, `passiv gekühlter pc`, `0 dB pc`, Noctua, Fractal Design Silent PC, be quiet Silent Base, Streacom, HDPLEX, Akasa fanless, cirrus7 nimbini sowie die häufige Schreibvariante `silent maxx`. Marken- oder Komponentennamen allein gelten nur als Suchsignal; für eine A- oder B-Einstufung muss die Anzeige weiterhin ein tatsächlich leises Gesamtsystem belegen.
+
 Jeder Treffer enthält Hersteller/Modell, Ort und Entfernung, CPU, GPU, RAM, Speicher, Silent-Konzept, 3-Monitor-Eignung, Zustand, Angebotspreis, einen heuristisch kalkulierten heutigen Vergleichs-Neupreis, Ersparnis, Verkäuferbewertung, Score und Anzeigenlink. Unsichere Angaben werden nicht erfunden, sondern als nicht verfügbar markiert.
 
 ## Trefferklassen
