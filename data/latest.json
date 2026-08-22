@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T11:52:41.742Z",
+  "checkedAt": "2026-08-22T11:59:05.787Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -76,6 +76,10 @@
       "comparisonPrice": 1310,
       "savings": 660,
       "score": 8,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben"
+      ],
       "matches": false,
       "priceLabel": "650 €"
     },
@@ -90,7 +94,7 @@
       "active": false,
       "price": 420,
       "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Silentmaxx Leiser Rackmount Server \"\" Xeon 64 GB RAM SSD 16 TB HDD",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -101,6 +105,10 @@
       "comparisonPrice": 950,
       "savings": 530,
       "score": 8,
+      "classification": null,
+      "openQuestions": [
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "420 €"
     },
@@ -126,6 +134,12 @@
       "comparisonPrice": 1040,
       "savings": 881,
       "score": 5,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "159 €"
     },
@@ -140,7 +154,7 @@
       "active": true,
       "price": 50,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Silentmaxx PC Kenko Fanless S-390 intel i3 8Gb RAM passiv gekühlt",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -151,6 +165,12 @@
       "comparisonPrice": 890,
       "savings": 840,
       "score": 5,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "50 €"
     },
@@ -165,7 +185,7 @@
       "active": true,
       "price": 50,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "SilentMaxx PC Gehäuse, sehr leise Lüfter passive Grafik, SSD",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -176,6 +196,11 @@
       "comparisonPrice": 890,
       "savings": 840,
       "score": 6,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "50 €"
     },
@@ -190,7 +215,7 @@
       "active": false,
       "price": 229,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Silentmaxx Qualitäts Marken PC Computer",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -201,6 +226,12 @@
       "comparisonPrice": 890,
       "savings": 661,
       "score": 5,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "229 €"
     },
@@ -215,7 +246,7 @@
       "active": true,
       "price": 120,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "silentmaxx Fanless A-250 geräuschloser Office PC Desktop",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -226,6 +257,12 @@
       "comparisonPrice": 890,
       "savings": 770,
       "score": 5,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "120 €"
     },
@@ -240,7 +277,7 @@
       "active": true,
       "price": 90,
       "condition": ". ✅ Der PC wurde...",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -251,6 +288,12 @@
       "comparisonPrice": 890,
       "savings": 800,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "90 €"
     },
@@ -265,7 +308,7 @@
       "active": true,
       "price": 90,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Minisforum N40 Fanless Mini PC mit Zubehör",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -276,6 +319,12 @@
       "comparisonPrice": 890,
       "savings": 800,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "90 €"
     },
@@ -290,7 +339,7 @@
       "active": true,
       "price": 140,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Compulab fitlet2 Fanless Embedded PC Quad Core 8GB 60GB IoT PC",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -301,6 +350,11 @@
       "comparisonPrice": 890,
       "savings": 750,
       "score": 5.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "140 €"
     },
@@ -315,7 +369,7 @@
       "active": false,
       "price": 120,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Shuttle XPC Slim DS10U 1,3 Liter Mini Fanless Lüfterlos Leise PC",
       "cpu": "nicht angegeben",
       "gpu": "Intel UHD Graphics 610",
@@ -326,6 +380,12 @@
       "comparisonPrice": 1110,
       "savings": 990,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "120 €"
     },
@@ -340,7 +400,7 @@
       "active": true,
       "price": 58,
       "condition": "Neu",
-      "sellerRating": "OK Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "MINISFORUM N40 Fanless Mini PC – Neu & OVP (versiegelt)",
       "cpu": "nicht angegeben",
       "gpu": "Intel UHD Graphics 600",
@@ -351,6 +411,12 @@
       "comparisonPrice": 1110,
       "savings": 1052,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "58 €"
     },
@@ -365,7 +431,7 @@
       "active": false,
       "price": 50,
       "condition": "In Ordnung",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "silentmaxx Passiv PC i5 Intel GA-H77N-WIFI lautlos fanless lüfterlos silent",
       "cpu": "Core i5-3450S",
       "gpu": "nicht angegeben",
@@ -376,6 +442,12 @@
       "comparisonPrice": 890,
       "savings": 840,
       "score": 5,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "50 €"
     },
@@ -390,7 +462,7 @@
       "active": false,
       "price": 50,
       "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Passiv PC | i5 Intel DH61AG lautlos fanless lüfterlos silent",
       "cpu": "Core i5-3470T",
       "gpu": "nicht angegeben",
@@ -401,6 +473,12 @@
       "comparisonPrice": 890,
       "savings": 840,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "50 €"
     },
@@ -415,7 +493,7 @@
       "active": true,
       "price": 250,
       "condition": ". 100€ Vorher...",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
       "gpu": "nicht angegeben",
@@ -426,6 +504,11 @@
       "comparisonPrice": 890,
       "savings": 640,
       "score": 6.7,
+      "classification": "B",
+      "openQuestions": [
+        "3-Monitor-Anschlüsse bestätigen",
+        "Entfernung zu Darmstadt unklar"
+      ],
       "matches": false,
       "priceLabel": "250 €"
     },
@@ -440,7 +523,7 @@
       "active": true,
       "price": 230,
       "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Simatic IPC 227E Nanobox PC SmartHome Server Lüfterlos",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -451,6 +534,12 @@
       "comparisonPrice": 890,
       "savings": 660,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "230 €"
     },
@@ -465,7 +554,7 @@
       "active": true,
       "price": 40,
       "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Shuttle XS 35V4 Lüfterloser 1-Liter-PC für den Dauerbetrieb",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -476,6 +565,12 @@
       "comparisonPrice": 890,
       "savings": 850,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "40 €"
     },
@@ -490,7 +585,7 @@
       "active": false,
       "price": 200,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Lüfterloser Industrie-PC NISE 106-N3160 (Novabox) 9-30V DC",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -501,6 +596,11 @@
       "comparisonPrice": 890,
       "savings": 690,
       "score": 6.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben"
+      ],
       "matches": false,
       "priceLabel": "200 €"
     },
@@ -515,7 +615,7 @@
       "active": true,
       "price": 250,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Streacom Lüfterlos Silent PC, I3- 8100, 16GB, 2x 250GB SSD",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -526,6 +626,10 @@
       "comparisonPrice": 890,
       "savings": 640,
       "score": 6.7,
+      "classification": null,
+      "openQuestions": [
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "250 €"
     },
@@ -540,7 +644,7 @@
       "active": true,
       "price": 120,
       "condition": "und funktioniert einwandfrei. Er weist nur minimale Gebrauchsspuren auf.Schreib mir einfach, wenn du Fragen hast.",
-      "sellerRating": "OK Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Beelink T34 Mini-PC lüfterlos 8GB DDR3/128GB SSD",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -551,6 +655,11 @@
       "comparisonPrice": 890,
       "savings": 770,
       "score": 5.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "120 €"
     },
@@ -565,7 +674,7 @@
       "active": true,
       "price": 349,
       "condition": "Neu",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "N100, Lüfterloser Mini-PC , Router, FW etc… pfsense, opnsense",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -576,6 +685,10 @@
       "comparisonPrice": 890,
       "savings": 541,
       "score": 6.7,
+      "classification": null,
+      "openQuestions": [
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "349 €"
     },
@@ -590,7 +703,7 @@
       "active": false,
       "price": 219,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Lüfterlose PC i3-3220T PC mit Industrial Motherboard EMB-H61A-A10",
       "cpu": "nicht angegeben",
       "gpu": "Intel UHD Graphics",
@@ -601,6 +714,10 @@
       "comparisonPrice": 1110,
       "savings": 891,
       "score": 6.7,
+      "classification": null,
+      "openQuestions": [
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "219 €"
     },
@@ -615,7 +732,7 @@
       "active": false,
       "price": 180,
       "condition": "Neu",
-      "sellerRating": "OK Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "TERRA PC 5000P – Lüfterlos / Silent – i3 – NEU & ORIGINALVERPACKT",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -626,6 +743,12 @@
       "comparisonPrice": 890,
       "savings": 710,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "180 €"
     },
@@ -640,7 +763,7 @@
       "active": true,
       "price": 40,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "2x Shuttle XS36V Mini-PC – SSD – lüfterlos",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -651,6 +774,11 @@
       "comparisonPrice": 890,
       "savings": 850,
       "score": 5.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "40 €"
     },
@@ -665,7 +793,7 @@
       "active": true,
       "price": 111,
       "condition": "gebraucht",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "MiniPC hdmi Intel N4200 4/64 GB usb lan lüfterlos wifi BLuetooth",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -676,6 +804,12 @@
       "comparisonPrice": 890,
       "savings": 779,
       "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "111 €"
     },
@@ -690,7 +824,7 @@
       "active": false,
       "price": 20,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Leiser PC, Intel Quad Core, 8GB RAM, schnelle SSD, Windows 10",
       "cpu": "nicht angegeben",
       "gpu": "nicht angegeben",
@@ -701,6 +835,12 @@
       "comparisonPrice": 710,
       "savings": 690,
       "score": 2,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "20 €"
     },
@@ -715,7 +855,7 @@
       "active": false,
       "price": 229,
       "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Leiser Desktop-PC | Intel i5-8500 | 16 GB RAM | 500 GB + 256 GB",
       "cpu": "Core i5-8500",
       "gpu": "Intel UHD Graphics 630 integr",
@@ -726,6 +866,11 @@
       "comparisonPrice": 930,
       "savings": 701,
       "score": 3,
+      "classification": null,
+      "openQuestions": [
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "229 €"
     },
@@ -740,7 +885,7 @@
       "active": true,
       "price": 100,
       "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Leiser PC/Server | i5-6600 | 16GB RAM | 500GB Samsung SSD | Win10",
       "cpu": "Core i5-6600",
       "gpu": "nicht angegeben",
@@ -751,6 +896,11 @@
       "comparisonPrice": 710,
       "savings": 610,
       "score": 3,
+      "classification": null,
+      "openQuestions": [
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "100 €"
     },
@@ -759,7 +909,7 @@
       "source": "eBay",
       "url": "https://www.ebay.de/itm/168618715149",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: e8fb6670-eb5e-45a4-beea-91a458f5cc2b",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 111f10bd-6d75-49ff-8649-075c883a7599",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
@@ -776,6 +926,12 @@
       "comparisonPrice": 710,
       "savings": null,
       "score": 0,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen"
+      ],
       "matches": false,
       "priceLabel": "nicht angegeben"
     }
