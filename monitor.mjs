@@ -2,37 +2,47 @@ import fs from 'node:fs/promises';
 import { chromium } from 'playwright';
 import { canonicalId, evaluateAd, parsePrice } from './lib/evaluate.mjs';
 
+const SEARCH_TERMS = [
+  'silentmaxx', 'silent maxx', 'fanless pc', 'lüfterloser pc', 'passiv silent pc',
+  'leiser pc', 'geräuscharmer pc', 'silent office pc', 'silent workstation',
+  'low noise pc', 'geräuschloser pc', 'passiv gekühlter pc', '0 dB pc',
+  'Noctua PC', 'Fractal Design Silent PC', 'be quiet Silent Base PC',
+  'Streacom', 'HDPLEX', 'Akasa fanless', 'cirrus7', 'cirrus7 nimbini',
+  'ichbinleise', 'primecomputer'
+];
+const REFURBISHED_TERMS = ['silentmaxx', 'silent maxx', 'fanless', 'silent workstation', 'Streacom', 'HDPLEX', 'Akasa fanless', 'cirrus7 nimbini'];
+const kleinanzeigenSlug = term => term.toLowerCase().replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
 const SOURCES = [
   {
     name: 'Kleinanzeigen', type: 'local',
-    searches: ['silentmaxx', 'fanless-pc', 'luefterlos', 'passiv-silent-pc', 'leiser-pc', 'geraeuscharmer-pc', 'cirrus7', 'ichbinleise', 'primecomputer', 'be-quiet-pc']
-      .map(term => `https://www.kleinanzeigen.de/s-pcs/${term}/k0c228`),
+    searches: SEARCH_TERMS.map(term => `https://www.kleinanzeigen.de/s-pcs/${kleinanzeigenSlug(term)}/k0c228`),
     linkSelector: 'a[href*="/s-anzeige/"]'
   },
   {
     name: 'eBay', type: 'shipping',
-    searches: ['silentmaxx pc', 'fanless pc 16gb ssd', 'lüfterloser pc 16gb ssd', 'silent pc 32gb']
+    searches: SEARCH_TERMS
       .map(term => `https://www.ebay.de/sch/i.html?_nkw=${encodeURIComponent(term)}&_sacat=179&_ipg=60&LH_ItemCondition=3000`),
     linkSelector: 'a[href*="/itm/"]'
   },
   {
     name: 'AfB Shop (refurbished)', type: 'shipping',
-    searches: ['https://www.afbshop.de/search?sSearch=silent+pc', 'https://www.afbshop.de/search?sSearch=fanless'],
+    searches: REFURBISHED_TERMS.map(term => `https://www.afbshop.de/search?sSearch=${encodeURIComponent(term)}`),
     linkSelector: 'a[href]'
   },
   {
     name: 'ITSCO (refurbished)', type: 'shipping',
-    searches: ['https://www.itsco.de/search?sSearch=silent+pc', 'https://www.itsco.de/search?sSearch=fanless'],
+    searches: REFURBISHED_TERMS.map(term => `https://www.itsco.de/search?sSearch=${encodeURIComponent(term)}`),
     linkSelector: 'a[href]'
   },
   {
     name: 'ESM Computer (refurbished)', type: 'shipping',
-    searches: ['https://www.esm-computer.de/search?sSearch=silent+pc', 'https://www.esm-computer.de/search?sSearch=fanless'],
+    searches: REFURBISHED_TERMS.map(term => `https://www.esm-computer.de/search?sSearch=${encodeURIComponent(term)}`),
     linkSelector: 'a[href]'
   },
   {
     name: 'LapStore (refurbished)', type: 'shipping',
-    searches: ['https://www.lapstore.de/f.php/shop/lapstore/f/1493/lang/de/kw/silent-pc/'],
+    searches: REFURBISHED_TERMS.map(term => `https://www.lapstore.de/f.php/shop/lapstore/f/1493/lang/de/kw/${kleinanzeigenSlug(term)}/`),
     linkSelector: 'a[href]'
   }
 ];
@@ -53,7 +63,7 @@ async function geocode(location) {
   return row ? { lat: Number(row.lat), lon: Number(row.lon) } : null;
 }
 
-const KEYWORDS = /silentmaxx|silent\s*pc|fanless|lüfterlos|lautlos|passiv|geräuscharm|leiser?\s+pc|cirrus7|ichbinleise|primecomputer/i;
+const KEYWORDS = /silent\s*maxx|silentmaxx|silent\s*(?:pc|office|workstation)|fanless|lüfterlos|lautlos|passiv|geräuscharm|geräuschlos|low[- ]noise|leiser?\s+pc|0\s*dB|noctua|fractal\s+design|silent\s+base|streacom|hdplex|akasa|cirrus7|nimbini|ichbinleise|primecomputer/i;
 
 async function collectLinks(browser) {
   const links = new Map();
