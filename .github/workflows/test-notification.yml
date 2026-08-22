@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Testnachricht senden
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || secrets.SILENTMAXX }}
         run: |
           test -n "$NTFY_TOPIC"
           curl --fail --silent --show-error \
