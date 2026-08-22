@@ -100,7 +100,7 @@ async function inspectAd(page, url, source) {
 
 function notificationBody(item) {
   const saving = item.savings == null ? 'nicht berechenbar' : `${item.savings} €`;
-  return [`${item.manufacturerModel}`, `${item.location} · ${item.distanceKm ?? '?'} km`, `CPU: ${item.cpu}`, `GPU: ${item.gpu}`, `RAM: ${item.ramGb} GB · Speicher: ${item.storage}`, `Silent: ${item.silentConcept}`, `3 Monitore: ${item.displaySuitability}`, `Zustand: ${item.condition}`, `Preis: ${item.priceLabel} · Vergleich neu: ca. ${item.comparisonPrice} €`, `Ersparnis: ${saving} · Verkäufer: ${item.sellerRating}`, `Score: ${item.score}/10`, item.url].join('\n');
+  return [`Klasse ${item.classification}: ${item.manufacturerModel}`, `${item.location} · ${item.distanceKm ?? 'Versand/unklar'} km`, `CPU: ${item.cpu}`, `GPU: ${item.gpu}`, `RAM: ${item.ramGb ?? 'nicht angegeben'} GB · Speicher: ${item.storage}`, `Silent: ${item.silentConcept}`, `3 Monitore: ${item.displaySuitability}`, `Zustand: ${item.condition}`, `Preis: ${item.priceLabel} · Vergleich neu: ca. ${item.comparisonPrice} €`, `Ersparnis: ${saving} · Verkäufer: ${item.sellerRating}`, `Score: ${item.score}/10`, item.url].join('\n');
 }
 
 async function notify(item) {
@@ -110,25 +110,40 @@ async function notify(item) {
   if (!response.ok) throw new Error(`ntfy fehlgeschlagen: ${response.status}`);
 }
 
+async function notifyBSummary(items) {
+  const topic = process.env.NTFY_TOPIC;
+  if (!topic || items.length === 0) return;
+  const rows = items.slice(0, 8).map((item, index) => `${index + 1}. ${item.manufacturerModel} · ${item.priceLabel}\nOffen: ${item.openQuestions.join(', ')}\n${item.url}`);
+  const suffix = items.length > 8 ? `\n\n+ ${items.length - 8} weitere B-Treffer in data/latest.json` : '';
+  const response = await fetch(`https://ntfy.sh/${encodeURIComponent(topic)}`, { method: 'POST', headers: { Title: `${items.length} neue B-Treffer: Angaben prüfen`, Priority: 'default', Tags: 'computer,warning', Click: items[0].url }, body: `${rows.join('\n\n')}${suffix}` });
+  if (!response.ok) throw new Error(`ntfy B-Zusammenfassung fehlgeschlagen: ${response.status}`);
+}
+
 const browser = await chromium.launch({ headless: true });
 try {
   const seen = new Set(await readJson(SEEN_PATH, []));
   const links = await collectLinks(browser);
   const page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
   const evaluated = [];
-  const newItems = [];
+  const newAItems = [];
+  const newBItems = [];
   for (const { url, source } of links.slice(0, 140)) {
     const ad = await inspectAd(page, url, source).catch(error => { console.warn(`${url}: ${error.message}`); return null; });
     if (!ad || (ad.distanceKm != null && ad.distanceKm > 250)) continue;
     const item = evaluateAd(ad);
     evaluated.push(item);
-    if (item.matches && !seen.has(item.id)) {
-      newItems.push(item);
-      if (process.env.DRY_RUN !== '1') await notify(item);
+    const seenKey = item.classification ? `${item.classification}:${item.id}` : null;
+    if (item.classification === 'A' && !seen.has(seenKey)) {
+      newAItems.push(item);
+      if (process.env.DRY_RUN !== '1') { await notify(item); seen.add(seenKey); }
     }
-    if (item.matches && process.env.DRY_RUN !== '1') seen.add(item.id);
+    if (item.classification === 'B' && !seen.has(seenKey)) newBItems.push(item);
+  }
+  if (process.env.DRY_RUN !== '1' && newBItems.length) {
+    await notifyBSummary(newBItems);
+    newBItems.forEach(item => seen.add(`B:${item.id}`));
   }
   await writeJson(RESULTS_PATH, { checkedAt: new Date().toISOString(), sources: SOURCES.map(({ name, searches }) => ({ name, searches })), results: evaluated });
   await writeJson(SEEN_PATH, [...seen].slice(-2000));
-  console.log(JSON.stringify({ checked: links.length, matching: evaluated.filter(x => x.matches).length, newMatching: newItems.length }, null, 2));
+  console.log(JSON.stringify({ checked: links.length, aMatches: evaluated.filter(x => x.classification === 'A').length, bMatches: evaluated.filter(x => x.classification === 'B').length, newA: newAItems.length, newB: newBItems.length }, null, 2));
 } finally { await browser.close(); }
