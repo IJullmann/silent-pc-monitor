@@ -69,11 +69,11 @@ async function collectLinks(browser) {
   const links = new Map();
   const stats = [];
   for (const source of SOURCES) {
-    const page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
     const sourceLinks = new Map();
     let successfulSearches = 0;
-    try {
-      for (const search of source.searches) try {
+    for (const search of source.searches) {
+      const page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
+      try {
         await page.goto(search, { waitUntil: 'domcontentloaded', timeout: 45000 });
         const found = await page.locator(source.linkSelector).evaluateAll(nodes => nodes.map(node => ({ url: node.href, text: node.textContent ?? '' })));
         for (const row of found) {
@@ -83,7 +83,8 @@ async function collectLinks(browser) {
         }
         successfulSearches++;
       } catch (error) { console.warn(`${source.name} Suche fehlgeschlagen: ${error.message}`); }
-    } finally { await page.close().catch(() => {}); }
+      finally { await page.close().catch(() => {}); }
+    }
     for (const [url, sourceInfo] of [...sourceLinks].slice(0, 50)) links.set(url, sourceInfo);
     stats.push({ source: source.name, successfulSearches, candidates: sourceLinks.size });
   }
