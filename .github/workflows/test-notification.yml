@@ -1,0 +1,20 @@
+name: ntfy-Testnachricht
+
+on:
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Testnachricht senden
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          test -n "$NTFY_TOPIC"
+          curl --fail --silent --show-error \
+            -H "Title: Silent-PC-Monitor eingerichtet" \
+            -H "Priority: default" \
+            -H "Tags: computer,white_check_mark" \
+            --data-binary "Der tägliche Silent-PC-Monitor für Darmstadt ist einsatzbereit." \
+            "https://ntfy.sh/${NTFY_TOPIC}"
