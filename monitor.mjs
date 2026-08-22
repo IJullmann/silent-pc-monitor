@@ -2,17 +2,39 @@ import fs from 'node:fs/promises';
 import { chromium } from 'playwright';
 import { canonicalId, evaluateAd, parsePrice } from './lib/evaluate.mjs';
 
-const SEARCHES = [
-  'https://www.kleinanzeigen.de/s-pcs/silentmaxx/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/fanless-pc/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/luefterlos/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/passiv-silent-pc/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/leiser-pc/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/geraeuscharmer-pc/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/cirrus7/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/ichbinleise/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/primecomputer/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/be-quiet-pc/k0c228'
+const SOURCES = [
+  {
+    name: 'Kleinanzeigen', type: 'local',
+    searches: ['silentmaxx', 'fanless-pc', 'luefterlos', 'passiv-silent-pc', 'leiser-pc', 'geraeuscharmer-pc', 'cirrus7', 'ichbinleise', 'primecomputer', 'be-quiet-pc']
+      .map(term => `https://www.kleinanzeigen.de/s-pcs/${term}/k0c228`),
+    linkSelector: 'a[href*="/s-anzeige/"]'
+  },
+  {
+    name: 'eBay', type: 'shipping',
+    searches: ['silentmaxx pc', 'fanless pc 16gb ssd', 'lüfterloser pc 16gb ssd', 'silent pc 32gb']
+      .map(term => `https://www.ebay.de/sch/i.html?_nkw=${encodeURIComponent(term)}&_sacat=179&_ipg=60&LH_ItemCondition=3000`),
+    linkSelector: 'a[href*="/itm/"]'
+  },
+  {
+    name: 'AfB Shop (refurbished)', type: 'shipping',
+    searches: ['https://www.afbshop.de/search?sSearch=silent+pc', 'https://www.afbshop.de/search?sSearch=fanless'],
+    linkSelector: 'a[href]'
+  },
+  {
+    name: 'ITSCO (refurbished)', type: 'shipping',
+    searches: ['https://www.itsco.de/search?sSearch=silent+pc', 'https://www.itsco.de/search?sSearch=fanless'],
+    linkSelector: 'a[href]'
+  },
+  {
+    name: 'ESM Computer (refurbished)', type: 'shipping',
+    searches: ['https://www.esm-computer.de/search?sSearch=silent+pc', 'https://www.esm-computer.de/search?sSearch=fanless'],
+    linkSelector: 'a[href]'
+  },
+  {
+    name: 'LapStore (refurbished)', type: 'shipping',
+    searches: ['https://www.lapstore.de/f.php/shop/lapstore/f/1493/lang/de/kw/silent-pc/'],
+    linkSelector: 'a[href]'
+  }
 ];
 const SEEN_PATH = 'data/seen.json';
 const RESULTS_PATH = 'data/latest.json';
@@ -31,28 +53,39 @@ async function geocode(location) {
   return row ? { lat: Number(row.lat), lon: Number(row.lon) } : null;
 }
 
+const KEYWORDS = /silentmaxx|silent\s*pc|fanless|lüfterlos|lautlos|passiv|geräuscharm|leiser?\s+pc|cirrus7|ichbinleise|primecomputer/i;
+
 async function collectLinks(page) {
-  const links = new Set();
-  for (const search of SEARCHES) {
-    await page.goto(search, { waitUntil: 'domcontentloaded', timeout: 45000 });
-    const found = await page.locator('a[href*="/s-anzeige/"]').evaluateAll(nodes => nodes.map(node => node.href));
-    found.forEach(url => links.add(url.replace(/[?#].*$/, '')));
+  const links = new Map();
+  for (const source of SOURCES) for (const search of source.searches) {
+    try {
+      await page.goto(search, { waitUntil: 'domcontentloaded', timeout: 45000 });
+      const found = await page.locator(source.linkSelector).evaluateAll(nodes => nodes.map(node => ({ url: node.href, text: node.textContent ?? '' })));
+      for (const row of found) {
+        if (!row.url || (source.name.includes('refurbished') && !KEYWORDS.test(`${row.text} ${row.url}`))) continue;
+        const clean = source.name === 'eBay' ? row.url.match(/^https:\/\/www\.ebay\.de\/itm\/(?:[^/?]+\/)?\d+/i)?.[0] : row.url.replace(/[?#].*$/, '');
+        if (clean) links.set(clean, source);
+      }
+    } catch (error) { console.warn(`${source.name} Suche fehlgeschlagen: ${error.message}`); }
   }
-  return [...links];
+  return [...links].map(([url, source]) => ({ url, source }));
 }
 
-async function inspectAd(page, url) {
+async function inspectAd(page, url, source) {
   const response = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
   if (!response || response.status() >= 400) return null;
   const body = await page.locator('body').innerText();
-  const unavailable = /anzeige ist nicht mehr verfügbar|gelöscht|reserviert|verkauft/i.test(body);
+  const unavailable = /anzeige ist nicht mehr verfügbar|gelöscht|reserviert|verkauft|dieses angebot wurde beendet|momentan ausverkauft|nicht auf lager|derzeit nicht verfügbar/i.test(body);
   const title = await page.locator('h1').first().innerText().catch(() => 'Unbekanntes System');
   const description = await page.locator('[id*="description"], [class*="description"]').first().innerText().catch(() => body.slice(0, 8000));
-  const location = body.match(/(?:^|\n)(\d{5}\s+[^\n]{2,45})(?:\n|$)/m)?.[1] ?? 'nicht angegeben';
-  const coords = await geocode(location);
+  const localLocation = body.match(/(?:^|\n)(\d{5}\s+[^\n]{2,45})(?:\n|$)/m)?.[1];
+  const ebayLocation = body.match(/Standort:\s*([^\n]+)/i)?.[1];
+  const location = source.type === 'shipping' ? (ebayLocation ?? 'Online-Händler · Versand') : (localLocation ?? 'nicht angegeben');
+  const coords = source.type === 'local' ? await geocode(location) : null;
   const distance = coords ? distanceKm(DARMSTADT, coords) : null;
-  const sellerRating = body.match(/(?:TOP Zufriedenheit|OK Zufriedenheit|Nutzer ist besonders zuverlässig|Zufriedenheit[^\n]*)/i)?.[0] ?? 'nicht verfügbar';
-  return { id: canonicalId(url), url, title, description, location, distanceKm: distance, active: !unavailable, price: parsePrice(body), condition: body.match(/Zustand\n([^\n]+)/i)?.[1] ?? 'gebraucht', sellerRating };
+  const sellerRating = body.match(/(?:\d{1,3}(?:[,.]\d)?%\s+positive Bewertungen|TOP Zufriedenheit|OK Zufriedenheit|Nutzer ist besonders zuverlässig|Zufriedenheit[^\n]*)/i)?.[0] ?? 'nicht verfügbar';
+  const condition = body.match(/(?:Artikelzustand|Zustand)\s*:?\s*\n?([^\n]+)/i)?.[1] ?? (/refurbished|generalüberholt/i.test(body) ? 'refurbished' : 'gebraucht');
+  return { id: `${source.name}:${canonicalId(url)}`, source: source.name, url, title, description, location, distanceKm: distance, active: !unavailable, price: parsePrice(body), condition, sellerRating };
 }
 
 function notificationBody(item) {
@@ -74,8 +107,8 @@ try {
   const links = await collectLinks(page);
   const evaluated = [];
   const newItems = [];
-  for (const url of links.slice(0, 60)) {
-    const ad = await inspectAd(page, url).catch(error => { console.warn(`${url}: ${error.message}`); return null; });
+  for (const { url, source } of links.slice(0, 140)) {
+    const ad = await inspectAd(page, url, source).catch(error => { console.warn(`${url}: ${error.message}`); return null; });
     if (!ad || (ad.distanceKm != null && ad.distanceKm > 250)) continue;
     const item = evaluateAd(ad);
     evaluated.push(item);
@@ -83,9 +116,9 @@ try {
       newItems.push(item);
       if (process.env.DRY_RUN !== '1') await notify(item);
     }
-    if (item.matches) seen.add(item.id);
+    if (item.matches && process.env.DRY_RUN !== '1') seen.add(item.id);
   }
-  await writeJson(RESULTS_PATH, { checkedAt: new Date().toISOString(), searches: SEARCHES, results: evaluated });
+  await writeJson(RESULTS_PATH, { checkedAt: new Date().toISOString(), sources: SOURCES.map(({ name, searches }) => ({ name, searches })), results: evaluated });
   await writeJson(SEEN_PATH, [...seen].slice(-2000));
   console.log(JSON.stringify({ checked: links.length, matching: evaluated.filter(x => x.matches).length, newMatching: newItems.length }, null, 2));
 } finally { await browser.close(); }
