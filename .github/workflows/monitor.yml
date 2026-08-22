@@ -35,7 +35,7 @@ jobs:
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
       - name: Statusdaten speichern
         run: |
-          if ! git diff --quiet -- data; then
+          if ! git diff --quiet -- data || test -n "$(git ls-files --others --exclude-standard data)"; then
             git config user.name github-actions[bot]
             git config user.email 41898282+github-actions[bot]@users.noreply.github.com
             git add -- data/seen.json data/latest.json
