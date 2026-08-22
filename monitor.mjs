@@ -55,19 +55,29 @@ async function geocode(location) {
 
 const KEYWORDS = /silentmaxx|silent\s*pc|fanless|lüfterlos|lautlos|passiv|geräuscharm|leiser?\s+pc|cirrus7|ichbinleise|primecomputer/i;
 
-async function collectLinks(page) {
+async function collectLinks(browser) {
   const links = new Map();
-  for (const source of SOURCES) for (const search of source.searches) {
+  const stats = [];
+  for (const source of SOURCES) {
+    const page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
+    const sourceLinks = new Map();
+    let successfulSearches = 0;
     try {
-      await page.goto(search, { waitUntil: 'domcontentloaded', timeout: 45000 });
-      const found = await page.locator(source.linkSelector).evaluateAll(nodes => nodes.map(node => ({ url: node.href, text: node.textContent ?? '' })));
-      for (const row of found) {
-        if (!row.url || (source.name.includes('refurbished') && !KEYWORDS.test(`${row.text} ${row.url}`))) continue;
-        const clean = source.name === 'eBay' ? row.url.match(/^https:\/\/www\.ebay\.de\/itm\/(?:[^/?]+\/)?\d+/i)?.[0] : row.url.replace(/[?#].*$/, '');
-        if (clean) links.set(clean, source);
-      }
-    } catch (error) { console.warn(`${source.name} Suche fehlgeschlagen: ${error.message}`); }
+      for (const search of source.searches) try {
+        await page.goto(search, { waitUntil: 'domcontentloaded', timeout: 45000 });
+        const found = await page.locator(source.linkSelector).evaluateAll(nodes => nodes.map(node => ({ url: node.href, text: node.textContent ?? '' })));
+        for (const row of found) {
+          if (!row.url || (source.name.includes('refurbished') && !KEYWORDS.test(`${row.text} ${row.url}`))) continue;
+          const clean = source.name === 'eBay' ? row.url.match(/^https:\/\/www\.ebay\.de\/itm\/(?:[^/?]+\/)?\d+/i)?.[0] : row.url.replace(/[?#].*$/, '');
+          if (clean) sourceLinks.set(clean, source);
+        }
+        successfulSearches++;
+      } catch (error) { console.warn(`${source.name} Suche fehlgeschlagen: ${error.message}`); }
+    } finally { await page.close().catch(() => {}); }
+    for (const [url, sourceInfo] of [...sourceLinks].slice(0, 50)) links.set(url, sourceInfo);
+    stats.push({ source: source.name, successfulSearches, candidates: sourceLinks.size });
   }
+  console.log('Quellenstatus', JSON.stringify(stats));
   return [...links].map(([url, source]) => ({ url, source }));
 }
 
@@ -101,10 +111,10 @@ async function notify(item) {
 }
 
 const browser = await chromium.launch({ headless: true });
-const page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
 try {
   const seen = new Set(await readJson(SEEN_PATH, []));
-  const links = await collectLinks(page);
+  const links = await collectLinks(browser);
+  const page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
   const evaluated = [];
   const newItems = [];
   for (const { url, source } of links.slice(0, 140)) {
