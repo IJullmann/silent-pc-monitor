@@ -4,6 +4,13 @@ Sucht täglich auf Kleinanzeigen und eBay sowie bei den Refurbished-Händlern Af
 
 Jeder Treffer enthält Hersteller/Modell, Ort und Entfernung, CPU, GPU, RAM, Speicher, Silent-Konzept, 3-Monitor-Eignung, Zustand, Angebotspreis, einen heuristisch kalkulierten heutigen Vergleichs-Neupreis, Ersparnis, Verkäuferbewertung, Score und Anzeigenlink. Unsichere Angaben werden nicht erfunden, sondern als nicht verfügbar markiert.
 
+## Trefferklassen
+
+- **A-Treffer:** alle Pflichtangaben sind zweifelsfrei erfüllt. Jeder neue A-Treffer löst sofort einen ausführlichen ntfy-Push aus.
+- **B-Treffer:** aktives, nachweislich leises und bepreistes Angebot mit erkannter CPU, bei dem höchstens zwei Angaben offen sind (etwa Monitoranschlüsse, SSD oder RAM-Aufrüstung). Neue B-Treffer werden in einer gemeinsamen ntfy-Zusammenfassung mit Warnhinweisen gemeldet.
+
+A- und B-Treffer haben getrennten Duplikatschutz. Wird eine Anzeige später von B zu A aufgewertet, erfolgt deshalb noch eine A-Benachrichtigung.
+
 ## ntfy einrichten
 
 Unter **Settings → Secrets and variables → Actions → New repository secret** ein Secret namens `NTFY_TOPIC` anlegen. Als Wert exakt das bereits in der ntfy-App abonnierte Topic eintragen. Das Secret wird weder protokolliert noch im Code gespeichert.
