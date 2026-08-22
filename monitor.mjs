@@ -6,7 +6,13 @@ const SEARCHES = [
   'https://www.kleinanzeigen.de/s-pcs/silentmaxx/k0c228',
   'https://www.kleinanzeigen.de/s-pcs/fanless-pc/k0c228',
   'https://www.kleinanzeigen.de/s-pcs/luefterlos/k0c228',
-  'https://www.kleinanzeigen.de/s-pcs/passiv-silent-pc/k0c228'
+  'https://www.kleinanzeigen.de/s-pcs/passiv-silent-pc/k0c228',
+  'https://www.kleinanzeigen.de/s-pcs/leiser-pc/k0c228',
+  'https://www.kleinanzeigen.de/s-pcs/geraeuscharmer-pc/k0c228',
+  'https://www.kleinanzeigen.de/s-pcs/cirrus7/k0c228',
+  'https://www.kleinanzeigen.de/s-pcs/ichbinleise/k0c228',
+  'https://www.kleinanzeigen.de/s-pcs/primecomputer/k0c228',
+  'https://www.kleinanzeigen.de/s-pcs/be-quiet-pc/k0c228'
 ];
 const SEEN_PATH = 'data/seen.json';
 const RESULTS_PATH = 'data/latest.json';
