@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-08-22T11:48:21.159Z",
+  "sources": [
+    {
+      "name": "Kleinanzeigen",
+      "searches": [
+        "https://www.kleinanzeigen.de/s-pcs/silentmaxx/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/fanless-pc/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/luefterlos/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/passiv-silent-pc/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/leiser-pc/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/geraeuscharmer-pc/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/cirrus7/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/ichbinleise/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/primecomputer/k0c228",
+        "https://www.kleinanzeigen.de/s-pcs/be-quiet-pc/k0c228"
+      ]
+    },
+    {
+      "name": "eBay",
+      "searches": [
+        "https://www.ebay.de/sch/i.html?_nkw=silentmaxx%20pc&_sacat=179&_ipg=60&LH_ItemCondition=3000",
+        "https://www.ebay.de/sch/i.html?_nkw=fanless%20pc%2016gb%20ssd&_sacat=179&_ipg=60&LH_ItemCondition=3000",
+        "https://www.ebay.de/sch/i.html?_nkw=l%C3%BCfterloser%20pc%2016gb%20ssd&_sacat=179&_ipg=60&LH_ItemCondition=3000",
+        "https://www.ebay.de/sch/i.html?_nkw=silent%20pc%2032gb&_sacat=179&_ipg=60&LH_ItemCondition=3000"
+      ]
+    },
+    {
+      "name": "AfB Shop (refurbished)",
+      "searches": [
+        "https://www.afbshop.de/search?sSearch=silent+pc",
+        "https://www.afbshop.de/search?sSearch=fanless"
+      ]
+    },
+    {
+      "name": "ITSCO (refurbished)",
+      "searches": [
+        "https://www.itsco.de/search?sSearch=silent+pc",
+        "https://www.itsco.de/search?sSearch=fanless"
+      ]
+    },
+    {
+      "name": "ESM Computer (refurbished)",
+      "searches": [
+        "https://www.esm-computer.de/search?sSearch=silent+pc",
+        "https://www.esm-computer.de/search?sSearch=fanless"
+      ]
+    },
+    {
+      "name": "LapStore (refurbished)",
+      "searches": [
+        "https://www.lapstore.de/f.php/shop/lapstore/f/1493/lang/de/kw/silent-pc/"
+      ]
+    }
+  ],
+  "results": []
+}
