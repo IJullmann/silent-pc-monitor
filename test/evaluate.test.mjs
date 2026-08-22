@@ -14,3 +14,14 @@ test('rejects missing three-display evidence', () => {
   const item = evaluateAd({ active: true, title: 'Silent PC', description: '16 GB RAM, 500 GB SSD, lüfterlos', price: 300, url: 'x' });
   assert.equal(item.matches, false);
 });
+test('accepts a demonstrably quiet non-Silentmaxx system', () => {
+  const item = evaluateAd({ active: true, title: 'Office PC', description: 'Besonders leiser PC, Ryzen 5 5600G, 16 GB DDR4 RAM, 500 GB SSD, 3 Monitore', price: 390, url: 'x' });
+  assert.equal(item.matches, true);
+  assert.equal(item.silentConcept, 'nachweislich leises System');
+});
+test('prefers Silentmaxx in scoring', () => {
+  const base = { active: true, description: 'Ryzen 5 5600G, 16 GB DDR4 RAM, 500 GB SSD, 3 Monitore', price: 390, url: 'x' };
+  const preferred = evaluateAd({ ...base, title: 'Silentmaxx PC' });
+  const alternative = evaluateAd({ ...base, title: 'Sehr leiser PC' });
+  assert.ok(preferred.score > alternative.score);
+});
