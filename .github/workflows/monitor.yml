@@ -31,7 +31,7 @@ jobs:
       - name: Anzeigen prüfen
         run: npm run monitor
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC || secrets.SILENTMAXX }}
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run && '1' || '0' }}
       - name: Statusdaten speichern
         run: |
