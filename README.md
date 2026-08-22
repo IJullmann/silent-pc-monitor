@@ -1,6 +1,6 @@
 # Silent-PC-Monitor Darmstadt
 
-Sucht täglich nach aktiven gebrauchten Silent-/Fanless-PCs im Umkreis von 250 km um Darmstadt. Silentmaxx wird ausdrücklich berücksichtigt. Treffer werden nur akzeptiert, wenn mindestens 16 GB RAM, SSD/NVMe, ein nachgewiesenes Silent-Konzept und belastbare Hinweise auf drei gleichzeitige Monitore vorhanden sind.
+Sucht täglich nach aktiven gebrauchten Silent-/Fanless-PCs und nachweislich leisen Komplettsystemen im Umkreis von 250 km um Darmstadt. Silentmaxx wird bevorzugt; außerdem werden Systeme anderer Hersteller wie cirrus7, ichbinleise und PrimeComputer sowie herstellerunabhängig belegte leise PCs berücksichtigt. Treffer werden nur akzeptiert, wenn mindestens 16 GB RAM, SSD/NVMe, ein nachgewiesenes Silent-/Leise-Konzept und belastbare Hinweise auf drei gleichzeitige Monitore vorhanden sind. Die bloße Nennung einer leisen Einzelkomponente reicht nicht aus.
 
 Jeder Treffer enthält Hersteller/Modell, Ort und Entfernung, CPU, GPU, RAM, Speicher, Silent-Konzept, 3-Monitor-Eignung, Zustand, Angebotspreis, einen heuristisch kalkulierten heutigen Vergleichs-Neupreis, Ersparnis, Verkäuferbewertung, Score und Anzeigenlink. Unsichere Angaben werden nicht erfunden, sondern als nicht verfügbar markiert.
 
