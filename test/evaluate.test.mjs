@@ -37,3 +37,23 @@ test('prefers Silentmaxx in scoring', () => {
   const alternative = evaluateAd({ ...base, title: 'Sehr leiser PC' });
   assert.ok(preferred.score > alternative.score);
 });
+test('deducts recommended RAM and SSD upgrades instead of rejecting 16 GB', () => {
+  const item = evaluateAd({ active: true, source: 'eBay', title: 'Silentmaxx PC', description: 'Ryzen 5 5600G, 16 GB DDR4 RAM, 256 GB SSD, 3 Monitore, lüfterlos', price: 350, url: 'x' });
+  assert.equal(item.classification, 'A');
+  assert.equal(item.upgradeCost, 105);
+  assert.equal(item.savings, item.savingsBeforeUpgrades - 105);
+});
+test('allows an explicitly upgradable 8 GB system as B', () => {
+  const item = evaluateAd({ active: true, source: 'eBay', title: 'Leiser Office PC', description: 'Intel Core i5-10500, 8 GB DDR4 RAM, RAM aufrüstbar, 256 GB SSD, 3 Monitore, sehr leiser PC', price: 220, url: 'x' });
+  assert.equal(item.classification, 'B');
+  assert.match(item.openQuestions[0], /RAM-Aufrüstung/);
+});
+test('rejects an old fanless CPU despite otherwise complete specs', () => {
+  const item = evaluateAd({ active: true, source: 'eBay', title: 'Fanless Mini PC', description: 'Intel Core i5-6500, 32 GB RAM, 1 TB SSD, 3 Monitore, lüfterlos', price: 200, url: 'x' });
+  assert.equal(item.classification, null);
+});
+test('rejects a qualifying CPU when hardware decoding is not established', () => {
+  const item = evaluateAd({ active: true, source: 'eBay', title: 'Silent PC', description: 'Ryzen 5 3600, 32 GB RAM, 1 TB SSD, 3 Monitore, lüfterlos', price: 400, url: 'x' });
+  assert.equal(item.classification, null);
+  assert.match(item.cpuVideoSuitability, /nicht belegt/);
+});
