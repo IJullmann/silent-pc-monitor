@@ -10,7 +10,8 @@ test('accepts a complete, active Silent-PC', () => {
   assert.equal(item.matches, true);
   assert.equal(item.classification, 'A');
   assert.equal(item.ramGb, 32);
-  assert.ok(item.savings > 0);
+  assert.ok(item.replacementNewPrice > item.comparisonPrice);
+  assert.equal(item.priceBasisDate, '2026-08-23');
 });
 test('rejects missing three-display evidence', () => {
   const item = evaluateAd({ active: true, title: 'Silent PC', description: '16 GB RAM, 500 GB SSD, lüfterlos', price: 300, url: 'x' });
@@ -56,4 +57,11 @@ test('rejects a qualifying CPU when hardware decoding is not established', () =>
   const item = evaluateAd({ active: true, source: 'eBay', title: 'Silent PC', description: 'Ryzen 5 3600, 32 GB RAM, 1 TB SSD, 3 Monitore, lüfterlos', price: 400, url: 'x' });
   assert.equal(item.classification, null);
   assert.match(item.cpuVideoSuitability, /nicht belegt/);
+});
+test('warranty and condition increase the adjusted value', () => {
+  const base = { active: true, source: 'eBay', title: 'Silentmaxx PC', description: 'Ryzen 5 5600G, 32 GB RAM, 1 TB SSD, 3 Monitore, lüfterlos', price: 400, url: 'x' };
+  const used = evaluateAd({ ...base, condition: 'gebraucht' });
+  const refurbished = evaluateAd({ ...base, condition: 'refurbished, sehr gut', description: `${base.description}, 24 Monate Garantie` });
+  assert.ok(refurbished.comparisonPrice > used.comparisonPrice);
+  assert.equal(refurbished.warrantyMonths, 24);
 });
