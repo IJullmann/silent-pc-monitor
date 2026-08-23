@@ -80,3 +80,10 @@ test('keeps a capable system with unconfirmed TPM as B only', () => {
   assert.equal(item.classification, 'B');
   assert.ok(item.openQuestions.includes('TPM 2.0 und UEFI/Secure Boot bestätigen'));
 });
+test('allows a suitable PC without a drive as B and budgets an SSD', () => {
+  const item = evaluateAd({ active: true, source: 'eBay', title: 'Silentmaxx Barebone', description: 'Ryzen 5 5600G, 32 GB RAM, ohne Festplatte, 3 Monitore, lüfterlos, TPM 2.0, UEFI Secure Boot', price: 300, url: 'x' });
+  assert.equal(item.classification, 'B');
+  assert.equal(item.storage, 'nicht angegeben');
+  assert.equal(item.upgradeCost, 70);
+  assert.ok(item.recommendedUpgrades.includes('1-TB-SSD/NVMe: ca. 70 €'));
+});
