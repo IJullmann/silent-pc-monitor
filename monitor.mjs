@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import { chromium } from 'playwright';
 import { canonicalId, evaluateAd, parsePrice } from './lib/evaluate.mjs';
 import { markSeenAfterNotification } from './lib/seen.mjs';
+import { isUnavailable } from './lib/availability.mjs';
 
 const SEARCH_TERMS = [
   'silentmaxx', 'silent maxx', 'fanless pc', 'lüfterloser pc', 'passiv silent pc',
@@ -101,7 +102,7 @@ async function inspectAd(page, url, source) {
   const response = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
   if (!response || response.status() >= 400) return null;
   const body = await page.locator('body').innerText();
-  const unavailable = /anzeige ist nicht mehr verfügbar|gelöscht|reserviert|verkauft|dieses angebot wurde beendet|momentan ausverkauft|nicht auf lager|derzeit nicht verfügbar/i.test(body);
+  const unavailable = isUnavailable(body, source.name);
   const title = await page.locator('h1').first().innerText().catch(() => 'Unbekanntes System');
   const description = await page.locator('[id*="description"], [class*="description"]').first().innerText().catch(() => body.slice(0, 8000));
   const localLocation = body.match(/(?:^|\n)(\d{5}\s+[^\n]{2,45})(?:\n|$)/m)?.[1];
