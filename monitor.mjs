@@ -115,7 +115,8 @@ async function inspectAd(page, url, source) {
 
 function notificationBody(item) {
   const saving = item.savings == null ? 'nicht berechenbar' : `${item.savings} €`;
-  return [`Klasse ${item.classification}: ${item.manufacturerModel}`, `${item.location} · ${item.distanceKm ?? 'Versand/unklar'} km`, `CPU: ${item.cpu}`, `GPU: ${item.gpu}`, `RAM: ${item.ramGb ?? 'nicht angegeben'} GB · Speicher: ${item.storage}`, `Silent: ${item.silentConcept}`, `3 Monitore: ${item.displaySuitability}`, `Zustand: ${item.condition}`, `Preis: ${item.priceLabel} · Vergleich neu: ca. ${item.comparisonPrice} €`, `Ersparnis: ${saving} · Verkäufer: ${item.sellerRating}`, `Score: ${item.score}/10`, item.url].join('\n');
+  const upgrades = item.recommendedUpgrades.length ? `${item.recommendedUpgrades.join(', ')} (zusammen ca. ${item.upgradeCost} €)` : 'keine empfohlen';
+  return [`Klasse ${item.classification}: ${item.manufacturerModel}`, `${item.location} · ${item.distanceKm ?? 'Versand/unklar'} km`, `CPU: ${item.cpu}`, `Video: ${item.cpuVideoSuitability}`, `GPU: ${item.gpu}`, `RAM: ${item.ramGb ?? 'nicht angegeben'} GB · Speicher: ${item.storage}`, `Aufrüstung: ${upgrades}`, `Silent: ${item.silentConcept}`, `3 Monitore: ${item.displaySuitability}`, `Zustand: ${item.condition}`, `Preis: ${item.priceLabel} · Vergleich neu: ca. ${item.comparisonPrice} €`, `Ersparnis nach Aufrüstung: ${saving} · Verkäufer: ${item.sellerRating}`, `Score: ${item.score}/10`, item.url].join('\n');
 }
 
 async function notify(item) {
