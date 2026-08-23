@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import { chromium } from 'playwright';
 import { canonicalId, evaluateAd, parsePrice } from './lib/evaluate.mjs';
+import { markSeenAfterNotification } from './lib/seen.mjs';
 
 const SEARCH_TERMS = [
   'silentmaxx', 'silent maxx', 'fanless pc', 'lüfterloser pc', 'passiv silent pc',
@@ -116,7 +117,7 @@ async function inspectAd(page, url, source) {
 function notificationBody(item) {
   const saving = item.savings == null ? 'nicht berechenbar' : `${item.savings} €`;
   const upgrades = item.recommendedUpgrades.length ? `${item.recommendedUpgrades.join(', ')} (zusammen ca. ${item.upgradeCost} €)` : 'keine empfohlen';
-  return [`Klasse ${item.classification}: ${item.manufacturerModel}`, `${item.location} · ${item.distanceKm ?? 'Versand/unklar'} km`, `CPU: ${item.cpu}`, `Video: ${item.cpuVideoSuitability}`, `GPU: ${item.gpu}`, `RAM: ${item.ramGb ?? 'nicht angegeben'} GB · Speicher: ${item.storage}`, `Aufrüstung: ${upgrades}`, `Silent: ${item.silentConcept}`, `3 Monitore: ${item.displaySuitability}`, `Zustand: ${item.condition}`, `Preis: ${item.priceLabel} · Vergleich neu: ca. ${item.comparisonPrice} €`, `Ersparnis nach Aufrüstung: ${saving} · Verkäufer: ${item.sellerRating}`, `Score: ${item.score}/10`, item.url].join('\n');
+  return [`Klasse ${item.classification}: ${item.manufacturerModel}`, `${item.location} · ${item.distanceKm ?? 'Versand/unklar'} km`, `CPU: ${item.cpu}`, `Video: ${item.cpuVideoSuitability}`, `GPU: ${item.gpu}`, `RAM: ${item.ramGb ?? 'nicht angegeben'} GB · Speicher: ${item.storage}`, `Aufrüstung: ${upgrades}`, `Silent: ${item.silentConcept}`, `3 Monitore: ${item.displaySuitability}`, `Zustand: ${item.condition} · Alter geschätzt: ${item.estimatedAge} J. · Garantie: ${item.warrantyMonths || 0} Mon.`, `Heutiger Neupreis: ca. ${item.replacementNewPrice} €`, `Zustands-/altersbereinigter Vergleichswert: ca. ${item.comparisonPrice} €`, `Ersparnis nach Aufrüstung: ${saving} · Verkäufer: ${item.sellerRating}`, `Preisbasis: ${item.priceBasisDate} · Score: ${item.score}/10`, item.url].join('\n');
 }
 
 async function notify(item) {
@@ -151,13 +152,13 @@ try {
     const seenKey = item.classification ? `${item.classification}:${item.id}` : null;
     if (item.classification === 'A' && !seen.has(seenKey)) {
       newAItems.push(item);
-      if (process.env.DRY_RUN !== '1') { await notify(item); seen.add(seenKey); }
+      if (process.env.DRY_RUN !== '1') { await notify(item); markSeenAfterNotification(seen, seenKey, { dryRun: false, notified: true }); }
     }
     if (item.classification === 'B' && !seen.has(seenKey)) newBItems.push(item);
   }
   if (process.env.DRY_RUN !== '1' && newBItems.length) {
     await notifyBSummary(newBItems);
-    newBItems.forEach(item => seen.add(`B:${item.id}`));
+    newBItems.forEach(item => markSeenAfterNotification(seen, `B:${item.id}`, { dryRun: false, notified: true }));
   }
   await writeJson(RESULTS_PATH, { checkedAt: new Date().toISOString(), sources: SOURCES.map(({ name, searches }) => ({ name, searches })), results: evaluated });
   await writeJson(SEEN_PATH, [...seen].slice(-2000));
