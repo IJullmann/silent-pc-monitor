@@ -71,8 +71,8 @@ async function collectLinks(browser) {
   for (const source of SOURCES) {
     const sourceLinks = new Map();
     let successfulSearches = 0;
+    let page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
     for (const search of source.searches) {
-      const page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
       try {
         await page.goto(search, { waitUntil: 'domcontentloaded', timeout: 45000 });
         const found = await page.locator(source.linkSelector).evaluateAll(nodes => nodes.map(node => ({ url: node.href, text: node.textContent ?? '' })));
@@ -82,9 +82,13 @@ async function collectLinks(browser) {
           if (clean) sourceLinks.set(clean, source);
         }
         successfulSearches++;
-      } catch (error) { console.warn(`${source.name} Suche fehlgeschlagen: ${error.message}`); }
-      finally { await page.close().catch(() => {}); }
+      } catch (error) {
+        console.warn(`${source.name} Suche fehlgeschlagen: ${error.message}`);
+        await page.close().catch(() => {});
+        page = await browser.newPage({ locale: 'de-DE', userAgent: 'Mozilla/5.0 silent-pc-monitor/1.0' });
+      }
     }
+    await page.close().catch(() => {});
     for (const [url, sourceInfo] of [...sourceLinks].slice(0, 50)) links.set(url, sourceInfo);
     stats.push({ source: source.name, successfulSearches, candidates: sourceLinks.size });
   }
