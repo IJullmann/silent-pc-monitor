@@ -6,7 +6,7 @@ Für Videobearbeitung gilt Ryzen 5 3600/5600G oder besser beziehungsweise Intel 
 
 Die Suche berücksichtigt außerdem Begriffe und Marken wie `silent office pc`, `silent workstation`, `low noise pc`, `geräuschloser pc`, `passiv gekühlter pc`, `0 dB pc`, Noctua, Fractal Design Silent PC, be quiet Silent Base, Streacom, HDPLEX, Akasa fanless, cirrus7 nimbini sowie die häufige Schreibvariante `silent maxx`. Marken- oder Komponentennamen allein gelten nur als Suchsignal; für eine A- oder B-Einstufung muss die Anzeige weiterhin ein tatsächlich leises Gesamtsystem belegen.
 
-Jeder Treffer enthält Hersteller/Modell, Ort und Entfernung, CPU samt Video-Decoding-Bewertung, GPU, RAM, Speicher, Aufrüstungsvorschläge und -kosten, Silent-Konzept, 3-Monitor-Eignung, Zustand, Angebotspreis, einen heuristisch kalkulierten heutigen Vergleichs-Neupreis, Ersparnis nach Aufrüstung, Verkäuferbewertung, Score und Anzeigenlink. Unsichere Angaben werden nicht erfunden, sondern als nicht verfügbar markiert.
+Jeder Treffer enthält Hersteller/Modell, Ort und Entfernung, CPU samt Video-Decoding-Bewertung, GPU, RAM, Speicher, Aufrüstungsvorschläge und -kosten, Silent-Konzept, 3-Monitor-Eignung, Zustand, Angebotspreis, heutigen Ersatz-Neupreis, alters-/zustands-/garantiebereinigten Vergleichswert, Ersparnis nach Aufrüstung, Verkäuferbewertung, Score und Anzeigenlink. Die Preisbasis ist datiert und beruht auf konkreten Marktankern für Komplettsysteme und Komponenten. Unsichere Angaben werden nicht erfunden, sondern als nicht verfügbar markiert.
 
 ## Trefferklassen
 
@@ -25,7 +25,7 @@ Unter **Settings → Secrets and variables → Actions → New repository secret
 - Manuell unter **Actions → Silent-PC-Monitor → Run workflow**.
 - Beim ersten manuellen Lauf ist `dry_run` standardmäßig aktiv. Für einen echten ntfy-Test den Haken entfernen.
 
-Bereits gemeldete Anzeigen-IDs stehen in `data/seen.json`; dadurch entstehen keine täglichen Duplikate. `data/latest.json` dokumentiert den letzten Lauf. Die Entfernung wird über OpenStreetMap Nominatim berechnet. Der Vergleichs-Neupreis ist ausdrücklich eine reproduzierbare Schätzung aus CPU-Klasse, RAM, Speicher, GPU und Silent-Aufpreis, kein Händlerangebot.
+Nur Anzeigen, deren ntfy-Benachrichtigung tatsächlich erfolgreich versendet wurde, kommen in `data/seen.json`; Trockenläufe und fehlgeschlagene Pushes verändern den Duplikatspeicher nicht. `data/latest.json` dokumentiert den letzten Lauf. Die Entfernung wird über OpenStreetMap Nominatim berechnet. Die Preisberechnung bleibt eine reproduzierbare Schätzung aus datierten Marktpreisen, Ausstattung, geschätztem Plattformalter, Zustand und ausgewiesener Garantie, kein verbindliches Händlerangebot.
 
 ## Lokal
 
