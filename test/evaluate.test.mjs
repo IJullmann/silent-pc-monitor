@@ -87,3 +87,9 @@ test('allows a suitable PC without a drive as B and budgets an SSD', () => {
   assert.equal(item.upgradeCost, 70);
   assert.ok(item.recommendedUpgrades.includes('1-TB-SSD/NVMe: ca. 70 €'));
 });
+test('parses branded RAM wording from the Silentmaxx offer', () => {
+  const item = evaluateAd({ active: true, source: 'Kleinanzeigen', title: 'Silentmaxx 0dB PC Ryzen 7 GTX 1660', description: 'Ryzen 7 5700X, GTX 1660, 16 GB Corsair DDR4-3000 RAM, 2x Samsung 980 Pro 1 TB M.2 NVMe SSD, 3 Monitore, komplett lautlos', price: 650, distanceKm: 207, url: 'x' });
+  assert.equal(item.ramGb, 16);
+  assert.equal(item.classification, 'B');
+  assert.deepEqual(item.openQuestions, ['TPM 2.0 und UEFI/Secure Boot bestätigen']);
+});
