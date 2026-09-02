@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T11:44:12.315Z",
+  "checkedAt": "2026-09-02T11:24:07.539Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -112,6 +112,52 @@
   ],
   "results": [
     {
+      "id": "Kleinanzeigen:3489585381-228-2163",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-0db-lautloser-gaming-pc-ryzen-7-gtx-1660-16-gb-r/3489585381-228-2163",
+      "title": "Silentmaxx 0dB lautloser Gaming PC | Ryzen 7 | GTX 1660 | 16 GB R",
+      "description": "Beschreibung\n\nVerkaufe meinen hochwertigen PC von Silentmaxx G-590A. Der PC wurde 2023 direkt bei Silentmaxx neu konfiguriert und speziell für einen komplett lautlosen (!) Betrieb gebaut.\nEs gibt zwei Lüfter, welche aber nur unter sehr hoher Last im Notfall einspringen. Das Gerät macht also gar keine Geräusche.\n\nDie GTX 1660 wurde hierfür professionell von Silentmaxx lautlos modifiziert.\n\nAusstattung:\n\n- AMD Ryzen 7 5700X (8 Kerne / 16 Threads, bis 4,6 GHz)\n- Gigabyte B550 AORUS Elite V2 Mainboard\n- Gigabyte GeForce GTX 1660 mit 6 GB\n- Professionell modifizierte Silentmaxx-Grafikkartenkühlung\n- 16 GB Corsair DDR4-3000 RAM (2× 8 GB)\n- 2× Samsung 980 Pro 1 TB M.2 NVMe SSD\n- SSDs als RAID 1 eingerichtet\n- Silentmaxx FHPCS Passivkühlung für die CPU\n- Silentmaxx passives 500-Watt-Platinum-Netzteil\n- Silentmaxx ST-360 Tower\n- Onboard HD-Audio\n- 2.5-Gbit-LAN\n- HDMI und DisplayPort\n- zahlreiche USB-Anschlüsse\n\n100 % lautloses Konzept\n\n\nDer Ryzen 7 5700X bietet mit 8 Kernen sehr viel Leistung für Office, Entwicklung, Multitasking, Bildbearbeitung und andere anspruchsvollere Anwendungen. Mit der GTX 1660 6 GB eignet sich der Rechner außerdem für viele Spiele.\n\nDie beiden Samsung 980 Pro SSDs sind als RAID 1 eingerichtet. Dabei werden die Daten auf beiden SSDs gespiegelt, sodass bei der aktuellen Konfiguration rund 1 TB nutzbarer Speicherplatz zur Verfügung steht. Man kann aber auch ohne Raid mit 2TB nutzbarem Speicher arbeiten.\n\nMir hat der PC sehr lange gut gehalten und ich würde ihn auch immer noch nutzen, bin aber für einen neuen Job auf Macbook umgestiegen. Top Gerät!\n\nDer Rechner funktioniert einwandfrei und kann bei Abholung selbstverständlich getestet werden. Abholung bevorzugt.\n\nNeupreis 2023: ca. 1.800 €\n\nPrivatverkauf unter Ausschluss von Garantie, Gewährleistung und Rücknahme.",
+      "location": "33102 Nordrhein-Westfalen - Paderborn",
+      "distanceKm": 207,
+      "active": true,
+      "price": 650,
+      "condition": "gebraucht",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "Silentmaxx 0dB lautloser Gaming PC | Ryzen 7 | GTX 1660 | 16 GB R",
+      "cpu": "Ryzen 7 5700X",
+      "cpuVideoSuitability": "Ryzen 5 3600/5600G oder besser; H.264/H.265: Hardware-Decoding über GPU",
+      "windows11Suitability": "CPU-Klasse offiziell geeignet; 16 GB RAM; 1000 GB SSD/NVMe; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "GTX 1660",
+      "ramGb": 16,
+      "storage": "1 TB M.2",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 45 €"
+      ],
+      "upgradeCost": 45,
+      "silentConcept": "Silentmaxx-System (bevorzugt)",
+      "displaySuitability": "GTX 1660; üblicherweise 3+ gleichzeitige Displays, Anschlüsse vor Kauf prüfen",
+      "replacementNewPrice": 1120,
+      "comparisonPrice": 540,
+      "estimatedAge": 5,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": -110,
+      "savings": -155,
+      "score": 6.6,
+      "classification": "B",
+      "openQuestions": [
+        "TPM 2.0 und UEFI/Secure Boot bestätigen"
+      ],
+      "matches": false,
+      "priceLabel": "650 €"
+    },
+    {
       "id": "Kleinanzeigen:3457675143-228-5372",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/lautloser-silentmaxx-pc-i7-4770-8gb-ram-blu-ray/3457675143-228-5372",
@@ -161,6 +207,56 @@
       ],
       "matches": false,
       "priceLabel": "149 €"
+    },
+    {
+      "id": "Kleinanzeigen:3274218764-228-8390",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-pc-gehaeuse-sehr-leise-luefter-passive-grafik-ssd/3274218764-228-8390",
+      "title": "SilentMaxx PC Gehäuse, sehr leise Lüfter passive Grafik, SSD",
+      "description": "Beschreibung\n\nVerkaufe hier aus Zeitmangel meinen alten PC.\n\nDer PC ist nur wenig gelaufen in den letzten Jahren.\nAlso fast noch neuwertig.\n\nEs geht in dem Angebot hauptsächlich um das hochwertige extrem gedämpfte Gehäuse.\nDer Rest ist quasi also Bonus dabei\n\nSehr hochwertiges und extrem gedämpftes Gehäuse von SilentMaxx.\nNeupreis nur fürs Gehäuse 240 Euro.\n\nSuper Kühler für CPU und Festplatten\nAlles was geht wird passiv gekühlt.\nAuch die Grafikkarte.\n\nDer PC ist wenn er unter dem Tisch steht auch unter voll last nahezu nicht zu hören.\nDie Bilder der extrem dicken Dämmung sprechen für sich allein.\nDie Lüfter sind über eine Steuerung perfekt eingeregelt. Und die Temperatur können hinter der Frontabdeckung direkt abgelesen werden.\n\n2 Kern CPU kann jederzeit für ein paar Euro gegen eine noch größere ausgetauscht werden.\n4GB doppel DUAL RAM mit Kühler\nMainboard mit extrem übertaktbarer Range\n120GB SSD Systemplatte\nWeitere Daten bitte dem Bildern entnehmen.\nDanke\n\nDer PC ist extrem schwer und mit den Einbauteilen nicht einfach zu versenden.\nDaher nur Abholung.\n\nAlles bereits mit Windows 10 Pro vorinstalliert und getestet.\nEs kann direkt losgehen.\n\nVerkaufe von Privat\n\n- Wenn online dann verfügbar, bitte nicht nachfragen!\n- \"gib mir letzte Preis\", tauschen und so ein Kram wird nicht beantwortet\n- tier- und rauchfreier Haushalt\n- Keine Abgabe von gefährlichen Gegenständen an minderjährige.\n- eher Abholung, bitte keine Angebote via eBay-Kleinanz. senden\n- Wir unterstützen die neuen Richtlinien von OPP (externer Bezahldienstleister kleinanzeigen) nicht, daher nut bezahlen: Bar bei Abholung, Überweisung, PayPal friends.\n- Werbe-Nachrichten, Spam, und Phishing wird konsequent zur Anzeige gebracht, gemeldet und blockiert.\n\nHinweis: Bei diesem Verkauf handelt es sich ausschließlich um einen gebrauchten Privatverkauf unter Ausschluss jeglicher Gewährleistung und Sachmängelhaftung, wie auch das 14-tägige Rückgaberecht o. Kaufrücktritt. Alle Fragen bitte vorher stellen.",
+      "location": "73240 Baden-Württemberg - Wendlingen am Neckar",
+      "distanceKm": 144,
+      "active": true,
+      "price": 50,
+      "condition": "Sehr Gut",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "SilentMaxx PC Gehäuse, sehr leise Lüfter passive Grafik, SSD",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 4,
+      "storage": "120 GB SSD",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 130,
+      "silentConcept": "Silentmaxx-System (bevorzugt)",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 360,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 310,
+      "savings": 180,
+      "score": 4.7,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "50 €"
     },
     {
       "id": "Kleinanzeigen:3005776700-228-9109",
@@ -264,6 +360,55 @@
       "priceLabel": "120 €"
     },
     {
+      "id": "Kleinanzeigen:3498354522-228-1556",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/streacom-fanless-ultra-silent-pc-i3-8100-16gb-2x-250gb-ssd/3498354522-228-1556",
+      "title": "Streacom Fanless Ultra Silent PC, I3- 8100, 16GB, 2x 250GB SSD",
+      "description": "Beschreibung\n\nStreacom Fanless Silent PC.\n\n- Intel i3-8100 CPU\n- 16GB Ram\n- ASRock Mainboard\n- 2x Samsung 250GB SSD\n- Display-Port, HDMI, Wlan, BT, Ethernet\n- Win 11 Pro installiert, Originallizenz und voll updatefähig durch TPM.\n-Logitech K400+ Tastatur\n\nDas besondere bei diesem PC ist, dass die CPU und integrierte GPU über die Heatpipes direkt mit dem massiven Aluminiumgehäuse verbunden sind, was als vollwertig ausgelegte Wärmeabfuhr dient. Dadurch macht der PC absolut keine Geräusche, was unglaublich angenehm zur Konzentration ist - oder als Media PC im Wohnzimmer sehr angenehm ist.\n\nIch habe total gerne auf ihm gearbeitet, bin allerdings mittlerweile so im Apple Ecosystem verwurzelt, dass er für meinen Workflow nicht mehr passend ist.\n\nSelbstabholung in Sprockhövel. Versand auf Anfrage.\n\nDer Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Die Haftung auf Schadensersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt davon unberührt.",
+      "location": "45549 Nordrhein-Westfalen - Sprockhövel",
+      "distanceKm": 190,
+      "active": true,
+      "price": 225,
+      "condition": "Sehr Gut",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "Streacom Fanless Ultra Silent PC, I3- 8100, 16GB, 2x 250GB SSD",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; 16 GB RAM; mindestens 256 GB SSD/NVMe nötig; Windows 11/TPM/UEFI belegt",
+      "gpu": "nicht angegeben",
+      "ramGb": 16,
+      "storage": "250 GB SSD",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 45 €",
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 105,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 310,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 85,
+      "savings": -20,
+      "score": 3.7,
+      "classification": null,
+      "openQuestions": [
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "225 €"
+    },
+    {
       "id": "Kleinanzeigen:3482091558-228-2066",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/minisforum-mini-pc-z83-f-fanless-4gb-ram-client-nas-stream-board/3482091558-228-2066",
@@ -273,7 +418,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": ". Das...",
+      "condition": ". Inklusive Stromkabel. ** Technische Daten: -...",
       "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -575,7 +720,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": ". Das Gerät wurde...",
+      "condition": "Ich biete hier mehrere HP Prodesk 400 G3 Mini PCs an. Diese kompakten Geräte sind ideal für Büro...",
       "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -764,6 +909,107 @@
       "priceLabel": "280 €"
     },
     {
+      "id": "Kleinanzeigen:3484969953-228-5787",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/smarthome-server-pc-luefterlos-homeassistant-hutschine/3484969953-228-5787",
+      "title": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
+      "description": "Beschreibung\n\nIch biete hier einen kompakten und extrem energieeffizienten Siemens Simatic IPC 227E Nanobox PC an, der bisher als zuverlässige SmartHome-Zentrale gedient hat. Das Gerät eignet sich hervorragend für Projekte wie die Installation von Umbrel OS.\n\n- Modell: Siemens Simatic IPC 227E\n- Bauweise: Kompakter, lüfterloser Nanobox PC\n- Inklusive: Intel SSD und umgebauten Netzteil auf standard Schuko\n- Zustand: Voll funktionsfähig\n\nDer Industrie-PC ist sehr robust gebaut und bietet durch die lüfterlose Kühlung einen lautlosen Betrieb, was ihn ideal für den Dauerbetrieb zu Hause macht. Er wird lediglich aufgrund einer Umstrukturierung meines gesamten SmartHome-Systems abgegeben.\n\nBei Interesse oder weiteren Fragen schreib mir gerne eine Nachricht.\n\nBarzahlung bei Abholung. Oder versand bei Paypal Freunde Zahlung.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung, also keine Gewährleistung und keine Rücknahme. Zudem keine Garantie",
+      "location": "92263 Bayern - Ebermannsdorf",
+      "distanceKm": 247,
+      "active": true,
+      "price": 200,
+      "condition": "Gut",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 30,
+      "savings": -40,
+      "score": 2,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "200 €"
+    },
+    {
+      "id": "Kleinanzeigen:3482939792-228-5790",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/shuttle-xs-35v4-luefterloser-1-liter-pc-fuer-den-dauerbetrieb/3482939792-228-5790",
+      "title": "Shuttle XS 35V4 Lüfterloser 1-Liter-PC für den Dauerbetrieb",
+      "description": "Beschreibung\n\nDer Einschaltknopf ist abgenutzt (Bild 5), ansonsten konnte ich keine Schönheitsfehler festellen.\n\nAusstattung:\n\n- optisches Slimline Laufwerk\n\n- KVR16LS11/8 8GB RAM\n\n- Gigabit-LAN, WLAN Modul\n\nEine Festplatte ist nicht in diesem Angebot enthalten.\n\nEin wirklich allumfassende Beschreibung des Geräts liefert der Hersteller:\nhttps://archive.shuttle.eu/2020/www1.shuttle.eu/fileadmin/resources/download/docs/spec/barebones/XS35V4_d.pdf\n\nVersand und Paypal Freunde ist möglich.\n\nBei Fragen können Sie sich gerne melden.\n\nDer Verkauf erfolgt unter Ausschluss der Sachmängelhaftung.",
+      "location": "92224 Bayern - Amberg",
+      "distanceKm": 235,
+      "active": true,
+      "price": 40,
+      "condition": "Gut",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "Shuttle XS 35V4 Lüfterloser 1-Liter-PC für den Dauerbetrieb",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 8,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 140,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 190,
+      "savings": 50,
+      "score": 2.2,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "40 €"
+    },
+    {
       "id": "Kleinanzeigen:3479569202-228-8752",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/luefterloser-industrie-pc-nise-106-n3160-novabox-9-30v-dc/3479569202-228-8752",
@@ -772,7 +1018,7 @@
       "location": "69427 Baden-Württemberg - Mudau",
       "distanceKm": 53,
       "active": true,
-      "price": 200,
+      "price": 170,
       "condition": "Sehr Gut",
       "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Lüfterloser Industrie-PC NISE 106-N3160 (Novabox) 9-30V DC",
@@ -800,8 +1046,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 110,
-      "savings": -30,
+      "savingsBeforeUpgrades": 140,
+      "savings": 0,
       "score": 3.3,
       "classification": null,
       "openQuestions": [
@@ -811,7 +1057,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "200 €"
+      "priceLabel": "170 €"
     },
     {
       "id": "Kleinanzeigen:3467558142-228-1474",
@@ -1063,56 +1309,6 @@
       "priceLabel": "100 €"
     },
     {
-      "id": "Kleinanzeigen:1961169871-228-20790",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/all-in-one-pc-emachines-ez1601-mit-ssd-luefterlos-lautlos-0-db/1961169871-228-20790",
-      "title": "All-in-One PC eMachines EZ1601 mit SSD, lüfterlos / lautlos 0 dB",
-      "description": "Beschreibung\n\nAll-in-One PC eMachines EZ1601 mit SSD + lüfterlos 0dB\nDisplay 18,5\" matt / entspiegelt\nCPU Intel Atom N270\nRAM 2 GB\nSSD 120 GB Kingston\nDVD-Brenner Laufwerk\nSD-CardReader, LAN, WLAN\nNetzteil extern\n\nEs ist Linux Mint installiert.\n\nDas Gerät ist in einem äußerlich neuwertigen Zustand und hat fast keine Gebrauchsspuren, es sind noch die Schutzfolien vorhanden. Es stammt aus einer Haushaltsauflösung, wurde nur weinig genutzt, da es als Reservegerät für spezielle Einsätze angeschafft wurde.\nIch habe es selbst nicht in Benutzung gehabt, und kann zur \"Geschichte\" des Gerätes keine Angaben machen.\n\nFestpreis 99.- EUR, bitte keine Preisverhandlungs-Anfragen !\n\nPrivatverkauf ohne Garantie / ohne Gewährleistung und ohne Rücknahme.\nKaufen Sie bitte nur, wenn Sie damit einverstanden sind und dies akzeptieren !\n\nAbholung in 71579 Spiegelberg oder\nVersand mit Sendungsverfolgung 8.- EUR\n\nBei Fragen bitte am besten erst anrufen !\n( Emails erreichen mich nicht zeitnah ).\ntagsüber: 07194 - 95 45 804",
-      "location": "71579 Baden-Württemberg - Spiegelberg",
-      "distanceKm": 109,
-      "active": true,
-      "price": 99,
-      "condition": "und hat fast keine Gebrauchsspuren, es sind noch die Schutzfolien vorhanden. Es stammt aus einer Haushaltsauflösung, wurde nur weinig genutzt, da es als Reservegerät für spezielle Einsätze angeschafft wurde.",
-      "sellerRating": "Zufriedenheit",
-      "manufacturerModel": "All-in-One PC eMachines EZ1601 mit SSD, lüfterlos / lautlos 0 dB",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": 2,
-      "storage": "2 GB SSD",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 70 €",
-        "SSD/NVMe auf 1 TB: ca. 60 €"
-      ],
-      "upgradeCost": 130,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 360,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 261,
-      "savings": 131,
-      "score": 3.9,
-      "classification": null,
-      "openQuestions": [
-        "RAM-Aufrüstung nötig (2 GB vorhanden)",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "99 €"
-    },
-    {
       "id": "Kleinanzeigen:3498425496-228-6891",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/edler-home-theater-pc-aluminium-extra-leise-32-gb-2-tb-ovp/3498425496-228-6891",
@@ -1166,7 +1362,7 @@
       "source": "eBay",
       "url": "https://www.ebay.de/itm/327333761368",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 0b10587d-9522-4ad6-b8c7-cacd44ab7db1",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 2aec572c-92f7-4027-a1ad-c24806768bb2",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
