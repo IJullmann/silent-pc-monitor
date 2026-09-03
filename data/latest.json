@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-02T11:24:07.539Z",
+  "checkedAt": "2026-09-03T11:21:02.241Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -111,6 +111,56 @@
     }
   ],
   "results": [
+    {
+      "id": "Kleinanzeigen:3501758775-228-1023",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/pc-tower-silentmaxx-st-11-pro/3501758775-228-1023",
+      "title": "PC Tower SilentMaxx ST-11 Pro",
+      "description": "Beschreibung\n\nTower von Silentmaxx\ngedämmt\nabschließbar\ninkl. Unterlagen\nund allen Teilen wie auf den Fotos\nZustand gut, Nichtraucher\nAbgabe wegen neuem PC\n\nNur Abholung",
+      "location": "58453 Nordrhein-Westfalen - Witten",
+      "distanceKm": 195,
+      "active": true,
+      "price": 40,
+      "condition": "gut, Nichtraucher",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "SilentMaxx PC Tower  ST-11 Pro",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "Silentmaxx-System (bevorzugt)",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 360,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 320,
+      "savings": 250,
+      "score": 4.3,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "40 €"
+    },
     {
       "id": "Kleinanzeigen:3489585381-228-2163",
       "source": "Kleinanzeigen",
@@ -418,7 +468,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": ". Inklusive Stromkabel. ** Technische Daten: -...",
+      "condition": "Verkaufe...",
       "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -720,7 +770,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": "Ich biete hier mehrere HP Prodesk 400 G3 Mini PCs an. Diese kompakten Geräte sind ideal für Büro...",
+      "condition": "gebraucht",
       "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -759,6 +809,56 @@
       ],
       "matches": false,
       "priceLabel": "250 €"
+    },
+    {
+      "id": "Kleinanzeigen:3501306129-228-4923",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/luefterlose-pc-i3-8100t-pc-industrial-motherboard-asus-prime-h310t/3501306129-228-4923",
+      "title": "Lüfterlose PC i3-8100T PC Industrial Motherboard Asus Prime H310T",
+      "description": "Beschreibung\n\nAsus PRIME H310T R2.0 Motherboard Intel H310 DDR4 32 GB unterstützt Intel für Core-CPU der 9./8. Generation USB 3.1 HDMI Mini ITX.\n\nASUS PRIME H310T R2.0 -DDR4 SODIMM -miniITX - Sockel 1151 Mainbaord CPU Intel I3\n\n\nZum Verkauf steht ein PC 13 8.gen mit 3,10 GHZ\n\nMarke Asus\nModell prime-h310t-r2-0 incl Slot Blende\n\nCPU Intel\nModell I3 8100T\n\nArbeitsspeicher 16 GB\nModell DDR4-2666 SODIMM\n\nFestplatte 256 GB M-Sata\n\n\nHardware vollfuntionsfähig\n\n\n",
+      "location": "34127 Hessen - Kassel",
+      "distanceKm": 173,
+      "active": true,
+      "price": 440,
+      "condition": "Sehr Gut",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "Lüfterlose PC i3-8100T PC Industrial Motherboard Asus Prime H310T",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; 16 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 16,
+      "storage": "nicht angegeben",
+      "upgradeable": true,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 45 €",
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 115,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 310,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": -130,
+      "savings": -245,
+      "score": 2.6,
+      "classification": null,
+      "openQuestions": [
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "440 €"
     },
     {
       "id": "Kleinanzeigen:3500070822-228-3753",
@@ -1208,56 +1308,6 @@
       "priceLabel": "219 €"
     },
     {
-      "id": "Kleinanzeigen:3390754296-228-23004",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/2x-shuttle-xs36v-mini-pc-ssd-luefterlos/3390754296-228-23004",
-      "title": "2x Shuttle XS36V Mini-PC – SSD – lüfterlos",
-      "description": "Beschreibung\n\nIch verkaufe zwei kompakte und lautlose Mini-PCs vom Typ Shuttle XS36V.\n\nDie Geräte stammen aus einer Insolvenzversteigerung und wurden von mir geprüft – sie starten einwandfrei und sind sofort einsatzbereit.\n\nTechnische Daten:\n\nIntel Atom D2550 Prozessor\n\n4 GB RAM\n\nca. 60 GB SSD (kein langsamer HDD-Betrieb)\n\nWindows 7 Professional installiert\n\nlüfterlos (sehr leise)\n\nZustand:Gebraucht, mit normalen Gebrauchsspuren, technisch funktionsfähig.\n\nLieferumfang:\n\n2 Geräte insgesamt\n\nKein Netzteil vorhanden\n\n2 Wand-/VESA-Halterungen vorhanden\n\nPreis:\n\nKomplett (mit Halterung): 40,- €\n\nVersand:Versicherter Versand möglich (zzgl. Versandkosten).Bei beiden Geräten kombiniere ich den Versand.\n\nHinweis:Privatverkauf. Der Verkauf erfolgt unter Ausschluss jeglicher Gewährleistung, Garantie und Rücknahme.",
-      "location": "55595 Rheinland-Pfalz - Bockenau",
-      "distanceKm": 70,
-      "active": true,
-      "price": 40,
-      "condition": "Sehr Gut",
-      "sellerRating": "Zufriedenheit",
-      "manufacturerModel": "2x Shuttle XS36V Mini-PC – SSD – lüfterlos",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": 4,
-      "storage": "60 GB SSD",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 70 €",
-        "SSD/NVMe auf 1 TB: ca. 60 €"
-      ],
-      "upgradeCost": 130,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 310,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 270,
-      "savings": 140,
-      "score": 4.2,
-      "classification": null,
-      "openQuestions": [
-        "RAM-Aufrüstung nötig (4 GB vorhanden)",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "40 €"
-    },
-    {
       "id": "Kleinanzeigen:3107141527-228-1926",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/giada-intel-n3450-quad-1-1-ghz-luefterloser-mini-pc/3107141527-228-1926",
@@ -1309,15 +1359,65 @@
       "priceLabel": "100 €"
     },
     {
-      "id": "Kleinanzeigen:3498425496-228-6891",
+      "id": "Kleinanzeigen:3501908983-228-2012",
       "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/edler-home-theater-pc-aluminium-extra-leise-32-gb-2-tb-ovp/3498425496-228-6891",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/fsp-300w-pc-netzteil-fsp300-60gtm-zuverlaessig-leise/3501908983-228-2012",
+      "title": "FSP 300W PC Netzteil - FSP300-60GTM - Zuverlässig & Leise",
+      "description": "Beschreibung\n\nHallo Zusammen,\n​ich verkaufe hier ein voll funktionsfähiges 300-Watt-Netzteil von FSP Group (Model: FSP300-60GTM). Ideal für Office-PCs, Ersatzteile oder kleine Heim-Setup-Projekte.\n​Details:\n​Hersteller: FSP Group / Fortron\n​Modell: FSP300-60GTM\n​Leistung: 300 Watt Max\n​Features: Passive PFC, Noise Killer (sehr leise)\n​Zustand: Gebraucht, voll funktionsfähig\n​Preis: 12 € Festpreis / VB\n​Abholung in Hagen bevorzugt. Versand bei Kostenübernahme möglich.\n​Privatverkauf: Keine Garantie, Gewährleistung oder Rücknahme.",
+      "location": "58091 Nordrhein-Westfalen - Hagen",
+      "distanceKm": 179,
+      "active": true,
+      "price": 12,
+      "condition": "Gut",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "FSP 300W PC Netzteil - FSP300-60GTM - Zuverlässig & Leise",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "nicht nachgewiesen",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 670,
+      "comparisonPrice": 80,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 68,
+      "savings": -2,
+      "score": 0,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "12 €"
+    },
+    {
+      "id": "Kleinanzeigen:3501826799-228-6891",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/edler-home-theater-pc-aluminium-extra-leise-32-gb-2-tb-ovp/3501826799-228-6891",
       "title": "Edler Home Theater PC Aluminium | Extra leise | 32 GB | 2 TB |OVP",
       "description": "Beschreibung\n\nVerkaufe sehr gepflegten und mit extra leisen Lüftern ausgestatteten Home Theater PC im edlem HiFi-Aluminiumgehäuse (Neupreis Gehäuse bereits 650 EUR) - passt optisch gut Aluminium-Soundanlagen.\nDer Zustand des Gehäuses ist sehr gut - siehe auch Bilder.\nDas Gehäuse hat auch einen kleinen Touchscreen mit VGA-Anschluss - kann mit VGA-Ausgang an Grafikkarte angesteuert werden.\n\nFolgende Komponenten sind inkludiert:\n\nProzessor: AMD Ryzen 5 PRO 4400G\nMainboard: ASUS ROG STRIX B550-F GAMING (WI-FI)\nGrafik: AMD Radeon Vega 512 MB\nRAM: 32 GB DDR4 SDRAM (2x 16 GB / weitere 2 Steckplätze frei)\nSSD: Crucial MX500 2 TB\nBlueray/DVD-Brenner: HL-DT-ST BD-RE BH10LS38\n-> liest und brennt folgende Formate: CD-R, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL, BD\n\nDer PC kann natürlich von dir beliebig aufgerüstet werden, z.B. durch mehr RAM oder weitere SSDs.\nWird in Originalverpackung geliefert.\n\nDas gute Stück kann gerne in Bamberg abgeholt werden.\nVersand aber auch möglich.\nTierfreier Nichtraucherhaushalt.\nKein Umtausch, keine Rücknahme - da Privatverkauf.",
       "location": "96050 Bayern - Bamberg",
       "distanceKm": 163,
       "active": true,
-      "price": 399,
+      "price": 350,
       "condition": "Sehr Gut",
       "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Edler Home Theater PC Aluminium | Extra leise | 32 GB | 2 TB |OVP",
@@ -1344,8 +1444,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": -99,
-      "savings": -169,
+      "savingsBeforeUpgrades": -50,
+      "savings": -120,
       "score": 1.3,
       "classification": null,
       "openQuestions": [
@@ -1355,14 +1455,14 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "399 €"
+      "priceLabel": "350 €"
     },
     {
       "id": "eBay:327333761368",
       "source": "eBay",
       "url": "https://www.ebay.de/itm/327333761368",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 2aec572c-92f7-4027-a1ad-c24806768bb2",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: d687ef0c-9b4e-444c-a76d-dec3ebcfada4",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
