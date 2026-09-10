@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T11:29:51.251Z",
+  "checkedAt": "2026-09-10T11:25:56.120Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -220,7 +220,7 @@
       "active": true,
       "price": 149,
       "condition": "Sehr Gut",
-      "sellerRating": "nicht verfügbar",
+      "sellerRating": "OK Zufriedenheit",
       "manufacturerModel": "Silentmaxx Lautloser  PC i7-4770, 8GB RAM, Blu-ray",
       "cpu": "Core i7-4770",
       "cpuVideoSuitability": "Intel Core unter i5/10. Generation; H.264/H.265: nicht belegt",
@@ -611,6 +611,56 @@
       "priceLabel": "225 €"
     },
     {
+      "id": "Kleinanzeigen:3480534494-228-390",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/minisforum-n40-fanless-mini-pc-mit-zubehoer/3480534494-228-390",
+      "title": "Minisforum N40 Fanless Mini PC mit Zubehör",
+      "description": "Beschreibung\n\nIch biete hier meinen kompakten Minisforum N40 Mini PC an, der sich durch sein lautloses, lüfterloses Design auszeichnet. Das Set kommt mit allem, was du für den sofortigen Start benötigst.\n\n- Modell: Minisforum N40 Fanless Mini PC\n- Inklusive Originalverpackung\n- Mit passendem Netzteil\n- Inklusive Halterung zur Montage\n- Zusätzliche Webcam enthalten\n- Kompaktes und platzsparendes Gehäuse\n\nDas Gerät ist ideal für einfache Büroanwendungen oder als Mediaplayer geeignet. Es befindet sich in einem sehr gepflegten Zustand und funktioniert einwandfrei. Alle Zubehörteile sind vollständig vorhanden und sofort einsatzbereit.\n\nSchreib mir einfach, wenn du Fragen hast.",
+      "location": "66125 Saarbrücken-Dudweiler - Dudweiler",
+      "distanceKm": 134,
+      "active": true,
+      "price": 90,
+      "condition": "Sehr Gut",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Minisforum N40 Fanless Mini PC mit Zubehör",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 310,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 220,
+      "savings": 150,
+      "score": 3.9,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "90 €"
+    },
+    {
       "id": "Kleinanzeigen:3469305112-228-6801",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/shuttle-xpc-slim-ds10u-1-3-liter-mini-fanless-luefterlos-leise-pc/3469305112-228-6801",
@@ -772,7 +822,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": ". Geprüft. Rechnung inkl. ausgewiesener Mehrwertsteuer. Alle unsere Geräte und...",
+      "condition": "refurbished",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -790,7 +840,7 @@
       "silentConcept": "passiv/lüfterlos",
       "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
       "replacementNewPrice": 870,
-      "comparisonPrice": 230,
+      "comparisonPrice": 290,
       "estimatedAge": 6,
       "warrantyMonths": 0,
       "priceBasisDate": "2026-08-23",
@@ -799,8 +849,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": -20,
-      "savings": -125,
+      "savingsBeforeUpgrades": 40,
+      "savings": -65,
       "score": 3.7,
       "classification": null,
       "openQuestions": [
@@ -1160,56 +1210,6 @@
       "priceLabel": "99 €"
     },
     {
-      "id": "Kleinanzeigen:3494747382-228-16862",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/advantech-ark-1220l-kompakter-luefterloser-embedded-pc-un/3494747382-228-16862",
-      "title": "Advantech ARK-1220L – Kompakter Lüfterloser Embedded PC (Un",
-      "description": "Beschreibung\n\nVerkaufe einen neuwertigen und unbenutzten Embedded-PC Advantech ARK-1220L inklusive passendem Netzteil. Das Gerät stammt aus einer Firmeninsolvenz, wurde nie eingesetzt und befindet sich in einwandfreiem optischen sowie technischen Zustand.\nHighlights & Technische Daten:\nProzessor: Intel Atom x5-E3940 Quad-Core (bis zu 1,8 GHz)\nKühlung: Passiv / Lüfterlos (völlig lautlos, wartungsfrei und staubgeschützt)\nArbeitsspeicher: DDR3L RAM (erweiterbar)\nSchnittstellen:\n2x GbE LAN (RJ-45)\n2x RS-232/422/485 (Serielle Schnittstellen)\n4x USB 3.0\nHDMI (Unterstützung für 4K-Displays)\nGehäuse: Robustes Aluminium-Kompaktgehäuse für DIN-Schienen- oder Wandmontage\nStromversorgung: Breiter Spannungseingang (12–28 V DC) – passendes Netzteil liegt bei!\nIdeal geeignet für Industrial IoT, Automatisierungstechnik, Digital Signage, Home Assistant oder als ausfallsicherer Micro-Server.\nLieferumfang:\nAdvantech ARK-1220L\nPassendes Netzteil",
-      "location": "66123 Saarbrücken - Saarbrücken-Mitte",
-      "distanceKm": 136,
-      "active": true,
-      "price": 280,
-      "condition": ".",
-      "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Advantech ARK-1220L – Kompakter Lüfterloser Embedded PC (Un",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": null,
-      "storage": "nicht angegeben",
-      "upgradeable": true,
-      "recommendedUpgrades": [
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 70,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 360,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 80,
-      "savings": 10,
-      "score": 2.1,
-      "classification": null,
-      "openQuestions": [
-        "RAM nicht angegeben",
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "280 €"
-    },
-    {
       "id": "Kleinanzeigen:3484969953-228-5787",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/smarthome-server-pc-luefterlos-homeassistant-hutschine/3484969953-228-5787",
@@ -1507,11 +1507,11 @@
       "priceLabel": "269 €"
     },
     {
-      "id": "eBay:267771379774",
+      "id": "eBay:267780711023",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/267771379774",
+      "url": "https://www.ebay.de/itm/267780711023",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: dcd7f11b-6ee7-4558-8305-3b2604f9147a",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 2f86f5b3-2589-410c-be78-4aba5ea46f7c",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
