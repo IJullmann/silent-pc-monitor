@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-19T11:05:06.458Z",
+  "checkedAt": "2026-09-20T11:30:46.828Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -112,6 +112,55 @@
   ],
   "results": [
     {
+      "id": "Kleinanzeigen:3517046965-228-1516",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-kenko-fanless-mini-pc-i5-14500t-16-gb-ram-/3517046965-228-1516",
+      "title": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
+      "description": "Beschreibung\n\nsilentmaxx KENKO Fanless Mini-PC | i5-14500T | 16 GB RAM | 1 TB Samsung NVMe | lüfterlos\nPreis: 679 € VB\n\nZum Verkauf steht ein hochwertiger silentmaxx KENKO Fanless Mini BS in neuwertigem Zustand.\n\nDer PC ist technisch zu 100 % funktionsfähig und arbeitet dank seines passiv gekühlten Aluminiumgehäuses komplett ohne CPU-/Gehäuselüfter. Damit eignet er sich besonders für Arbeitsplätze, Homeoffice, Büro, Audio-/Musikanwendungen oder andere Einsatzbereiche, bei denen ein möglichst geräuschloser Rechner gewünscht ist.\n\nTechnische Ausstattung:\n\nIntel Core i5-14500T\n14 Kerne / 20 Threads\n6 Performance-Kerne + 8 Efficiency-Kerne\nIntel UHD Graphics 770\nenergieeffiziente T-Serie\n\n16 GB DDR4-3200 RAM\n2 × 8 GB Crucial SO-DIMM\n\n1 TB Samsung 980 NVMe SSD\nPCIe 3.0 x4\nbis zu 3.500 MB/s Lesen / 3.000 MB/s Schreiben\n\nASUS Prime H610T-CSM Mini-ITX Mainboard\nIntel H610 Chipsatz\nHDMI\nDisplayPort 1.4\nGigabit-LAN\nUSB 3.2\nHD-Audio\n\nsilentmaxx Fanless Aluminiumgehäuse\npassive Kühlung ohne Lüfter\n\nexternes 120-Watt-Netzteil\n\nDer Rechner wurde im März 2024 bei silentmaxx / silent systems GmbH gekauft. Der damalige Rechnungsbetrag betrug 1.031,89 €.\n\nDer PC befindet sich in neuwertigem Zustand und funktioniert technisch einwandfrei.\n\nBesonders interessant ist das Gerät für Käufer, die einen leistungsfähigen und gleichzeitig lüfterlosen PC suchen. Durch den Core i5-14500T mit 14 Kernen bietet er deutlich mehr Rechenleistung als viele typische Mini-PCs, bleibt dabei aber sehr kompakt und auf einen geräuscharmen Betrieb ausgelegt.\n\nPreisvorstellung: 450 € VB\n\nBei ernsthaftem Interesse gerne melden.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung.",
+      "location": "42781 Nordrhein-Westfalen - Haan",
+      "distanceKm": 188,
+      "active": true,
+      "price": 450,
+      "condition": "Sehr Gut",
+      "sellerRating": "Zufriedenheit",
+      "manufacturerModel": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
+      "cpu": "Core i5-14500T",
+      "cpuVideoSuitability": "Intel Core i5, Generation 14; H.264/H.265: Hardware-Decoding über iGPU",
+      "windows11Suitability": "CPU-Klasse offiziell geeignet; 16 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "Intel UHD Graphics 770",
+      "ramGb": 16,
+      "storage": "nicht angegeben",
+      "upgradeable": true,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 45 €",
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 115,
+      "silentConcept": "Silentmaxx-System (bevorzugt)",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 870,
+      "comparisonPrice": 620,
+      "estimatedAge": 2,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 170,
+      "savings": 55,
+      "score": 3.2,
+      "classification": "B",
+      "openQuestions": [
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "TPM 2.0 und UEFI/Secure Boot bestätigen"
+      ],
+      "matches": false,
+      "priceLabel": "450 €"
+    },
+    {
       "id": "Kleinanzeigen:3509354809-228-4816",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-mini-pc-geraeuschlos-i5-16gb-256-gb-windows-11/3509354809-228-4816",
@@ -122,7 +171,7 @@
       "active": true,
       "price": 165,
       "condition": "Sehr Gut",
-      "sellerRating": "Zufriedenheit",
+      "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Silentmaxx Mini PC geräuschlos * i5 * 16GB * 256 GB * Windows 11",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
@@ -522,7 +571,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": ", funktioniert absolut einwandfrei und stammt...",
+      "condition": ". Durch die kleine...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -873,7 +922,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": "Gerät...",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -922,7 +971,7 @@
       "location": "92263 Bayern - Ebermannsdorf",
       "distanceKm": 247,
       "active": true,
-      "price": 180,
+      "price": 175,
       "condition": "Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
@@ -949,8 +998,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 50,
-      "savings": -20,
+      "savingsBeforeUpgrades": 55,
+      "savings": -15,
       "score": 2,
       "classification": null,
       "openQuestions": [
@@ -961,7 +1010,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "180 €"
+      "priceLabel": "175 €"
     },
     {
       "id": "Kleinanzeigen:3514796355-228-7040",
@@ -972,8 +1021,8 @@
       "location": "86415 Bayern - Mering",
       "distanceKm": 247,
       "active": true,
-      "price": 75,
-      "condition": "gebraucht",
+      "price": 72,
+      "condition": ". Intel Celeron CPU 1.5 GHZ. Speicher 250...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Windows 11",
       "cpu": "nicht angegeben",
@@ -1000,8 +1049,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 235,
-      "savings": 105,
+      "savingsBeforeUpgrades": 238,
+      "savings": 108,
       "score": 3.8,
       "classification": null,
       "openQuestions": [
@@ -1011,7 +1060,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "75 €"
+      "priceLabel": "72 €"
     },
     {
       "id": "Kleinanzeigen:3513223901-228-4908",
@@ -1511,18 +1560,68 @@
       "priceLabel": "150 €"
     },
     {
-      "id": "eBay:177682201343",
+      "id": "Kleinanzeigen:3467558142-228-1474",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/beelink-t34-mini-pc-luefterlos-8gb-ddr3-128gb-ssd/3467558142-228-1474",
+      "title": "Beelink T34 Mini-PC lüfterlos 8GB DDR3/128GB SSD",
+      "description": "Beschreibung\n\nIch biete hier einen Beelink T34 Mini-PC an, der sich perfekt für platzsparende Anwendungen eignet. Dieser lüfterlose Desktop-PC ist ideal für Büroarbeiten, Medienwiedergabe oder als Home-Server.\n\n\nDer Mini-PC ist in einem sehr guten Zustand und funktioniert einwandfrei. Er weist nur minimale Gebrauchsspuren auf.Schreib mir einfach, wenn du Fragen hast.",
+      "location": "35239 Hessen - Steffenberg",
+      "distanceKm": 108,
+      "active": true,
+      "price": 120,
+      "condition": "und funktioniert einwandfrei. Er weist nur minimale Gebrauchsspuren auf.Schreib mir einfach, wenn du Fragen hast.",
+      "sellerRating": "OK Zufriedenheit",
+      "manufacturerModel": "Beelink T34 Mini-PC lüfterlos 8GB DDR3/128GB SSD",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 8,
+      "storage": "128 GB SSD",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 130,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 310,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 190,
+      "savings": 60,
+      "score": 3.2,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "120 €"
+    },
+    {
+      "id": "eBay:267790085781",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/177682201343",
-      "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 9f15149b-e77b-4c1a-8a25-0163fa1c1c79",
+      "url": "https://www.ebay.de/itm/267790085781",
+      "title": "Unbekanntes System",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: fd878e04-637a-4c53-a3a9-2027f084412d",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
       "price": null,
       "condition": "gebraucht",
       "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
+      "manufacturerModel": "Unbekanntes System",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
