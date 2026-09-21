@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-20T11:30:46.828Z",
+  "checkedAt": "2026-09-21T12:55:16.654Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -112,35 +112,34 @@
   ],
   "results": [
     {
-      "id": "Kleinanzeigen:3517046965-228-1516",
+      "id": "Kleinanzeigen:3518603761-228-1916",
       "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-kenko-fanless-mini-pc-i5-14500t-16-gb-ram-/3517046965-228-1516",
-      "title": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
-      "description": "Beschreibung\n\nsilentmaxx KENKO Fanless Mini-PC | i5-14500T | 16 GB RAM | 1 TB Samsung NVMe | lüfterlos\nPreis: 679 € VB\n\nZum Verkauf steht ein hochwertiger silentmaxx KENKO Fanless Mini BS in neuwertigem Zustand.\n\nDer PC ist technisch zu 100 % funktionsfähig und arbeitet dank seines passiv gekühlten Aluminiumgehäuses komplett ohne CPU-/Gehäuselüfter. Damit eignet er sich besonders für Arbeitsplätze, Homeoffice, Büro, Audio-/Musikanwendungen oder andere Einsatzbereiche, bei denen ein möglichst geräuschloser Rechner gewünscht ist.\n\nTechnische Ausstattung:\n\nIntel Core i5-14500T\n14 Kerne / 20 Threads\n6 Performance-Kerne + 8 Efficiency-Kerne\nIntel UHD Graphics 770\nenergieeffiziente T-Serie\n\n16 GB DDR4-3200 RAM\n2 × 8 GB Crucial SO-DIMM\n\n1 TB Samsung 980 NVMe SSD\nPCIe 3.0 x4\nbis zu 3.500 MB/s Lesen / 3.000 MB/s Schreiben\n\nASUS Prime H610T-CSM Mini-ITX Mainboard\nIntel H610 Chipsatz\nHDMI\nDisplayPort 1.4\nGigabit-LAN\nUSB 3.2\nHD-Audio\n\nsilentmaxx Fanless Aluminiumgehäuse\npassive Kühlung ohne Lüfter\n\nexternes 120-Watt-Netzteil\n\nDer Rechner wurde im März 2024 bei silentmaxx / silent systems GmbH gekauft. Der damalige Rechnungsbetrag betrug 1.031,89 €.\n\nDer PC befindet sich in neuwertigem Zustand und funktioniert technisch einwandfrei.\n\nBesonders interessant ist das Gerät für Käufer, die einen leistungsfähigen und gleichzeitig lüfterlosen PC suchen. Durch den Core i5-14500T mit 14 Kernen bietet er deutlich mehr Rechenleistung als viele typische Mini-PCs, bleibt dabei aber sehr kompakt und auf einen geräuscharmen Betrieb ausgelegt.\n\nPreisvorstellung: 450 € VB\n\nBei ernsthaftem Interesse gerne melden.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung.",
-      "location": "42781 Nordrhein-Westfalen - Haan",
-      "distanceKm": 188,
+      "url": "https://www.kleinanzeigen.de/s-anzeige/server-19-zoll-rackmount-silentmaxx-leise-64-gb-ram-hdd-ssd-xeon/3518603761-228-1916",
+      "title": "Server 19 Zoll Rackmount Silentmaxx LEISE 64 GB RAM HDD SSD Xeon",
+      "description": "Beschreibung\n\nIch verkaufe hier einen fast laulosen SILENTMAXX-Server, Ausstattung:\n\n2 x Samsung SSD 860 EVO 250GB\n2 x Ultrastar DC HC310 4 TB Serverfestplatten\n64 GB RAM\nProzessor Intel Xeon Silver 4208 PASSIV GEKÜHLT\nLüfterloses SILENTMAXX-Netzteil\nMainboard Z11PA-U12\n\nWeitere technische Daten siehe Fotos . An der Außenseite kleine Lackkratzer. Windows Server 2019 EVALUATION zu Testzwecken installiert, es ist KEINE Windows-Lizenz dabei! Server ist schwer, deshalb Abholung bevorzugt! Keine Haftung, Garantie, Rücknahme oder Haftung für Transportschäden, falls keine Abholung!",
+      "location": "58239 Nordrhein-Westfalen - Schwerte",
+      "distanceKm": 189,
       "active": true,
-      "price": 450,
-      "condition": "Sehr Gut",
+      "price": 300,
+      "condition": "Gut",
       "sellerRating": "Zufriedenheit",
-      "manufacturerModel": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
-      "cpu": "Core i5-14500T",
-      "cpuVideoSuitability": "Intel Core i5, Generation 14; H.264/H.265: Hardware-Decoding über iGPU",
-      "windows11Suitability": "CPU-Klasse offiziell geeignet; 16 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "Intel UHD Graphics 770",
-      "ramGb": 16,
+      "manufacturerModel": "Silentmaxx Server 19 Zoll Rackmount  LEISE 64 GB RAM HDD SSD Xeon",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; 64 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 64,
       "storage": "nicht angegeben",
-      "upgradeable": true,
+      "upgradeable": false,
       "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 45 €",
         "1-TB-SSD/NVMe: ca. 70 €"
       ],
-      "upgradeCost": 115,
+      "upgradeCost": 70,
       "silentConcept": "Silentmaxx-System (bevorzugt)",
       "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 870,
-      "comparisonPrice": 620,
-      "estimatedAge": 2,
+      "replacementNewPrice": 880,
+      "comparisonPrice": 240,
+      "estimatedAge": 6,
       "warrantyMonths": 0,
       "priceBasisDate": "2026-08-23",
       "priceSources": [
@@ -148,17 +147,18 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 170,
-      "savings": 55,
-      "score": 3.2,
-      "classification": "B",
+      "savingsBeforeUpgrades": -60,
+      "savings": -130,
+      "score": 4.3,
+      "classification": null,
       "openQuestions": [
         "SSD/NVMe nicht eindeutig angegeben",
         "3-Monitor-Anschlüsse bestätigen",
-        "TPM 2.0 und UEFI/Secure Boot bestätigen"
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "450 €"
+      "priceLabel": "300 €"
     },
     {
       "id": "Kleinanzeigen:3509354809-228-4816",
@@ -571,7 +571,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": ". Durch die kleine...",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -670,7 +670,7 @@
       "location": "45549 Nordrhein-Westfalen - Sprockhövel",
       "distanceKm": 190,
       "active": true,
-      "price": 200,
+      "price": 180,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Streacom Fanless Ultra Silent PC, I3- 8100, 16GB, 2x 250GB SSD",
@@ -698,9 +698,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 110,
-      "savings": 5,
-      "score": 3.7,
+      "savingsBeforeUpgrades": 130,
+      "savings": 25,
+      "score": 4,
       "classification": null,
       "openQuestions": [
         "3-Monitor-Anschlüsse bestätigen",
@@ -708,7 +708,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "200 €"
+      "priceLabel": "180 €"
     },
     {
       "id": "Kleinanzeigen:3480534494-228-390",
@@ -922,7 +922,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": "gebraucht",
+      "condition": "!!!!! auch...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -971,7 +971,7 @@
       "location": "92263 Bayern - Ebermannsdorf",
       "distanceKm": 247,
       "active": true,
-      "price": 175,
+      "price": 170,
       "condition": "Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
@@ -998,8 +998,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 55,
-      "savings": -15,
+      "savingsBeforeUpgrades": 60,
+      "savings": -10,
       "score": 2,
       "classification": null,
       "openQuestions": [
@@ -1010,21 +1010,21 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "175 €"
+      "priceLabel": "170 €"
     },
     {
       "id": "Kleinanzeigen:3514796355-228-7040",
       "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/luefterloser-mini-pc-intel-i5-ssd-windows-11/3514796355-228-7040",
-      "title": "lüfterloser Mini PC Intel i5, SSD, Windows 11",
-      "description": "Beschreibung\n\nVerkaufe meinen lüfterloserln Mini PC mit Intel i5 6300u Prozessor, 60 GB SSD, 4 GB RAM. Windows 11 ist installiert aber noch nicht aktiviert.\nLäuft sehr gut und ist ideal für Home-Office oder ähnliches\n2 HDMI Anschlüsse, 2 LAN, serial, USB 3.0 usw\n\nBei Abholung gerne mit geringem Aufpreis auch mit 24 Zoll fullhd Monitor\n\nPrivatverkauf ohne Garantie und Gewährleistung und Garantie. Keine Rücknahme und keine Reservierung",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/luefterloser-mini-pc-intel-i5-ssd-windows-11-2x-hdmi-2x-lan-/3514796355-228-7040",
+      "title": "lüfterloser Mini PC Intel i5, SSD, Windows 11, 2x HDMI, 2x LAN...",
+      "description": "Beschreibung\n\nVerkaufe meinen lüfterloserln Mini PC mit Intel i5 6300u Prozessor, 60 GB SSD, 4 GB RAM. Windows 11 ist installiert und aktiviert\nLäuft sehr gut und ist ideal für Home-Office oder ähnliches\n2 HDMI Anschlüsse, 2 LAN, serial, USB 3.0 usw\n\nBei Abholung gerne mit geringem Aufpreis auch mit 24 Zoll HP fullhd Monitor\n\nPrivatverkauf ohne Garantie und Gewährleistung und Garantie. Keine Rücknahme und keine Reservierung",
       "location": "86415 Bayern - Mering",
       "distanceKm": 247,
       "active": true,
-      "price": 72,
-      "condition": ". Intel Celeron CPU 1.5 GHZ. Speicher 250...",
+      "price": 78,
+      "condition": ". Geprüft. Rechnung inkl. ausgewiesener Mehrwertsteuer. Alle unsere Geräte und...",
       "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Windows 11",
+      "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Windows 11, 2x HDMI, 2x LAN...",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; Windows 11/TPM/UEFI belegt",
@@ -1049,9 +1049,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 238,
-      "savings": 108,
-      "score": 3.8,
+      "savingsBeforeUpgrades": 232,
+      "savings": 102,
+      "score": 3.7,
       "classification": null,
       "openQuestions": [
         "RAM-Aufrüstung nötig (4 GB vorhanden)",
@@ -1060,7 +1060,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "72 €"
+      "priceLabel": "78 €"
     },
     {
       "id": "Kleinanzeigen:3513223901-228-4908",
@@ -1166,7 +1166,7 @@
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/mini-pc-luefterloser-industrie-pc-advantech-ark-1123/3511333957-228-1582",
       "title": "Mini- PC lüfterloser Industrie- PC Advantech ARK-1123",
-      "description": "Beschreibung\n\nARK1123H1705E-T\n\nIntel(R) Celeron(R) CPU J1900 4 Kerne\n4GB Ram DDR3 erweiterbar\n64 GB SSD erweiterbar\n\nBetriebssystem: Linux Mint 21.3\n\nBluetooth\nWLAN\n2 x LAN 10/100/1000\n2 x USB 2.0\n1 x USB 3.0\n2 x HDMI\n\nBreite 13,4 cm\nHöhe 4,3 cm\nTiefe 9,5 cm\nTiefe mit Anschlüssen 11 cm\n(Alle Abmessungen grob gemessen.)\n\nInput: 12V DC ~ 3A\n\nDer PC wurde getestet und mit Linux Mint neu bespielt.\nDer Computer eignet sich optimal als Videoplayer für Signage- oder TV- Geräte.\n\nDer vorgeschlagene Preis bezieht sich auf einen PC von fünf.\nEin passendes Netzteil ist Bestandteil des Angebots.\n\n\nEine Garantie und / oder Gewährleistung wird nicht angeboten.\n\nEin Versand ist leider nicht möglich. Abholung nur an den Wochenenden oder nach Vereinbarung.\n\nDie \"Wellen\" auf den zwei letzten Bildern sind durch die Handycamera entstanden.\n\nLeichte Gebrauchsspuren können vorhanden sein. (Kratzer, Aufkleberreste,\nBeschriftungen,...)",
+      "description": "Beschreibung\n\nARK1123H1705E-T\n\nIntel(R) Celeron(R) CPU J1900 4 Kerne\n4GB Ram DDR3 erweiterbar\n64 GB SSD erweiterbar\n\nBetriebssystem: Linux Mint 21.3\n\nBluetooth\nWLAN\n2 x LAN 10/100/1000\n2 x USB 2.0\n1 x USB 3.0\n2 x HDMI\n\nBreite 13,4 cm\nHöhe 4,3 cm\nTiefe 9,5 cm\nTiefe mit Anschlüssen 11 cm\n(Alle Abmessungen grob gemessen.)\n\nInput: 12V DC ~ 3A\n\nDer PC wurde getestet und mit Linux Mint neu bespielt.\nDer Computer eignet sich optimal als Videoplayer für Signage- oder TV- Geräte.\nFür Office- Anwendungen lässt sich der Rechner natürlich auch nutzen. Es ist kein Spiele-PC. ;)\n\nDer vorgeschlagene Preis bezieht sich auf einen PC von drei PCs (2 Stück sind verkauft)\nEin passendes Netzteil ist Bestandteil des Angebots.\n\n\nEine Garantie und / oder Gewährleistung wird nicht angeboten.\n\nEin Versand ist leider nicht möglich. Abholung nur an den Wochenenden oder nach Vereinbarung.\n\nDie \"Wellen\" auf den zwei letzten Bildern sind durch die Handycamera entstanden.\n\nLeichte Gebrauchsspuren können vorhanden sein. (Kratzer, Aufkleberreste,\nBeschriftungen,...)",
       "location": "42117 Elberfeld - Elberfeld-West",
       "distanceKm": 186,
       "active": true,
@@ -1613,15 +1613,15 @@
       "id": "eBay:267790085781",
       "source": "eBay",
       "url": "https://www.ebay.de/itm/267790085781",
-      "title": "Unbekanntes System",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: fd878e04-637a-4c53-a3a9-2027f084412d",
+      "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 380f86b3-f76e-49e7-a05e-44ddf29420a3",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
       "price": null,
       "condition": "gebraucht",
       "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Unbekanntes System",
+      "manufacturerModel": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
