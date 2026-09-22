@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-21T12:55:16.654Z",
+  "checkedAt": "2026-09-22T11:45:02.260Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -571,7 +571,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": "gebraucht",
+      "condition": "Siehe Bilder Windows 7...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -922,7 +922,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": "!!!!! auch...",
+      "condition": "Gerät...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -961,6 +961,56 @@
       ],
       "matches": false,
       "priceLabel": "250 €"
+    },
+    {
+      "id": "Kleinanzeigen:3520093525-228-8021",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/mini-pc-csl-narrowbox-vs-3-luefterlos/3520093525-228-8021",
+      "title": "Mini PC - CSL Narrowbox Vs 3 - lüfterlos",
+      "description": "Beschreibung\n\nMini PC mit folgenden Daten:\n\nIntel Celeron Quad Core Prozessor 2,4 Mhz Burst\nFestplatte Kingston 256 GB M.2. SSD, 2600 h\n2. Festplatte: 64 GB eMMC Speicher\nMicro SD Card Reader, max 512 GB\nArbeitsspeicher 4 GB RAM, nicht erweiterbar\n\nWindows 10 pro neu aufgespielt, aufrüstbar auf Win 11 pro, PC erfüllt die Mindestanforderungen dafür, auch Linux Systeme wie Ubuntu oder Mint lassen sich installieren.\n\nVerbindungen: Wlan ac Dualband, Bluetooth 5.0, LAN\n3 mal USB A 3.1\nHDMI 2.0 und VGA Anschluss für Bildschirm\n\nPassiv gekühlt (!), lautlos, energiesparend\nMeine Erfahrungen: Ein einfacher PC für einfache Aufgaben: Leistung ist abgestimmt auf Office Anwendungen, Surfen im Internet, E-mail… Weil lautlos, gut für Lesen oder Schreiben in stiller Umgebung. Für hochauflösendes Streaming, Spielen oder Videokonferenzen weniger geeignet.\nPC kann an VESA Halterungen dafür vorbereiteter Bildschirme angebracht werden.\n\nLieferumfang: PC, Netzteil, HDMi Kabel, VESA Halter für rückseitige Bildschirmanbringung, Bedienungsanleitung.\n\nTierfreier Nichtraucherhaushalt\nKauf von Privat, keine Gewährleistung, keine Rücknahme\nPreis ist Festpreis, Kauf per Direktkauf",
+      "location": "74821 Baden-Württemberg - Mosbach",
+      "distanceKm": 65,
+      "active": true,
+      "price": 50,
+      "condition": "Sehr Gut",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Mini PC - CSL Narrowbox Vs 3 - lüfterlos",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; 256 GB SSD/NVMe; Windows 11/TPM/UEFI belegt",
+      "gpu": "nicht angegeben",
+      "ramGb": 4,
+      "storage": "256 GB M.2",
+      "upgradeable": true,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 130,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 360,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 310,
+      "savings": 180,
+      "score": 4.4,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "50 €"
     },
     {
       "id": "Kleinanzeigen:3484969953-228-5787",
@@ -1470,7 +1520,7 @@
       "location": "73642 Baden-Württemberg - Welzheim",
       "distanceKm": 131,
       "active": true,
-      "price": 99,
+      "price": 89,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Calmo XS Mini-PC – passiv - lüfterlos – 8GB RAM – 256GB SSD",
@@ -1497,8 +1547,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 281,
-      "savings": 221,
+      "savingsBeforeUpgrades": 291,
+      "savings": 231,
       "score": 7.1,
       "classification": null,
       "openQuestions": [
@@ -1507,7 +1557,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "99 €"
+      "priceLabel": "89 €"
     },
     {
       "id": "Kleinanzeigen:3479569202-228-8752",
@@ -1614,7 +1664,7 @@
       "source": "eBay",
       "url": "https://www.ebay.de/itm/267790085781",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 380f86b3-f76e-49e7-a05e-44ddf29420a3",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 6c01089e-9e9e-4069-b9a5-956a5891b841",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
