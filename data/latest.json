@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-23T11:43:33.239Z",
+  "checkedAt": "2026-09-24T11:52:01.780Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -218,7 +218,7 @@
       "location": "65428 Hessen - Rüsselsheim",
       "distanceKm": 19,
       "active": true,
-      "price": 165,
+      "price": 160,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Silentmaxx Mini PC geräuschlos * i5 * 16GB * 256 GB * Windows 11",
@@ -246,9 +246,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 145,
-      "savings": 30,
-      "score": 3.2,
+      "savingsBeforeUpgrades": 150,
+      "savings": 35,
+      "score": 3.3,
       "classification": null,
       "openQuestions": [
         "SSD/NVMe nicht eindeutig angegeben",
@@ -257,7 +257,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "165 €"
+      "priceLabel": "160 €"
     },
     {
       "id": "Kleinanzeigen:3509178615-228-2127",
@@ -620,7 +620,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": ". Technische...",
+      "condition": "inkl Netzteil ohne SSD",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -971,7 +971,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": ". Ideal für...",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -1010,6 +1010,57 @@
       ],
       "matches": false,
       "priceLabel": "250 €"
+    },
+    {
+      "id": "Kleinanzeigen:3521114664-228-8417",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/spectra-powerbox-100-j19-industrie-pc-luefterlos-8gb-2x-lan/3521114664-228-8417",
+      "title": "Spectra PowerBox 100-J19 Industrie-PC – lüfterlos – 8GB – 2x LAN",
+      "description": "Beschreibung\n\nVerkaufe einen lüfterlosen Industrie-PC Spectra PowerBox 100-J19-R10.\n\nPassiv gekühltes Box-PC-System für den industriellen Dauerbetrieb – robustes Metallgehäuse, komplett lautlos. Durch die zwei Gigabit-LAN-Ports und die lüfterlose Bauweise auch ideal als Firewall-/Router-Appliance (z. B. pfSense/OPNsense), IoT-Gateway oder Homelab-Server.\n\nTechnische Daten:\n\n-Spectra PowerBox 100-J19-R10\n-Intel Celeron J1900 (4 Kerne, bis 1,99 GHz)\n-8 GB RAM\n-128 GB Industrie-SSD\n-2x Gigabit-LAN, 1x USB 3.0, 3x USB 2.0, Audio\n-Weitbereichs-Spannungseingang 9–48V DC\n-lüfterloses Metallgehäuse, wand- und DIN-Schienen-montierbar\n-Windows 10 Pro OEM-Lizenzsticker vorhanden (kein OS installiert)\n-Netzteil im Lieferumfang\n\nZustand:\n\nDas Gerät stammt aus industriellem Einsatz und weist entsprechende Gebrauchsspuren (leichter Staub, Nutzungsspuren am Gehäuse) auf. Es wurde auf Funktion geprüft und startet einwandfrei. Die verbaute Industrie-SSD zeigt in CrystalDiskInfo den Zustand „Gut\" ohne Fehler (keine wiederzugewiesenen Sektoren, keine CRC-Fehler); die Betriebsstundenzahl ist nutzungsbedingt hoch (Dauerbetrieb). Es ist kein Betriebssystem installiert – startbereit für die Installation nach Wahl (Windows, Linux). Ein Windows 10 Pro OEM-Lizenzaufkleber ist vorhanden.\n\n\nRechtliches:\n\nPrivatverkauf.\nKeine Garantie, Gewährleistung, Rücknahme oder Umtausch.\nVerkauf wie beschrieben und abgebildet.",
+      "location": "73642 Baden-Württemberg - Welzheim",
+      "distanceKm": 131,
+      "active": true,
+      "price": 75,
+      "condition": "Sehr Gut",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Spectra PowerBox 100-J19 Industrie-PC – lüfterlos – 8GB – 2x LAN",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 8,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 140,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 310,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 235,
+      "savings": 95,
+      "score": 2.5,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "75 €"
     },
     {
       "id": "Kleinanzeigen:3520093525-228-8021",
@@ -1121,7 +1172,7 @@
       "distanceKm": 247,
       "active": true,
       "price": 78,
-      "condition": ". Geprüft. Rechnung inkl. ausgewiesener Mehrwertsteuer. Alle...",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Windows 11, 2x HDMI, 2x LAN...",
       "cpu": "nicht angegeben",
@@ -1170,7 +1221,7 @@
       "location": "65191 Hessen - Wiesbaden",
       "distanceKm": 36,
       "active": true,
-      "price": 140,
+      "price": 135,
       "condition": "Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "ASUS PN40 N4100 16GB RAM 1TB Lüfterloser Mini PC",
@@ -1198,9 +1249,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 120,
-      "savings": 5,
-      "score": 2.6,
+      "savingsBeforeUpgrades": 125,
+      "savings": 10,
+      "score": 2.7,
       "classification": null,
       "openQuestions": [
         "SSD/NVMe nicht eindeutig angegeben",
@@ -1209,7 +1260,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "140 €"
+      "priceLabel": "135 €"
     },
     {
       "id": "Kleinanzeigen:3512288450-228-1059",
@@ -1471,7 +1522,7 @@
       "active": true,
       "price": 440,
       "condition": "Sehr Gut",
-      "sellerRating": "nicht verfügbar",
+      "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Lüfterlose PC i3-8100T PC Industrial Motherboard Asus Prime H310T",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
@@ -1519,7 +1570,7 @@
       "location": "99099 Thüringen - Erfurt",
       "distanceKm": 211,
       "active": true,
-      "price": 78,
+      "price": 69,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser PC/NAS/Kodi/HomeAssistant akasa Intel i3 RAM8GB SSD",
@@ -1547,9 +1598,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 232,
-      "savings": 102,
-      "score": 3.7,
+      "savingsBeforeUpgrades": 241,
+      "savings": 111,
+      "score": 3.8,
       "classification": null,
       "openQuestions": [
         "RAM-Aufrüstung nötig (8 GB vorhanden)",
@@ -1558,7 +1609,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "78 €"
+      "priceLabel": "69 €"
     },
     {
       "id": "Kleinanzeigen:3499748216-228-8417",
@@ -1659,18 +1710,18 @@
       "priceLabel": "150 €"
     },
     {
-      "id": "eBay:298698931572",
+      "id": "eBay:187669775113",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/298698931572",
-      "title": "Unbekanntes System",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 8726a2ea-b3da-47e5-9b22-3e1f1964775f",
+      "url": "https://www.ebay.de/itm/187669775113",
+      "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 85e6f490-9ffd-4e58-ab39-3123d79135d1",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
       "price": null,
       "condition": "gebraucht",
       "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Unbekanntes System",
+      "manufacturerModel": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
