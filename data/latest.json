@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-24T11:52:01.780Z",
+  "checkedAt": "2026-09-25T11:57:18.874Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -169,7 +169,7 @@
       "location": "42781 Nordrhein-Westfalen - Haan",
       "distanceKm": 188,
       "active": true,
-      "price": 450,
+      "price": 99,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
@@ -197,9 +197,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 170,
-      "savings": 55,
-      "score": 3.2,
+      "savingsBeforeUpgrades": 521,
+      "savings": 406,
+      "score": 4.9,
       "classification": "B",
       "openQuestions": [
         "SSD/NVMe nicht eindeutig angegeben",
@@ -207,7 +207,7 @@
         "TPM 2.0 und UEFI/Secure Boot bestätigen"
       ],
       "matches": false,
-      "priceLabel": "450 €"
+      "priceLabel": "99 €"
     },
     {
       "id": "Kleinanzeigen:3509354809-228-4816",
@@ -268,7 +268,7 @@
       "location": "47441 Nordrhein-Westfalen - Moers",
       "distanceKm": 226,
       "active": true,
-      "price": 45,
+      "price": 35,
       "condition": "In Ordnung",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Silentmaxx PC Tower schallgedämmt, i5-3330S, 4GB RAM",
@@ -296,8 +296,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 55,
-      "savings": -85,
+      "savingsBeforeUpgrades": 65,
+      "savings": -75,
       "score": 1.6,
       "classification": null,
       "openQuestions": [
@@ -308,7 +308,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "45 €"
+      "priceLabel": "35 €"
     },
     {
       "id": "Kleinanzeigen:3504349950-228-21115",
@@ -620,7 +620,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": "inkl Netzteil ohne SSD",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -810,56 +810,6 @@
       "priceLabel": "90 €"
     },
     {
-      "id": "Kleinanzeigen:3469305112-228-6801",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/shuttle-xpc-slim-ds10u-1-3-liter-mini-fanless-luefterlos-leise-pc/3469305112-228-6801",
-      "title": "Shuttle XPC Slim DS10U 1,3 Liter Mini Fanless Lüfterlos Leise PC",
-      "description": "Beschreibung\n\nIch verkaufe meinen Shuttle XPC Slim Mini-PC, der mir über mehrere Jahre hinweg treue Dienste geleistet hat. Ich habe ihn als DIY-Home-Server genutzt, bis ich vor Kurzem auf ein neueres Modell der gleichen XPC-Slim-Serie umgestiegen bin.\n\nDer PC ist kühl und effizient, ausgestattet mit einem stromsparenden Prozessor (15W TDP, ca. 6W im Leerlauf), und funktioniert einwandfrei.\nEr verfügt über zwei Gigabit-LAN-Anschlüsse (2x RJ45) sowie ein vorinstalliertes Realtek WiFi AC + Bluetooth 4.2 Modul. Die Antennen sind im Lieferumfang enthalten.\n\nDank der vollständig passiven Kühlung ist der Betrieb absolut lautlos. Da keine Lüfter vorhanden sind, sammelt sich kein Staub an, was ihn ideal für den 24/7-Einsatz als Home-Server oder für die Hausautomatisierung macht.\nEin praktisches Feature ist die Unterstützung des Bootens von einer SD-Karte, wodurch die internen Laufwerksplätze komplett für die Datenspeicherung genutzt werden können. Zudem besitzt er einen Always-On-Jumper, mit dem der PC nach einem Stromausfall automatisch wieder hochfährt.\n\nDer PC wird als Barebone verkauft, also ohne Festplatte/SSD und ohne Arbeitsspeicher.\nDas passende RAM-Kit verkaufe ich ebenfalls, siehe dazu meine andere Anzeige.\n\nDie Originalverpackung, sämtliches Zubehör sowie das Benutzerhandbuch sind im Lieferumfang enthalten.\n\n**Spezifikation**\n\n* Prozessor: Intel Celeron 4205U, Dual Core, 15 W TDP, Intel ULV “Whiskey-Lake-U” Generation\n* Grafik: Intel UHD Graphics 610, DX12\n* Speicher-Unterstützung:\n* 2x SO-DIMM-Steckplatz mit 260 Pins\n* DDR4-2133 (PC4-17000) SDRAM mit 1,2 V\n* Unterstützt auch DDR4-2400/2666, jedoch mit 2133 MHz\n* 32 GB pro Steckplatz (Max. 64GB)\n* Unterstützt unbuffered DIMM-Module (kein ECC oder registered)\n* Laufwerke:\n* 1× M.2-2280 (unterstützt PCIe 2.0 X4 bis zu 2 GB/s & SATA v3.0 bis zu 6 Gbit/s)\n* 1× SATA III 2.5\" bis zu 6 Gb/s (600 MB/s)\n* 1× M.2-2230 für WLAN\n* SD Cardreader\n* WLAN: M.2-2230-A/E WLAN Controller Realtek RTL8821AE mit zwei externen Antennen\n* WiFi IEEE 802.11b/g/n/ac im 2,4 / 5 GHz Band, 1T1R\n* Bluetooth 4.0 im 2,4 GHz Band\n* Audio: Realtek® ALC 662 High-Definition Audio\n* Anschlüsse/Buttons Vorderseite\n* 2x USB 3.2 Gen 1 (Max. 5 Gbps)\n* 4x USB 2.0\n* Mikrofon-Eingang\n* Audio Line-out (Kopfhörer)\n* SD Cardreader (unterstützt SD, SDHC, SDXC)\n* Ein/Aus-Button\n* Betriebsanzeige-LED (Blau)\n* Festplatten-LED (Gelb)\n* Anschlüsse Rückseite:\n* DisplayPort 1.2\n* HDMI 2.0a\n* D-Sub/VGA\n* 2x USB 3.2 Gen 1 (Max. 5 Gbps)\n* 2x Intel Gigabit LAN (RJ45)\n* Serial COM port (5V / 12V, umschaltbar: RS232 / RS422 / RS485)\n* DC-Eingang für externes Netzteil\n* Vier-Pin-Anschluss (2,54 mm Rastermaß) für Power-Button, Clear CMOS und 5 V DC\n* Unterstützte Betriebssysteme: Windows 10/11 und Linux (64-bit)\n* Netzteil: Externes 65W-Netzteil mit Netzanschlusskabel (Eurostecker)\n* Gehäuse: 20 x 16,5 x 3,95 cm (LBH) = 1,3 Lite\n* Gewicht: 1,5 kg netto und 2,2 kg brutto\n\n\nhttps://www.shuttle.eu/de/products/slim/ds10u/spec/\nhttps://www.shuttle.eu/fileadmin/resources/download/spec/slim/DS10U_d.pdf",
-      "location": "91058 Bayern - Erlangen",
-      "distanceKm": 173,
-      "active": true,
-      "price": 110,
-      "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "Shuttle XPC Slim DS10U 1,3 Liter Mini Fanless Lüfterlos Leise PC",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "Intel UHD Graphics 610",
-      "ramGb": null,
-      "storage": "nicht angegeben",
-      "upgradeable": true,
-      "recommendedUpgrades": [
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 70,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 360,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 250,
-      "savings": 180,
-      "score": 4,
-      "classification": null,
-      "openQuestions": [
-        "RAM nicht angegeben",
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "110 €"
-    },
-    {
       "id": "Kleinanzeigen:3434568892-228-9043",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/passiv-pc-i5-intel-ga-h77n-wifi-lautlos-fanless-luefterlos-silent/3434568892-228-9043",
@@ -971,7 +921,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": "gebraucht",
+      "condition": ". Geprüft. Rechnung inkl. ausgewiesener Mehrwertsteuer. Alle unsere Geräte und...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -1010,6 +960,51 @@
       ],
       "matches": false,
       "priceLabel": "250 €"
+    },
+    {
+      "id": "Kleinanzeigen:3522134368-228-4441",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/arcitc-senza-luefterloser-pc-ryzen-5700g-512gb-1tb-win-11-neu/3522134368-228-4441",
+      "title": "Arcitc Senza, lüfterloser PC, Ryzen 5700G, 512GB/1TB, Win 11, neu",
+      "description": "Beschreibung\n\nFestpreis. Ich möchte nicht verhandeln und nicht tauschen.\n\nIch hatte mir mehrere Arctic Senza PCs für die Wohnung bestellt. Leider passt er nicht in mein Lowboard, wo ich ihn als PC für Retrogaming nutzen wollte. Daher habe ich einen unbenutzt über.\n\nDer Arctic Senza ist ein lüfterloser PC, der unter den Schreibtisch geschraubt werden kann. Da aktuell alleine die 32GB DDR4 RAM und 1TB SSD fast so viel kosten, wie der ganze PC, ist er eine der günstigten Optionen auf dem Markt.\n\nTechnische Daten, u.a.:\n- Prozessor: AMD Ryzen 7 5700G (8 Cores / 16 Threads, 3,80-4,60 GHz, Zen 3)\n- RAM: 32GB DDR4-3200 (2x 16GB SO-DIMM)\n- SSD: 1TB M.2 PCIe\n- Grafik: AMD Radeon Graphics (iGPU), 8CU/512SP\n- Anschlüsse hinten: 1x USB-A 3.1 (10Gb/s), 1x USB-A 3.0 (5Gb/s), 2x USB-A 2.0 (480Mb/s), 1x HDMI 2.0, 1x DisplayPort 1.2, 1x 3.5mm Klinke Line-Out, 1x 3.5mm Klinke Line-In, 1x RJ-45 (2.5GBase-T), 1x DC-In Hohlbuchse (Netzanschluss)\n- Anschlüsse Bedienpanel: 1x USB-C 3.1 (10Gb/s), 1x USB-A 3.1 (10Gb/s), 1x 3.5mm Klinke Line-In/Out\n- Verbindungen: Wireless Wi-Fi 6E (WLAN 802.11a/b/g/n/ac/ax, 2x2), Bluetooth 5.3\n- Betriebssystem: Windows 11 Home N\n- Netzteil: extern, 120W, Hohlstecker (19V/6.3A)\n- Abmessungen: 61,8 x 12,0x 28,2 cm (BxHxT)\n- Gewicht: 3,50kg\n- Besonderheiten: passiv gekühlt (lüfterlos), geeignet für die Montage unter der Tischplatte\n\nDer PC wird unbenutzt mit vollständigem Zubehör in der OVP verkauft. Die Rechnung von Arctic vom 16.09.2026 lege ich ausgedruckt bei.\n\nAbholung bevorzugt. Versand wäre für 7,70 Euro als versichertes DHL Paket möglich.\n\nKeine Rücknahme. Der Verkauf erfolgt unter Ausschluss jeglicher Sachmangelhaftung. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt davon unberührt.",
+      "location": "65474 Hessen - Bischofsheim",
+      "distanceKm": 24,
+      "active": true,
+      "price": 390,
+      "condition": "Neu",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Arcitc Senza, lüfterloser PC, Ryzen 5700G, 512GB/1TB, Win 11, neu",
+      "cpu": "Ryzen 5700G",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; 32 GB RAM; 1000 GB SSD/NVMe; Windows 11/TPM/UEFI belegt",
+      "gpu": "nicht angegeben",
+      "ramGb": 32,
+      "storage": "1 TB SSD",
+      "upgradeable": true,
+      "recommendedUpgrades": [],
+      "upgradeCost": 0,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "mindestens 3 genannte Grafikausgänge",
+      "replacementNewPrice": 910,
+      "comparisonPrice": 390,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 0,
+      "savings": 0,
+      "score": 7.7,
+      "classification": null,
+      "openQuestions": [
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "390 €"
     },
     {
       "id": "Kleinanzeigen:3521114664-228-8417",
@@ -1061,56 +1056,6 @@
       ],
       "matches": false,
       "priceLabel": "75 €"
-    },
-    {
-      "id": "Kleinanzeigen:3520093525-228-8021",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/mini-pc-csl-narrowbox-vs-3-luefterlos/3520093525-228-8021",
-      "title": "Mini PC - CSL Narrowbox Vs 3 - lüfterlos",
-      "description": "Beschreibung\n\nMini PC mit folgenden Daten:\n\nIntel Celeron Quad Core Prozessor 2,4 Mhz Burst\nFestplatte Kingston 256 GB M.2. SSD, 2600 h\n2. Festplatte: 64 GB eMMC Speicher\nMicro SD Card Reader, max 512 GB\nArbeitsspeicher 4 GB RAM, nicht erweiterbar\n\nWindows 10 pro neu aufgespielt und aktualisiert, aufrüstbar auf Win 11 pro, PC erfüllt die Mindestanforderungen dafür, auch Linux Systeme wie Ubuntu oder Mint lassen sich installieren.\n\nVerbindungen:\nWlan ac Dualband,\nBluetooth 5.0,\nLAN\n3 mal USB A 3.1\nHDMI 2.0 und VGA Anschluss für Bildschirm\n\nPassiv gekühlt (!), lautlos, energiesparend\nMeine Erfahrungen: Ein einfacher PC für einfache Aufgaben: Leistung ist abgestimmt auf Office Anwendungen, Surfen im Internet, E-mail… Weil lautlos, gut für Lesen oder Schreiben in stiller Umgebung. Für hochauflösendes Streaming, Spielen oder Videokonferenzen nicht geeignet.\nPC kann an VESA Halterungen dafür vorbereiteter Bildschirme angebracht werden.\n\nLieferumfang: PC, Netzteil, HDMi Kabel, VESA Halter für rückseitige Bildschirmanbringung, Bedienungsanleitung.\n\nTierfreier Nichtraucherhaushalt\nKauf von Privat, keine Gewährleistung, keine Rücknahme\nPreis ist Festpreis, Kauf per Direktkauf",
-      "location": "74821 Baden-Württemberg - Mosbach",
-      "distanceKm": 65,
-      "active": true,
-      "price": 50,
-      "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "Mini PC - CSL Narrowbox Vs 3 - lüfterlos",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; 256 GB SSD/NVMe; Windows 11/TPM/UEFI belegt",
-      "gpu": "nicht angegeben",
-      "ramGb": 4,
-      "storage": "256 GB M.2",
-      "upgradeable": true,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 70 €",
-        "SSD/NVMe auf 1 TB: ca. 60 €"
-      ],
-      "upgradeCost": 130,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 360,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 310,
-      "savings": 180,
-      "score": 4.4,
-      "classification": null,
-      "openQuestions": [
-        "RAM-Aufrüstung nötig (4 GB vorhanden)",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "50 €"
     },
     {
       "id": "Kleinanzeigen:3484969953-228-5787",
@@ -1710,18 +1655,68 @@
       "priceLabel": "150 €"
     },
     {
-      "id": "eBay:187669775113",
+      "id": "eBay:298698931572",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/187669775113",
-      "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 85e6f490-9ffd-4e58-ab39-3123d79135d1",
+      "url": "https://www.ebay.de/itm/298698931572",
+      "title": "Retro Gaming & VHS Capture PC, Asus P5Q SE, 9600GT passiv 4GB, 500GB, Silentmaxx",
+      "description": "Artikelzustand\nGebraucht\nHinweise des Verkäufers\n“Technisch voll funktionsfähig und geprüft (Memtest86+ fehlerfrei). Festplatte sicher gelöscht (ohne ... Mehr zum Thema\nÜber Hinweise an Verkäufer\nGrafikprozessor\nGeforce 9600GT\nFestplattenkapazität\n500 GB\nProzessorgeschwindigkeit\n2,50 GHz\nFestplattentyp\nHDD (Hard Disk Drive)\nProduktart\nDesktop\nPassend für\nBüro\nProzessor\nIntel Pentium Dual-Core\nBetriebssystem\nNicht enthalten\nLänge\n47\nFormfaktor\nTower\nHöhe\n44\nBreite\n20\nTV-Karte\nX3M HPC2000 DVB-T/Analog PCI Karte\nMarke\nASUS\nFarbe\nMehrfarbig\nMaximale Arbeitsspeichergröße\n16 GB\nKonnektivität\nUSB 1.0/1.1, USB 2.0, DVI, RJ-45, VGA\nArbeitsspeichergröße\n4 GB\nGrafikprozessortyp\nDedizierte Grafiken\nMotherboard-Modell\nASUS P5Q SE",
+      "location": "Leipzig, Deutschland",
+      "distanceKm": null,
+      "active": true,
+      "price": 89,
+      "condition": "Artikelzustand:",
+      "sellerRating": "100% positive Bewertungen",
+      "manufacturerModel": "Silentmaxx Retro Gaming & VHS Capture PC, Asus P5Q SE, 9600GT passiv 4GB, 500GB,",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "Silentmaxx-System (bevorzugt)",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 141,
+      "savings": 71,
+      "score": 3.5,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "89 €"
+    },
+    {
+      "id": "eBay:267790085781",
+      "source": "eBay",
+      "url": "https://www.ebay.de/itm/267790085781",
+      "title": "Unbekanntes System",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 4e18ba60-b5c5-466d-97fe-70995e63e732",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
       "price": null,
       "condition": "gebraucht",
       "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
+      "manufacturerModel": "Unbekanntes System",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
