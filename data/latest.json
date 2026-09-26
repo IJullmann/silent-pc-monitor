@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-25T11:57:18.874Z",
+  "checkedAt": "2026-09-26T11:30:14.948Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -169,7 +169,7 @@
       "location": "42781 Nordrhein-Westfalen - Haan",
       "distanceKm": 188,
       "active": true,
-      "price": 99,
+      "price": 450,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
@@ -197,9 +197,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 521,
-      "savings": 406,
-      "score": 4.9,
+      "savingsBeforeUpgrades": 170,
+      "savings": 55,
+      "score": 3.2,
       "classification": "B",
       "openQuestions": [
         "SSD/NVMe nicht eindeutig angegeben",
@@ -207,7 +207,7 @@
         "TPM 2.0 und UEFI/Secure Boot bestätigen"
       ],
       "matches": false,
-      "priceLabel": "99 €"
+      "priceLabel": "450 €"
     },
     {
       "id": "Kleinanzeigen:3509354809-228-4816",
@@ -620,7 +620,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": "gebraucht",
+      "condition": ". Technische...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -921,7 +921,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": ". Geprüft. Rechnung inkl. ausgewiesener Mehrwertsteuer. Alle unsere Geräte und...",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -960,6 +960,53 @@
       ],
       "matches": false,
       "priceLabel": "250 €"
+    },
+    {
+      "id": "Kleinanzeigen:3523541699-228-3752",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/nipogi-jk06-mini-pc-luefterlos-celeron-n5100-8gb-ram-256gb-m-2-/3523541699-228-3752",
+      "title": "NiPoGi JK06 Mini PC Lüfterlos (Celeron N5100, 8GB Ram, 256GB M.2)",
+      "description": "Beschreibung\n\n## NiPoGi Mini PC – Intel Celeron N5100\n\n### Powerful 11th Gen Intel Jasper Lake Processor\nThe NiPoGi Mini PC is powered by the **Intel Celeron N5100 processor**, based on Intel’s 10 nm Jasper Lake architecture. Featuring **4 cores**, a maximum clock speed of up to **2.8 GHz**, and a low **6 W TDP**, it delivers efficient and reliable performance with low power consumption.\n\nIdeal for everyday tasks such as **business applications, education, web browsing, multimedia entertainment, and home-office use**.\n\n### Flexible Storage Expansion\nEquipped with **8 GB RAM** and a **256 GB M.2 SSD**, the NiPoGi Mini PC provides fast and responsive everyday performance.\n\nStorage can be expanded in several ways:\n\n- **2.5-inch SSD/HDD:** Supports up to 2 TB\n- **TF/microSD card slot:** Supports cards up to 128 GB\n- **USB 3.0 ports:** Connect external hard drives or additional storage devices\n\nThis provides plenty of flexibility for documents, applications, photos, videos, and other files.\n\n### Fanless & Quiet Cooling\nThe NiPoGi Mini PC features a **fanless cooling design**, providing virtually silent **0 dB operation**.\n\nIts ventilated enclosure is designed to dissipate heat efficiently without requiring a cooling fan. This makes the Mini PC particularly suitable for environments where quiet operation is important, including:\n\n- Home theaters\n- Offices\n- Recording environments\n- Meeting rooms\n- Study areas\n\n### Compact Design with Magnetic Base\nThe compact NiPoGi Mini PC includes a **removable magnetic base**, allowing it to be positioned either **horizontally or vertically**.\n\nIts space-saving design makes it easy to integrate into a desk, entertainment center, office, or other compact workspace.\n\n### Dual Display Support – HDMI + VGA\nConnect up to **two monitors simultaneously** using the integrated **HDMI and VGA outputs**.\n\nDual-display support makes multitasking easier, allowing you to work with multiple applications, documents, or media sources at the same time.\n\n### Comprehensive Connectivity\nThe NiPoGi Mini PC offers a wide range of connection options:\n\n- 1 × USB Type-C\n- 2 × USB 3.0\n- 2 × USB 2.0\n- 1 × TF/microSD card slot\n- 1 × HDMI\n- 1 × VGA\n- 1 × LAN/Ethernet\n- 1 × Audio port\n- **Wi-Fi 5**\n- **Bluetooth 4**\n\nThe combination of wired and wireless connectivity makes it suitable for keyboards, mice, displays, external storage, speakers, networks, and other accessories.\n\n### Key Specifications\n**Processor:** Intel Celeron N5100, 4-core, up to 2.8 GHz\n**Architecture:** Intel Jasper Lake, 10 nm\n**TDP:** 6 W\n**Memory:** 8 GB RAM\n**Storage:** 256 GB M.2 SSD\n**Storage Expansion:** 2.5-inch SSD/HDD up to 2 TB, TF/microSD up to 128 GB\n**Display Outputs:** HDMI + VGA dual-display support\n**Wireless:** Wi-Fi 5, Bluetooth 4\n**Cooling:** Fanless\n**Design:** Compact chassis with removable magnetic base",
+      "location": "99089 Thüringen - Erfurt",
+      "distanceKm": 209,
+      "active": true,
+      "price": 123,
+      "condition": "Sehr Gut",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "NiPoGi JK06 Mini PC Lüfterlos (Celeron N5100, 8GB Ram, 256GB M.2)",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; 256 GB RAM; 256 GB SSD/NVMe; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 256,
+      "storage": "256 GB M.2",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 60,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "mindestens 4 genannte Grafikausgänge",
+      "replacementNewPrice": 880,
+      "comparisonPrice": 320,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 197,
+      "savings": 137,
+      "score": 8.8,
+      "classification": null,
+      "openQuestions": [
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "123 €"
     },
     {
       "id": "Kleinanzeigen:3522134368-228-4441",
@@ -1066,7 +1113,7 @@
       "location": "92263 Bayern - Ebermannsdorf",
       "distanceKm": 247,
       "active": true,
-      "price": 170,
+      "price": 150,
       "condition": "Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
@@ -1093,9 +1140,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 60,
-      "savings": -10,
-      "score": 2,
+      "savingsBeforeUpgrades": 80,
+      "savings": 10,
+      "score": 2.2,
       "classification": null,
       "openQuestions": [
         "RAM nicht angegeben",
@@ -1105,7 +1152,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "170 €"
+      "priceLabel": "150 €"
     },
     {
       "id": "Kleinanzeigen:3514796355-228-7040",
@@ -1655,68 +1702,18 @@
       "priceLabel": "150 €"
     },
     {
-      "id": "eBay:298698931572",
+      "id": "eBay:307199261728",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/298698931572",
-      "title": "Retro Gaming & VHS Capture PC, Asus P5Q SE, 9600GT passiv 4GB, 500GB, Silentmaxx",
-      "description": "Artikelzustand\nGebraucht\nHinweise des Verkäufers\n“Technisch voll funktionsfähig und geprüft (Memtest86+ fehlerfrei). Festplatte sicher gelöscht (ohne ... Mehr zum Thema\nÜber Hinweise an Verkäufer\nGrafikprozessor\nGeforce 9600GT\nFestplattenkapazität\n500 GB\nProzessorgeschwindigkeit\n2,50 GHz\nFestplattentyp\nHDD (Hard Disk Drive)\nProduktart\nDesktop\nPassend für\nBüro\nProzessor\nIntel Pentium Dual-Core\nBetriebssystem\nNicht enthalten\nLänge\n47\nFormfaktor\nTower\nHöhe\n44\nBreite\n20\nTV-Karte\nX3M HPC2000 DVB-T/Analog PCI Karte\nMarke\nASUS\nFarbe\nMehrfarbig\nMaximale Arbeitsspeichergröße\n16 GB\nKonnektivität\nUSB 1.0/1.1, USB 2.0, DVI, RJ-45, VGA\nArbeitsspeichergröße\n4 GB\nGrafikprozessortyp\nDedizierte Grafiken\nMotherboard-Modell\nASUS P5Q SE",
-      "location": "Leipzig, Deutschland",
-      "distanceKm": null,
-      "active": true,
-      "price": 89,
-      "condition": "Artikelzustand:",
-      "sellerRating": "100% positive Bewertungen",
-      "manufacturerModel": "Silentmaxx Retro Gaming & VHS Capture PC, Asus P5Q SE, 9600GT passiv 4GB, 500GB,",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": null,
-      "storage": "nicht angegeben",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 70,
-      "silentConcept": "Silentmaxx-System (bevorzugt)",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 230,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 141,
-      "savings": 71,
-      "score": 3.5,
-      "classification": null,
-      "openQuestions": [
-        "RAM nicht angegeben",
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "89 €"
-    },
-    {
-      "id": "eBay:267790085781",
-      "source": "eBay",
-      "url": "https://www.ebay.de/itm/267790085781",
-      "title": "Unbekanntes System",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 4e18ba60-b5c5-466d-97fe-70995e63e732",
+      "url": "https://www.ebay.de/itm/307199261728",
+      "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 3c32009d-cd7c-46ea-844f-1bfbb957a415",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
       "price": null,
       "condition": "gebraucht",
       "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Unbekanntes System",
+      "manufacturerModel": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
