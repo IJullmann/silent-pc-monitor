@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-26T11:30:14.948Z",
+  "checkedAt": "2026-09-27T12:08:44.534Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -169,7 +169,7 @@
       "location": "42781 Nordrhein-Westfalen - Haan",
       "distanceKm": 188,
       "active": true,
-      "price": 450,
+      "price": 99,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
@@ -197,9 +197,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 170,
-      "savings": 55,
-      "score": 3.2,
+      "savingsBeforeUpgrades": 521,
+      "savings": 406,
+      "score": 4.9,
       "classification": "B",
       "openQuestions": [
         "SSD/NVMe nicht eindeutig angegeben",
@@ -207,7 +207,7 @@
         "TPM 2.0 und UEFI/Secure Boot bestätigen"
       ],
       "matches": false,
-      "priceLabel": "450 €"
+      "priceLabel": "99 €"
     },
     {
       "id": "Kleinanzeigen:3509354809-228-4816",
@@ -218,7 +218,7 @@
       "location": "65428 Hessen - Rüsselsheim",
       "distanceKm": 19,
       "active": true,
-      "price": 160,
+      "price": 150,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Silentmaxx Mini PC geräuschlos * i5 * 16GB * 256 GB * Windows 11",
@@ -246,9 +246,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 150,
-      "savings": 35,
-      "score": 3.3,
+      "savingsBeforeUpgrades": 160,
+      "savings": 45,
+      "score": 3.4,
       "classification": null,
       "openQuestions": [
         "SSD/NVMe nicht eindeutig angegeben",
@@ -257,7 +257,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "160 €"
+      "priceLabel": "150 €"
     },
     {
       "id": "Kleinanzeigen:3509178615-228-2127",
@@ -611,6 +611,156 @@
       "priceLabel": "120 €"
     },
     {
+      "id": "Kleinanzeigen:3523719139-228-1244",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/hfx-pc-gehaeuse-computer-passiv-fanless-luefterlos-ichbinleise/3523719139-228-1244",
+      "title": "HFX PC Gehäuse Computer passiv fanless lüfterlos IchBinLeise",
+      "description": "Beschreibung\n\nGuten Tag,\n\nAngeboten wird ein HFX Classic PC lüfterloses Gehäuse.\n\nDas Case ust gebraucht und hat deutliche Gebrauchsspuren. Ich hatte dieses gekauft, um aus zwei Gehäusen ein großes zu bauen. Dieses Projekt ist jedoch bislang nicht umgesetzt worden.\n\nMit dieser Anzeige versuche ich nun, die Gehäuse wieder zu verkaufen um Platz zu schaffen. Die Anzeige bleibt nur ca. 2 Wochen online. Sollte sich bis dahin kein Käufer gefunden haben, werde ich eine andere Lösung finden.\n\nIch freue mich auf Ihre Anfragen.\n\nEin Versand und eine Bezahlung mit PayPal Käuferschutz ist bei Kostenübernahme möglich. Ebenso können Sie das Gehäuse abholen und Vorort bezahlen.\n\nViele liebe Grüße Candlemaker",
+      "location": "33014 Nordrhein-Westfalen - Bad Driburg",
+      "distanceKm": 207,
+      "active": true,
+      "price": 40,
+      "condition": "In Ordnung",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "IchBinLeise HFX PC Gehäuse Computer passiv fanless lüfterlos",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "spezialisierter Silent-PC-Hersteller",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 190,
+      "savings": 120,
+      "score": 4.1,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "40 €"
+    },
+    {
+      "id": "Kleinanzeigen:3523716623-228-1244",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/hfx-pc-gehaeuse-computer-luefterlos-passiv-fanless-ichbinleise/3523716623-228-1244",
+      "title": "HFX PC Gehäuse Computer lüfterlos passiv fanless IchBinLeise",
+      "description": "Beschreibung\n\nGuten Tag,\n\nAngeboten wird ein HFX Classic PC lüfterloses Gehäuse.\n\nDas Case ust gebraucht und hat deutliche Gebrauchsspuren. Ich hatte dieses gekauft, um aus zwei Gehäusen ein großes zu bauen. Dieses Projekt ist jedoch bislang nicht umgesetzt worden.\n\nMit dieser Anzeige versuche ich nun, die Gehäuse wieder zu verkaufen um Platz zu schaffen. Die Anzeige bleibt nur ca. 2 Wochen online. Sollte sich bis dahin kein Käufer gefunden haben, werde ich eine andere Lösung finden.\n\nIch freue mich auf Ihre Anfragen.\n\nEin Versand und eine Bezahlung mit PayPal Käuferschutz ist bei Kostenübernahme möglich. Ebenso können Sie das Gehäuse abholen und Vorort bezahlen.\n\nViele liebe Grüße Candlemaker",
+      "location": "33014 Nordrhein-Westfalen - Bad Driburg",
+      "distanceKm": 207,
+      "active": true,
+      "price": 40,
+      "condition": "In Ordnung",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "IchBinLeise HFX PC Gehäuse Computer lüfterlos passiv fanless",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "spezialisierter Silent-PC-Hersteller",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 190,
+      "savings": 120,
+      "score": 4.1,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "40 €"
+    },
+    {
+      "id": "Kleinanzeigen:3523714974-228-1244",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/hfx-pc-gehaeuse-computer-fanless-luefterlos-passiv-ichbinleise/3523714974-228-1244",
+      "title": "HFX PC Gehäuse Computer fanless lüfterlos passiv IchBinLeise",
+      "description": "Beschreibung\n\nGuten Tag,\n\nAngeboten wird ein HFX Classic PC lüfterloses Gehäuse.\n\nDas Case ust gebraucht und hat deutliche Gebrauchsspuren. Ich hatte dieses gekauft, um aus zwei Gehäusen ein großes zu bauen. Dieses Projekt ist jedoch bislang nicht umgesetzt worden.\n\nMit dieser Anzeige versuche ich nun, die Gehäuse wieder zu verkaufen um Platz zu schaffen. Die Anzeige bleibt nur ca. 2 Wochen online. Sollte sich bis dahin kein Käufer gefunden haben, werde ich eine andere Lösung finden.\n\nIch freue mich auf Ihre Anfragen.\n\nEin Versand und eine Bezahlung mit PayPal Käuferschutz ist bei Kostenübernahme möglich. Ebenso können Sie das Gehäuse abholen und Vorort bezahlen.\n\nViele liebe Grüße Candlemaker",
+      "location": "33014 Nordrhein-Westfalen - Bad Driburg",
+      "distanceKm": 207,
+      "active": true,
+      "price": 40,
+      "condition": "In Ordnung",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "IchBinLeise HFX PC Gehäuse Computer fanless lüfterlos passiv",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "spezialisierter Silent-PC-Hersteller",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 190,
+      "savings": 120,
+      "score": 4.1,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "40 €"
+    },
+    {
       "id": "Kleinanzeigen:3514898575-228-2066",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/minisforum-mini-pc-z83-f-fanless-4gb-ram-client-nas-stream-board/3514898575-228-2066",
@@ -620,7 +770,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 90,
-      "condition": ". Technische...",
+      "condition": ". Funktioniert einwandfrei. 16GB DDR3 RAM, ohne...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -1163,8 +1313,8 @@
       "location": "86415 Bayern - Mering",
       "distanceKm": 247,
       "active": true,
-      "price": 78,
-      "condition": "gebraucht",
+      "price": 75,
+      "condition": ". Durch die kleine...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Windows 11, 2x HDMI, 2x LAN...",
       "cpu": "nicht angegeben",
@@ -1191,9 +1341,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 232,
-      "savings": 102,
-      "score": 3.7,
+      "savingsBeforeUpgrades": 235,
+      "savings": 105,
+      "score": 3.8,
       "classification": null,
       "openQuestions": [
         "RAM-Aufrüstung nötig (4 GB vorhanden)",
@@ -1202,7 +1352,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "78 €"
+      "priceLabel": "75 €"
     },
     {
       "id": "Kleinanzeigen:3513223901-228-4908",
@@ -1562,7 +1712,7 @@
       "location": "99099 Thüringen - Erfurt",
       "distanceKm": 211,
       "active": true,
-      "price": 69,
+      "price": 64,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser PC/NAS/Kodi/HomeAssistant akasa Intel i3 RAM8GB SSD",
@@ -1590,9 +1740,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 241,
-      "savings": 111,
-      "score": 3.8,
+      "savingsBeforeUpgrades": 246,
+      "savings": 116,
+      "score": 3.9,
       "classification": null,
       "openQuestions": [
         "RAM-Aufrüstung nötig (8 GB vorhanden)",
@@ -1601,7 +1751,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "69 €"
+      "priceLabel": "64 €"
     },
     {
       "id": "Kleinanzeigen:3499748216-228-8417",
@@ -1652,61 +1802,11 @@
       "priceLabel": "89 €"
     },
     {
-      "id": "Kleinanzeigen:3479569202-228-8752",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/luefterloser-industrie-pc-nise-106-n3160-novabox-9-30v-dc/3479569202-228-8752",
-      "title": "Lüfterloser Industrie-PC NISE 106-N3160 (Novabox) 9-30V DC",
-      "description": "Beschreibung\n\nZum Verkauf steht ein gebrauchter NEXCOM NISE 106-N3160 im Novabox-Branding – ein kompakter, extrem robuster, vollständig lüfterloser Industrie-PC auf Basis des Intel Celeron N3160 Quad Core. Durch die Versorgung mir 9-30 Volt und den erweiterten Temperaturbereich von -5 °C bis +55 °C ist er ideal für Automatisierungsaufgaben, Low-Energy Server, IoT-Gateways, digitale Beschilderung, Thin-Client-Betrieb oder als stromsparender Desktop-Rechner.\n\nHinweis zum Betriebssystem: Das Gerät wird ohne vorinstalliertes Betriebssystem verkauft. Auf Anfrage ist eine SSD erhältlich, eine Vorinstallation von Software ist auch möglich.\n\n═══════════════════════════════\nTECHNISCHE DATEN\n═══════════════════════════════\n\n▪️ Hersteller: NEXCOM (verbaut unter Novabox-Branding)\n▪️ Modell: NISE 106-N3160 (P/N: 10J00010603X0)\n▪️ Prozessor: Intel Celeron N3160 Quad Core, 1,6 GHz, 2 MB Cache (Braswell, onboard verlötet)\n▪️ Arbeitsspeicher: 1x 4GB DDR3L SO-DIMM\n▪️ Gehäuse: Aluminium, lüfterloses Design\n▪️ Abmessungen: 185 x 131 x 54 mm (B x T x H, ohne Wandhalterung)\n▪️ Stromversorgung: 9–30 V DC (3-Pin DC-Eingang)\n▪️ inkl. Windows 10 IoT Lizenz (Ent2019 LTSC Entry)\n\n═══════════════════════════════\nANSCHLÜSSE (VORDERSEITE)\n═══════════════════════════════\n\n▪️ 2x Intel I210AT Gigabit LAN (RJ45), WoL, Teaming und PXE\n▪️ 1x HDMI + 1x DVI-D Videoausgang\n▪️ 4x USB 3.0 (je 900 mA)\n▪️ 1x 3-Pin DC-Eingang (9–30 V DC)\n▪️ Status-LEDs: Power, HDD, Battery Low, Programming, 4x Tx/Rx\n\n═══════════════════════════════\nANSCHLÜSSE (RÜCKSEITE)\n═══════════════════════════════\n\n▪️ 1x DisplayPort\n▪️ 2x DB9 RS232/422/485 mit Auto-Flow-Control (COM1/COM2)\n▪️ 2x DB9 RS232 (COM3/COM4)\n▪️ 1x SIM-Kartenhalter\n▪️ 1x externer CFast-Steckplatz\n▪️ 2x Antennenöffnungen (für optionale Wi-Fi / 3G-Antennen)\n▪️ 1x Remote-Power-On/Off-Schalter\n▪️ 1x Mini-PCIe-Schnittstelle (für optionale Wi-Fi / 3G / LTE / NEXCOM-Automationsmodule)\n\n═══════════════════════════════\nINTERN\n═══════════════════════════════\n\n▪️ 1x 2,5\" SATA 3.0 Laufwerksschacht (HDD oder SSD)\n▪️ 1x Mini-PCIe Erweiterungssteckplatz\n▪️ 4x GPI / 4x GPO (5V, TTL)\n▪️ Dreifach-Videoausgang: HDMI + DVI-D + DisplayPort gleichzeitig\n\n═══════════════════════════════\nUMGEBUNG & ZERTIFIZIERUNGEN\n═══════════════════════════════\n\n▪️ Betriebstemperatur: -5 °C bis +55 °C (mit Luftstrom, gemäß IEC60068)\n▪️ Lagertemperatur: -30 °C bis +85 °C\n▪️ Luftfeuchtigkeit: 10–95 % RH (nicht kondensierend)\n▪️ Stoßfestigkeit (SSD): 50G, Halfsinus, 11 ms (IEC60068-27)\n▪️ Vibrationsfestigkeit (SSD): 2 Grms bei 5–500 Hz\n▪️ Zertifizierungen: CE, FCC Class A\n▪️ Unterstützte Betriebssysteme: Windows 7 (64-bit), Windows 8.1 (64-bit), Windows Embedded Standard 7, Windows 10 IoT Enterprise (64-bit)\n\n═══════════════════════════════\nVORTEILE\n═══════════════════════════════\n\n✔️ Vollständig lüfterloses Aluminium-Gehäuse für geräuschlosen, wartungsarmen Dauerbetrieb.\n✔️ Erweiterter Temperaturbereich (-5 °C bis +55 °C) für den Einsatz auch in anspruchsvollen Umgebungen.\n✔️ Weitbereichs-DC-Eingang (9–30 V) für flexible Stromversorgung (z.B. 12V/24V-Netzteile, USV, Fahrzeuganwendungen).\n✔️ Zwei Intel I210AT Gigabit-LAN-Ports mit Teaming-Unterstützung für redundante Netzwerkanbindung.\n✔️ 4 serielle COM-Ports (RS232/422/485) direkt onboard – ideal für Industrieperipherie ohne zusätzliche Adapter.\n✔️ Dreifach-Videoausgang (HDMI + DVI-D + DisplayPort) für Multi-Monitor-Setups.\n✔️ Sehr kompakt und leicht – einfach zu montieren (Wand- oder VESA-Montage möglich).\n✔️ SSD kann auf Anfrage verbaut werden.\n\n═══════════════════════════════\n\nZUSTAND: Gebraucht, funktionsfähig und getestet. Normale Gebrauchsspuren am Gehäuse. Novabox-Branding (OEM-Variante des NEXCOM NISE 106-N3160).\n\nLIEFERUMFANG: NEXCOM NISE 106-N3160, Netzteil, Wandhalterung.\n\nVersand möglich, Versandkosten trägt der Käufer.\n\nBei Fragen einfach melden!\n\nWie immer Privatverkauf ohne Garantie.",
-      "location": "69427 Baden-Württemberg - Mudau",
-      "distanceKm": 53,
-      "active": true,
-      "price": 150,
-      "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "Lüfterloser Industrie-PC NISE 106-N3160 (Novabox) 9-30V DC",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": 4,
-      "storage": "nicht angegeben",
-      "upgradeable": true,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 70 €",
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 140,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "mindestens 9 genannte Grafikausgänge",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 310,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 160,
-      "savings": 20,
-      "score": 3.6,
-      "classification": null,
-      "openQuestions": [
-        "RAM-Aufrüstung nötig (4 GB vorhanden)",
-        "SSD/NVMe nicht eindeutig angegeben",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "150 €"
-    },
-    {
       "id": "eBay:307199261728",
       "source": "eBay",
       "url": "https://www.ebay.de/itm/307199261728",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 3c32009d-cd7c-46ea-844f-1bfbb957a415",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: ccb9c071-5660-4cce-aa1c-3d8428cb8739",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
