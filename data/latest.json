@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-27T12:08:44.534Z",
+  "checkedAt": "2026-09-28T14:02:45.237Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -112,55 +112,6 @@
   ],
   "results": [
     {
-      "id": "Kleinanzeigen:3518603761-228-1916",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/server-19-zoll-rackmount-silentmaxx-leise-64-gb-ram-hdd-ssd-xeon/3518603761-228-1916",
-      "title": "Server 19 Zoll Rackmount Silentmaxx LEISE 64 GB RAM HDD SSD Xeon",
-      "description": "Beschreibung\n\nIch verkaufe hier einen fast laulosen SILENTMAXX-Server, Ausstattung:\n\n2 x Samsung SSD 860 EVO 250GB\n2 x Ultrastar DC HC310 4 TB Serverfestplatten\n64 GB RAM\nProzessor Intel Xeon Silver 4208 PASSIV GEKÜHLT\nLüfterloses SILENTMAXX-Netzteil\nMainboard Z11PA-U12\n\nWeitere technische Daten siehe Fotos . An der Außenseite kleine Lackkratzer. Windows Server 2019 EVALUATION zu Testzwecken installiert, es ist KEINE Windows-Lizenz dabei! Server ist schwer, deshalb Abholung bevorzugt! Keine Haftung, Garantie, Rücknahme oder Haftung für Transportschäden, falls keine Abholung!",
-      "location": "58239 Nordrhein-Westfalen - Schwerte",
-      "distanceKm": 189,
-      "active": true,
-      "price": 300,
-      "condition": "Gut",
-      "sellerRating": "Zufriedenheit",
-      "manufacturerModel": "Silentmaxx Server 19 Zoll Rackmount  LEISE 64 GB RAM HDD SSD Xeon",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; 64 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": 64,
-      "storage": "nicht angegeben",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 70,
-      "silentConcept": "Silentmaxx-System (bevorzugt)",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 880,
-      "comparisonPrice": 240,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": -60,
-      "savings": -130,
-      "score": 4.3,
-      "classification": null,
-      "openQuestions": [
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "300 €"
-    },
-    {
       "id": "Kleinanzeigen:3517046965-228-1516",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-kenko-fanless-mini-pc-i5-14500t-16-gb-ram-/3517046965-228-1516",
@@ -169,9 +120,9 @@
       "location": "42781 Nordrhein-Westfalen - Haan",
       "distanceKm": 188,
       "active": true,
-      "price": 99,
+      "price": 450,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
       "cpu": "Core i5-14500T",
       "cpuVideoSuitability": "Intel Core i5, Generation 14; H.264/H.265: Hardware-Decoding über iGPU",
@@ -197,9 +148,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 521,
-      "savings": 406,
-      "score": 4.9,
+      "savingsBeforeUpgrades": 170,
+      "savings": 55,
+      "score": 3.2,
       "classification": "B",
       "openQuestions": [
         "SSD/NVMe nicht eindeutig angegeben",
@@ -207,7 +158,7 @@
         "TPM 2.0 und UEFI/Secure Boot bestätigen"
       ],
       "matches": false,
-      "priceLabel": "99 €"
+      "priceLabel": "450 €"
     },
     {
       "id": "Kleinanzeigen:3509354809-228-4816",
@@ -419,7 +370,7 @@
       "active": true,
       "price": 149,
       "condition": "Sehr Gut",
-      "sellerRating": "OK Zufriedenheit",
+      "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Silentmaxx Lautloser  PC i7-4770, 8GB RAM, Blu-ray",
       "cpu": "Core i7-4770",
       "cpuVideoSuitability": "Intel Core unter i5/10. Generation; H.264/H.265: nicht belegt",
@@ -611,6 +562,107 @@
       "priceLabel": "120 €"
     },
     {
+      "id": "Kleinanzeigen:3525242661-228-2066",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/minisforum-mini-pc-z83-f-fanless-4gb-ram-client-nas-stream-board/3525242661-228-2066",
+      "title": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
+      "description": "Beschreibung\n\nMINISFORUM Z83-F Fanless Mini-PC - 4 Stück vorhanden\n\nHallo,\nverkaufe hier noch eingeschweißte Minisforum Z83-F Mini-PCs.\n\nTechinische Daten:\n- Intel Atom x5-Z8350 (4Kerne, bis 1,92 GHz)\n- 4 gb Ram\n- 64 gb eMMC Speicher\n- komplett lüfterlos\n- HDMI + VGA (zwei Bildschirme gleichzeitig möglich)\n- 1x USB 3.0 + 2x USB 2.0\n- Gigabit Lan\n- Wlan + Bluetooth\n- SD Karten Slot\n- sehr sparsam im Betrieb\n\nextrem leise da keine beweglichen Teile daher auch perfekt für Dauerbetrieb geeiget.\n\nIdeen:\n- Thin Client für Remote und Office Browser und leichte Aufgaben.\n- kleiner Always-on-Server: Pi-hole, AdGuard, Homeassistant\n- Mediacenter Server: Jellyfin, Plex\n- Digitale Werbung oder Anzeige PC z. B. in Werkstatt, Laden oder zu Hause)\n- VPS Ersatz für Openclaw oder Hermes\n- Test oder Lab-Maschine für Linux / Docker\n\nBei fragen einfach melden muss nicht formell sein;)\n\nViele Grüße",
+      "location": "45468 Nordrhein-Westfalen - Mülheim (Ruhr)",
+      "distanceKm": 213,
+      "active": true,
+      "price": 80,
+      "condition": "gebraucht",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 4,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 140,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 150,
+      "savings": 10,
+      "score": 1.5,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "80 €"
+    },
+    {
+      "id": "Kleinanzeigen:3524779130-228-18675",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/cwwk-mini-pc-n100-firewall-appliance-fanless-mini-pc/3524779130-228-18675",
+      "title": "CWWK Mini-PC N100 Firewall Appliance, Fanless Mini-PC",
+      "description": "Beschreibung\n\nHallo zusammen,\nhiermit verkaufe ich den Mini PC. Man kann es als Firewall nutzen mit OPNsense. Derzeit ist auch OPNsense installiert. Es hat 4 Ethernet Ports.\n\n- 8gb ram\n- 128gb ssd\n\n\nDa Privatverkauf keine Garantie oder Rückgabe.",
+      "location": "50937 Lindenthal - Köln Sülz",
+      "distanceKm": 169,
+      "active": true,
+      "price": 380,
+      "condition": "Sehr Gut",
+      "sellerRating": "OK Zufriedenheit",
+      "manufacturerModel": "CWWK Mini-PC N100 Firewall Appliance, Fanless Mini-PC",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 8,
+      "storage": "128 gb ssd",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 130,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 310,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": -70,
+      "savings": -200,
+      "score": 2.4,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "380 €"
+    },
+    {
       "id": "Kleinanzeigen:3523719139-228-1244",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/hfx-pc-gehaeuse-computer-passiv-fanless-luefterlos-ichbinleise/3523719139-228-1244",
@@ -759,57 +811,6 @@
       ],
       "matches": false,
       "priceLabel": "40 €"
-    },
-    {
-      "id": "Kleinanzeigen:3514898575-228-2066",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/minisforum-mini-pc-z83-f-fanless-4gb-ram-client-nas-stream-board/3514898575-228-2066",
-      "title": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
-      "description": "Beschreibung\n\nMINISFORUM Z83-F Fanless Mini-PC - 4 Stück vorhanden\n\nHallo,\nverkaufe hier noch eingeschweißte Minisforum Z83-F Mini-PCs.\n\nTechinische Daten:\n- Intel Atom x5-Z8350 (4Kerne, bis 1,92 GHz)\n- 4 gb Ram\n- 64 gb eMMC Speicher\n- komplett lüfterlos\n- HDMI + VGA (zwei Bildschirme gleichzeitig möglich)\n- 1x USB 3.0 + 2x USB 2.0\n- Gigabit Lan\n- Wlan + Bluetooth\n- SD Karten Slot\n- sehr sparsam im Betrieb\n\nextrem leise da keine beweglichen Teile daher auch perfekt für Dauerbetrieb geeiget.\n\nIdeen:\n- Thin Client für Remote und Office Browser und leichte Aufgaben.\n- kleiner Always-on-Server: Pi-hole, AdGuard, Homeassistant\n- Mediacenter Server: Jellyfin, Plex\n- Digitale Werbung oder Anzeige PC z. B. in Werkstatt, Laden oder zu Hause)\n- VPS Ersatz für Openclaw oder Hermes\n- Test oder Lab-Maschine für Linux / Docker\n\nBei fragen einfach melden muss nicht formell sein;)\n\nViele Grüße",
-      "location": "45468 Nordrhein-Westfalen - Mülheim (Ruhr)",
-      "distanceKm": 213,
-      "active": true,
-      "price": 90,
-      "condition": ". Funktioniert einwandfrei. 16GB DDR3 RAM, ohne...",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": 4,
-      "storage": "nicht angegeben",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 70 €",
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 140,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 230,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 140,
-      "savings": 0,
-      "score": 1.3,
-      "classification": null,
-      "openQuestions": [
-        "RAM-Aufrüstung nötig (4 GB vorhanden)",
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "90 €"
     },
     {
       "id": "Kleinanzeigen:2816028961-228-7153",
@@ -1071,7 +1072,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": "gebraucht",
+      "condition": ". Der PC bietet...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -1110,53 +1111,6 @@
       ],
       "matches": false,
       "priceLabel": "250 €"
-    },
-    {
-      "id": "Kleinanzeigen:3523541699-228-3752",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/nipogi-jk06-mini-pc-luefterlos-celeron-n5100-8gb-ram-256gb-m-2-/3523541699-228-3752",
-      "title": "NiPoGi JK06 Mini PC Lüfterlos (Celeron N5100, 8GB Ram, 256GB M.2)",
-      "description": "Beschreibung\n\n## NiPoGi Mini PC – Intel Celeron N5100\n\n### Powerful 11th Gen Intel Jasper Lake Processor\nThe NiPoGi Mini PC is powered by the **Intel Celeron N5100 processor**, based on Intel’s 10 nm Jasper Lake architecture. Featuring **4 cores**, a maximum clock speed of up to **2.8 GHz**, and a low **6 W TDP**, it delivers efficient and reliable performance with low power consumption.\n\nIdeal for everyday tasks such as **business applications, education, web browsing, multimedia entertainment, and home-office use**.\n\n### Flexible Storage Expansion\nEquipped with **8 GB RAM** and a **256 GB M.2 SSD**, the NiPoGi Mini PC provides fast and responsive everyday performance.\n\nStorage can be expanded in several ways:\n\n- **2.5-inch SSD/HDD:** Supports up to 2 TB\n- **TF/microSD card slot:** Supports cards up to 128 GB\n- **USB 3.0 ports:** Connect external hard drives or additional storage devices\n\nThis provides plenty of flexibility for documents, applications, photos, videos, and other files.\n\n### Fanless & Quiet Cooling\nThe NiPoGi Mini PC features a **fanless cooling design**, providing virtually silent **0 dB operation**.\n\nIts ventilated enclosure is designed to dissipate heat efficiently without requiring a cooling fan. This makes the Mini PC particularly suitable for environments where quiet operation is important, including:\n\n- Home theaters\n- Offices\n- Recording environments\n- Meeting rooms\n- Study areas\n\n### Compact Design with Magnetic Base\nThe compact NiPoGi Mini PC includes a **removable magnetic base**, allowing it to be positioned either **horizontally or vertically**.\n\nIts space-saving design makes it easy to integrate into a desk, entertainment center, office, or other compact workspace.\n\n### Dual Display Support – HDMI + VGA\nConnect up to **two monitors simultaneously** using the integrated **HDMI and VGA outputs**.\n\nDual-display support makes multitasking easier, allowing you to work with multiple applications, documents, or media sources at the same time.\n\n### Comprehensive Connectivity\nThe NiPoGi Mini PC offers a wide range of connection options:\n\n- 1 × USB Type-C\n- 2 × USB 3.0\n- 2 × USB 2.0\n- 1 × TF/microSD card slot\n- 1 × HDMI\n- 1 × VGA\n- 1 × LAN/Ethernet\n- 1 × Audio port\n- **Wi-Fi 5**\n- **Bluetooth 4**\n\nThe combination of wired and wireless connectivity makes it suitable for keyboards, mice, displays, external storage, speakers, networks, and other accessories.\n\n### Key Specifications\n**Processor:** Intel Celeron N5100, 4-core, up to 2.8 GHz\n**Architecture:** Intel Jasper Lake, 10 nm\n**TDP:** 6 W\n**Memory:** 8 GB RAM\n**Storage:** 256 GB M.2 SSD\n**Storage Expansion:** 2.5-inch SSD/HDD up to 2 TB, TF/microSD up to 128 GB\n**Display Outputs:** HDMI + VGA dual-display support\n**Wireless:** Wi-Fi 5, Bluetooth 4\n**Cooling:** Fanless\n**Design:** Compact chassis with removable magnetic base",
-      "location": "99089 Thüringen - Erfurt",
-      "distanceKm": 209,
-      "active": true,
-      "price": 123,
-      "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "NiPoGi JK06 Mini PC Lüfterlos (Celeron N5100, 8GB Ram, 256GB M.2)",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; 256 GB RAM; 256 GB SSD/NVMe; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": 256,
-      "storage": "256 GB M.2",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "SSD/NVMe auf 1 TB: ca. 60 €"
-      ],
-      "upgradeCost": 60,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "mindestens 4 genannte Grafikausgänge",
-      "replacementNewPrice": 880,
-      "comparisonPrice": 320,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 197,
-      "savings": 137,
-      "score": 8.8,
-      "classification": null,
-      "openQuestions": [
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "123 €"
     },
     {
       "id": "Kleinanzeigen:3522134368-228-4441",
@@ -1413,7 +1367,7 @@
       "location": "33617 Bielefeld - Gadderbaum",
       "distanceKm": 237,
       "active": true,
-      "price": 25,
+      "price": 20,
       "condition": "Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Mini ITX PC Server lüfterlos Intel Atom D2500 4GB RAM 160GB HDD",
@@ -1440,8 +1394,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 215,
-      "savings": 145,
+      "savingsBeforeUpgrades": 220,
+      "savings": 150,
       "score": 6,
       "classification": null,
       "openQuestions": [
@@ -1451,7 +1405,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "25 €"
+      "priceLabel": "20 €"
     },
     {
       "id": "Kleinanzeigen:3511333957-228-1582",
@@ -1802,11 +1756,61 @@
       "priceLabel": "89 €"
     },
     {
-      "id": "eBay:307199261728",
+      "id": "Kleinanzeigen:3479569202-228-8752",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/luefterloser-industrie-pc-nise-106-n3160-novabox-9-30v-dc/3479569202-228-8752",
+      "title": "Lüfterloser Industrie-PC NISE 106-N3160 (Novabox) 9-30V DC",
+      "description": "Beschreibung\n\nZum Verkauf steht ein gebrauchter NEXCOM NISE 106-N3160 im Novabox-Branding – ein kompakter, extrem robuster, vollständig lüfterloser Industrie-PC auf Basis des Intel Celeron N3160 Quad Core. Durch die Versorgung mir 9-30 Volt und den erweiterten Temperaturbereich von -5 °C bis +55 °C ist er ideal für Automatisierungsaufgaben, Low-Energy Server, IoT-Gateways, digitale Beschilderung, Thin-Client-Betrieb oder als stromsparender Desktop-Rechner.\n\nHinweis zum Betriebssystem: Das Gerät wird ohne vorinstalliertes Betriebssystem verkauft. Auf Anfrage ist eine SSD erhältlich, eine Vorinstallation von Software ist auch möglich.\n\n═══════════════════════════════\nTECHNISCHE DATEN\n═══════════════════════════════\n\n▪️ Hersteller: NEXCOM (verbaut unter Novabox-Branding)\n▪️ Modell: NISE 106-N3160 (P/N: 10J00010603X0)\n▪️ Prozessor: Intel Celeron N3160 Quad Core, 1,6 GHz, 2 MB Cache (Braswell, onboard verlötet)\n▪️ Arbeitsspeicher: 1x 4GB DDR3L SO-DIMM\n▪️ Gehäuse: Aluminium, lüfterloses Design\n▪️ Abmessungen: 185 x 131 x 54 mm (B x T x H, ohne Wandhalterung)\n▪️ Stromversorgung: 9–30 V DC (3-Pin DC-Eingang)\n▪️ inkl. Windows 10 IoT Lizenz (Ent2019 LTSC Entry)\n\n═══════════════════════════════\nANSCHLÜSSE (VORDERSEITE)\n═══════════════════════════════\n\n▪️ 2x Intel I210AT Gigabit LAN (RJ45), WoL, Teaming und PXE\n▪️ 1x HDMI + 1x DVI-D Videoausgang\n▪️ 4x USB 3.0 (je 900 mA)\n▪️ 1x 3-Pin DC-Eingang (9–30 V DC)\n▪️ Status-LEDs: Power, HDD, Battery Low, Programming, 4x Tx/Rx\n\n═══════════════════════════════\nANSCHLÜSSE (RÜCKSEITE)\n═══════════════════════════════\n\n▪️ 1x DisplayPort\n▪️ 2x DB9 RS232/422/485 mit Auto-Flow-Control (COM1/COM2)\n▪️ 2x DB9 RS232 (COM3/COM4)\n▪️ 1x SIM-Kartenhalter\n▪️ 1x externer CFast-Steckplatz\n▪️ 2x Antennenöffnungen (für optionale Wi-Fi / 3G-Antennen)\n▪️ 1x Remote-Power-On/Off-Schalter\n▪️ 1x Mini-PCIe-Schnittstelle (für optionale Wi-Fi / 3G / LTE / NEXCOM-Automationsmodule)\n\n═══════════════════════════════\nINTERN\n═══════════════════════════════\n\n▪️ 1x 2,5\" SATA 3.0 Laufwerksschacht (HDD oder SSD)\n▪️ 1x Mini-PCIe Erweiterungssteckplatz\n▪️ 4x GPI / 4x GPO (5V, TTL)\n▪️ Dreifach-Videoausgang: HDMI + DVI-D + DisplayPort gleichzeitig\n\n═══════════════════════════════\nUMGEBUNG & ZERTIFIZIERUNGEN\n═══════════════════════════════\n\n▪️ Betriebstemperatur: -5 °C bis +55 °C (mit Luftstrom, gemäß IEC60068)\n▪️ Lagertemperatur: -30 °C bis +85 °C\n▪️ Luftfeuchtigkeit: 10–95 % RH (nicht kondensierend)\n▪️ Stoßfestigkeit (SSD): 50G, Halfsinus, 11 ms (IEC60068-27)\n▪️ Vibrationsfestigkeit (SSD): 2 Grms bei 5–500 Hz\n▪️ Zertifizierungen: CE, FCC Class A\n▪️ Unterstützte Betriebssysteme: Windows 7 (64-bit), Windows 8.1 (64-bit), Windows Embedded Standard 7, Windows 10 IoT Enterprise (64-bit)\n\n═══════════════════════════════\nVORTEILE\n═══════════════════════════════\n\n✔️ Vollständig lüfterloses Aluminium-Gehäuse für geräuschlosen, wartungsarmen Dauerbetrieb.\n✔️ Erweiterter Temperaturbereich (-5 °C bis +55 °C) für den Einsatz auch in anspruchsvollen Umgebungen.\n✔️ Weitbereichs-DC-Eingang (9–30 V) für flexible Stromversorgung (z.B. 12V/24V-Netzteile, USV, Fahrzeuganwendungen).\n✔️ Zwei Intel I210AT Gigabit-LAN-Ports mit Teaming-Unterstützung für redundante Netzwerkanbindung.\n✔️ 4 serielle COM-Ports (RS232/422/485) direkt onboard – ideal für Industrieperipherie ohne zusätzliche Adapter.\n✔️ Dreifach-Videoausgang (HDMI + DVI-D + DisplayPort) für Multi-Monitor-Setups.\n✔️ Sehr kompakt und leicht – einfach zu montieren (Wand- oder VESA-Montage möglich).\n✔️ SSD kann auf Anfrage verbaut werden.\n\n═══════════════════════════════\n\nZUSTAND: Gebraucht, funktionsfähig und getestet. Normale Gebrauchsspuren am Gehäuse. Novabox-Branding (OEM-Variante des NEXCOM NISE 106-N3160).\n\nLIEFERUMFANG: NEXCOM NISE 106-N3160, Netzteil, Wandhalterung.\n\nVersand möglich, Versandkosten trägt der Käufer.\n\nBei Fragen einfach melden!\n\nWie immer Privatverkauf ohne Garantie.",
+      "location": "69427 Baden-Württemberg - Mudau",
+      "distanceKm": 53,
+      "active": true,
+      "price": 150,
+      "condition": "Sehr Gut",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Lüfterloser Industrie-PC NISE 106-N3160 (Novabox) 9-30V DC",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": 4,
+      "storage": "nicht angegeben",
+      "upgradeable": true,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 140,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "mindestens 9 genannte Grafikausgänge",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 310,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 160,
+      "savings": 20,
+      "score": 3.6,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (4 GB vorhanden)",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "150 €"
+    },
+    {
+      "id": "eBay:306584160426",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/307199261728",
+      "url": "https://www.ebay.de/itm/306584160426",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: ccb9c071-5660-4cce-aa1c-3d8428cb8739",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 588e2e38-5a98-419a-973d-b6490e79e3fc",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
