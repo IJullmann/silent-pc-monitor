@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-28T14:02:45.237Z",
+  "checkedAt": "2026-09-29T12:59:29.948Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -112,55 +112,6 @@
   ],
   "results": [
     {
-      "id": "Kleinanzeigen:3517046965-228-1516",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-kenko-fanless-mini-pc-i5-14500t-16-gb-ram-/3517046965-228-1516",
-      "title": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
-      "description": "Beschreibung\n\nsilentmaxx KENKO Fanless Mini-PC | i5-14500T | 16 GB RAM | 1 TB Samsung NVMe | lüfterlos\nPreis: 679 € VB\n\nZum Verkauf steht ein hochwertiger silentmaxx KENKO Fanless Mini BS in neuwertigem Zustand.\n\nDer PC ist technisch zu 100 % funktionsfähig und arbeitet dank seines passiv gekühlten Aluminiumgehäuses komplett ohne CPU-/Gehäuselüfter. Damit eignet er sich besonders für Arbeitsplätze, Homeoffice, Büro, Audio-/Musikanwendungen oder andere Einsatzbereiche, bei denen ein möglichst geräuschloser Rechner gewünscht ist.\n\nTechnische Ausstattung:\n\nIntel Core i5-14500T\n14 Kerne / 20 Threads\n6 Performance-Kerne + 8 Efficiency-Kerne\nIntel UHD Graphics 770\nenergieeffiziente T-Serie\n\n16 GB DDR4-3200 RAM\n2 × 8 GB Crucial SO-DIMM\n\n1 TB Samsung 980 NVMe SSD\nPCIe 3.0 x4\nbis zu 3.500 MB/s Lesen / 3.000 MB/s Schreiben\n\nASUS Prime H610T-CSM Mini-ITX Mainboard\nIntel H610 Chipsatz\nHDMI\nDisplayPort 1.4\nGigabit-LAN\nUSB 3.2\nHD-Audio\n\nsilentmaxx Fanless Aluminiumgehäuse\npassive Kühlung ohne Lüfter\n\nexternes 120-Watt-Netzteil\n\nDer Rechner wurde im März 2024 bei silentmaxx / silent systems GmbH gekauft. Der damalige Rechnungsbetrag betrug 1.031,89 €.\n\nDer PC befindet sich in neuwertigem Zustand und funktioniert technisch einwandfrei.\n\nBesonders interessant ist das Gerät für Käufer, die einen leistungsfähigen und gleichzeitig lüfterlosen PC suchen. Durch den Core i5-14500T mit 14 Kernen bietet er deutlich mehr Rechenleistung als viele typische Mini-PCs, bleibt dabei aber sehr kompakt und auf einen geräuscharmen Betrieb ausgelegt.\n\nPreisvorstellung: 450 € VB\n\nBei ernsthaftem Interesse gerne melden.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung.",
-      "location": "42781 Nordrhein-Westfalen - Haan",
-      "distanceKm": 188,
-      "active": true,
-      "price": 450,
-      "condition": "Sehr Gut",
-      "sellerRating": "Zufriedenheit",
-      "manufacturerModel": "silentmaxx KENKO Fanless Mini-PC/i5-14500T/16 GB RAM/",
-      "cpu": "Core i5-14500T",
-      "cpuVideoSuitability": "Intel Core i5, Generation 14; H.264/H.265: Hardware-Decoding über iGPU",
-      "windows11Suitability": "CPU-Klasse offiziell geeignet; 16 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "Intel UHD Graphics 770",
-      "ramGb": 16,
-      "storage": "nicht angegeben",
-      "upgradeable": true,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 45 €",
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 115,
-      "silentConcept": "Silentmaxx-System (bevorzugt)",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 870,
-      "comparisonPrice": 620,
-      "estimatedAge": 2,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 170,
-      "savings": 55,
-      "score": 3.2,
-      "classification": "B",
-      "openQuestions": [
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "TPM 2.0 und UEFI/Secure Boot bestätigen"
-      ],
-      "matches": false,
-      "priceLabel": "450 €"
-    },
-    {
       "id": "Kleinanzeigen:3509354809-228-4816",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-mini-pc-geraeuschlos-i5-16gb-256-gb-windows-11/3509354809-228-4816",
@@ -169,9 +120,9 @@
       "location": "65428 Hessen - Rüsselsheim",
       "distanceKm": 19,
       "active": true,
-      "price": 150,
+      "price": 155,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Silentmaxx Mini PC geräuschlos * i5 * 16GB * 256 GB * Windows 11",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
@@ -197,8 +148,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 160,
-      "savings": 45,
+      "savingsBeforeUpgrades": 155,
+      "savings": 40,
       "score": 3.4,
       "classification": null,
       "openQuestions": [
@@ -208,7 +159,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "150 €"
+      "priceLabel": "155 €"
     },
     {
       "id": "Kleinanzeigen:3509178615-228-2127",
@@ -617,7 +568,7 @@
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/cwwk-mini-pc-n100-firewall-appliance-fanless-mini-pc/3524779130-228-18675",
       "title": "CWWK Mini-PC N100 Firewall Appliance, Fanless Mini-PC",
-      "description": "Beschreibung\n\nHallo zusammen,\nhiermit verkaufe ich den Mini PC. Man kann es als Firewall nutzen mit OPNsense. Derzeit ist auch OPNsense installiert. Es hat 4 Ethernet Ports.\n\n- 8gb ram\n- 128gb ssd\n\n\nDa Privatverkauf keine Garantie oder Rückgabe.",
+      "description": "Beschreibung\n\nHallo zusammen,\n\nhiermit verkaufe ich den Mini PC. Man kann es als Firewall nutzen mit OPNsense. Derzeit ist auch OPNsense installiert. Es hat 4 Ethernet Ports.\n\n- 8GB RAM\n- 128GB SSD\n\n\nDa Privatverkauf keine Garantie oder Rückgabe.",
       "location": "50937 Lindenthal - Köln Sülz",
       "distanceKm": 169,
       "active": true,
@@ -630,7 +581,7 @@
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
       "gpu": "nicht angegeben",
       "ramGb": 8,
-      "storage": "128 gb ssd",
+      "storage": "128 GB SSD",
       "upgradeable": false,
       "recommendedUpgrades": [
         "RAM auf 32 GB: ca. 70 €",
@@ -817,11 +768,11 @@
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/compulab-fitlet2-fanless-embedded-pc-quad-core-8gb-60gb-iot-pc/2816028961-228-7153",
       "title": "Compulab fitlet2 Fanless Embedded PC Quad Core 8GB 60GB IoT PC",
-      "description": "Beschreibung\n\nCompulab fitlet2 Fanless Embedded PC (J3455 Quad Core, 8GB, 60GB SSD, HD Graphics 500), OHNE BS\n\nGebraucht - Wie neu:\nDie Geräte befinden sich in neuwertigem Zustand und wurden nur tlw. kurzzeitig in Betrieb genommen. Alle Geräte wurden technisch überprüft, gereinigt und auf Werkseinstellungen zurückgesetzt. Die Originalverpackung ist vorhanden.\n\nLieferumfang:\nCompulab fitlet2 wie beschrieben\nNetzteil,Staubschutzkappen für Anschlüsse,Bedienungsanleitung,OHNE Betriebssystem\n\nEine ausführliche Beschreibung finden Sie hier:\nhttps://www.harlander.com/compulab-fitlet2-fanless-embedded-pc-j3455-quad-core-8gb-60gb-ssd-hd-graphics-500-ohne-bs-demoware.html\n\nIntern (10098127) schwarz\n\n\n",
+      "description": "Beschreibung\n\nCompulab fitlet2 Fanless Embedded PC (J3455 Quad Core, 8GB, 60GB SSD, HD Graphics 500), OHNE BS\n\nGebraucht - Wie neu:\nDie Geräte befinden sich in neuwertigem Zustand und wurden nur tlw. kurzzeitig in Betrieb genommen. Alle Geräte wurden technisch überprüft, gereinigt und auf Werkseinstellungen zurückgesetzt. Die Originalverpackung ist vorhanden.\n\nLieferumfang:\nCompulab fitlet2 wie beschrieben\nNetzteil,Staubschutzkappen für Anschlüsse,Bedienungsanleitung,OHNE Betriebssystem\n\nEine ausführliche Beschreibung finden Sie hier:\nhttps://www.harlander.com/compulab-fitlet2-fanless-embedded-pc-j3455-quad-core-8gb-60gb-ssd-hd-graphics-500-ohne-bs-demoware.html\n\nIntern (10098127) schwarz",
       "location": "86698 Bayern - Oberndorf am Lech",
       "distanceKm": 209,
       "active": true,
-      "price": 140,
+      "price": 170,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Compulab fitlet2 Fanless Embedded PC Quad Core 8GB 60GB IoT PC",
@@ -848,9 +799,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 220,
-      "savings": 160,
-      "score": 4.9,
+      "savingsBeforeUpgrades": 190,
+      "savings": 130,
+      "score": 4.5,
       "classification": null,
       "openQuestions": [
         "RAM nicht angegeben",
@@ -859,7 +810,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "140 €"
+      "priceLabel": "170 €"
     },
     {
       "id": "Kleinanzeigen:3498354522-228-1556",
@@ -1072,7 +1023,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": ". Der PC bietet...",
+      "condition": "mit sichtbaren Gebrauchsspuren. PC wird ohne...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -1268,7 +1219,7 @@
       "distanceKm": 247,
       "active": true,
       "price": 75,
-      "condition": ". Durch die kleine...",
+      "condition": "Verkaufe einen HP ProDesk 400 G2 Mini in gepflegtem und voll funktionsfähigem Zustand. Technische...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Windows 11, 2x HDMI, 2x LAN...",
       "cpu": "nicht angegeben",
@@ -1806,18 +1757,18 @@
       "priceLabel": "150 €"
     },
     {
-      "id": "eBay:306584160426",
+      "id": "eBay:298698931572",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/306584160426",
-      "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 588e2e38-5a98-419a-973d-b6490e79e3fc",
+      "url": "https://www.ebay.de/itm/298698931572",
+      "title": "Unbekanntes System",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 6fbd111e-a9da-4324-b660-023ef3cda13d",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
       "price": null,
       "condition": "gebraucht",
       "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
+      "manufacturerModel": "Unbekanntes System",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
