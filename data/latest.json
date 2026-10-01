@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T12:41:10.107Z",
+  "checkedAt": "2026-10-01T13:22:49.261Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -1023,7 +1023,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": ". Geprüft. Rechnung inkl. ausgewiesener Mehrwertsteuer. Alle unsere Geräte und...",
+      "condition": "refurbished",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -1041,7 +1041,7 @@
       "silentConcept": "passiv/lüfterlos",
       "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
       "replacementNewPrice": 870,
-      "comparisonPrice": 230,
+      "comparisonPrice": 290,
       "estimatedAge": 6,
       "warrantyMonths": 0,
       "priceBasisDate": "2026-08-23",
@@ -1050,8 +1050,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": -20,
-      "savings": -125,
+      "savingsBeforeUpgrades": 40,
+      "savings": -65,
       "score": 3.7,
       "classification": null,
       "openQuestions": [
@@ -1062,6 +1062,56 @@
       ],
       "matches": false,
       "priceLabel": "250 €"
+    },
+    {
+      "id": "Kleinanzeigen:3527435925-228-9304",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/mini-pc-orbsmart-aw-12l-luefterlos-8gb-ram-windows-11-pro/3527435925-228-9304",
+      "title": "Mini-PC Orbsmart AW-12L, lüfterlos(!), 8GB RAM, Windows 11 Pro",
+      "description": "Beschreibung\nHier verkaufe ich einen Orbsmart AW-12L\n\n- QuadCore Celeron J4125\n- 8GB DDR4-RAM\n- 128GB SSD\n- Windows 11 Professional mit allen Updates\n(kann aber auch zurückfgesetzt werden)\n- Dual HDMI out (4K-fähig)\n- M.2 NVMe SSD-Slot\n- WoL, PXE-Boot, RTC\n- WLAN-ac (Dualband 2.4/5GHz)\n- Bluetooth 4.2\n- Gigabit-LAN\n- 4x USB 3.0 / 3.5mm Audio-Ausgang / SD-Kartenslot\n\n\nGekauft wie gesehen (Gerät funktioniert problemlos), Privatverkauf unter Ausschluss der Sachmängelhaftung.\n\nGerne Abholung in Stuttgart Sillenbuch, Vaihingen oder West,\nsonst Versand als versichertes Paket mit Hermes oder DHL.\n\nBitte schaut auch in meine anderen Anzeigen!",
+      "location": "70619 Stuttgart - Sillenbuch",
+      "distanceKm": 132,
+      "active": true,
+      "price": 131,
+      "condition": "Sehr Gut",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Mini-PC Orbsmart AW-12L, lüfterlos(!), 8GB RAM, Windows 11 Pro",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; Windows 11/TPM/UEFI belegt",
+      "gpu": "nicht angegeben",
+      "ramGb": 8,
+      "storage": "128 GB SSD",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 70 €",
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 130,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 310,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 179,
+      "savings": 49,
+      "score": 3,
+      "classification": null,
+      "openQuestions": [
+        "RAM-Aufrüstung nötig (8 GB vorhanden)",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "131 €"
     },
     {
       "id": "Kleinanzeigen:3526878150-228-4441",
@@ -1160,56 +1210,6 @@
       "priceLabel": "75 €"
     },
     {
-      "id": "Kleinanzeigen:3484969953-228-5787",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/smarthome-server-pc-luefterlos-homeassistant-hutschine/3484969953-228-5787",
-      "title": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
-      "description": "Beschreibung\nIch biete hier einen kompakten und extrem energieeffizienten Siemens Simatic IPC 227E Nanobox PC an, der bisher als zuverlässige SmartHome-Zentrale gedient hat. Das Gerät eignet sich hervorragend für Projekte wie die Installation von Umbrel OS.\n\n- Modell: Siemens Simatic IPC 227E\n- Bauweise: Kompakter, lüfterloser Nanobox PC\n- Inklusive: Intel SSD und umgebauten Netzteil auf standard Schuko\n- Zustand: Voll funktionsfähig\n\nDer Industrie-PC ist sehr robust gebaut und bietet durch die lüfterlose Kühlung einen lautlosen Betrieb, was ihn ideal für den Dauerbetrieb zu Hause macht. Er wird lediglich aufgrund einer Umstrukturierung meines gesamten SmartHome-Systems abgegeben.\n\nBei Interesse oder weiteren Fragen schreib mir gerne eine Nachricht.\n\nBarzahlung bei Abholung. Oder versand bei Paypal Freunde Zahlung.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung, also keine Gewährleistung und keine Rücknahme. Zudem keine Garantie",
-      "location": "92263 Bayern - Ebermannsdorf",
-      "distanceKm": 247,
-      "active": true,
-      "price": 150,
-      "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": null,
-      "storage": "nicht angegeben",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 70,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 230,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 80,
-      "savings": 10,
-      "score": 2.2,
-      "classification": null,
-      "openQuestions": [
-        "RAM nicht angegeben",
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "150 €"
-    },
-    {
       "id": "Kleinanzeigen:3514796355-228-7040",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/luefterloser-mini-pc-intel-i5-ssd-windows-11-2x-hdmi-2x-lan-/3514796355-228-7040",
@@ -1219,7 +1219,7 @@
       "distanceKm": 247,
       "active": true,
       "price": 75,
-      "condition": "Verkaufe einen HP ProDesk 400 G2 Mini in gepflegtem und voll funktionsfähigem Zustand. Technische...",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Windows 11, 2x HDMI, 2x LAN...",
       "cpu": "nicht angegeben",
@@ -1656,6 +1656,56 @@
       ],
       "matches": false,
       "priceLabel": "150 €"
+    },
+    {
+      "id": "eBay:187669775113",
+      "source": "eBay",
+      "url": "https://www.ebay.de/itm/187669775113",
+      "title": "Unbekanntes System",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: fb93e4c8-c3b3-4c63-a4ab-61575b1778de",
+      "location": "Online-Händler · Versand",
+      "distanceKm": null,
+      "active": true,
+      "price": null,
+      "condition": "gebraucht",
+      "sellerRating": "nicht verfügbar",
+      "manufacturerModel": "Unbekanntes System",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "nicht nachgewiesen",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 670,
+      "comparisonPrice": 180,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": null,
+      "savings": null,
+      "score": 0,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "nicht angegeben"
     }
   ]
 }
