@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-04T12:27:11.311Z",
+  "checkedAt": "2026-10-05T14:47:48.996Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -471,7 +471,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 80,
-      "condition": "gebraucht",
+      "condition": "!!!!! auch...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -517,7 +517,7 @@
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/cwwk-mini-pc-n100-firewall-appliance-fanless-mini-pc/3524779130-228-18675",
       "title": "CWWK Mini-PC N100 Firewall Appliance, Fanless Mini-PC",
-      "description": "Beschreibung\nHallo zusammen,\n\nhiermit verkaufe ich den Mini PC. Man kann es als Firewall nutzen mit OPNsense. Derzeit ist auch OPNsense installiert. Es hat 4 Ethernet Ports.\n\n- 8GB RAM\n- 128GB SSD\n\n\nDa Privatverkauf keine Garantie oder Rückgabe.",
+      "description": "Beschreibung\nHallo zusammen,\n\nhiermit verkaufe ich den Mini PC. Man kann es als Firewall nutzen mit OPNsense. Derzeit ist auch OPNsense installiert. Es hat 4 Ethernet Ports.\n\n- Intel N100 CPU\n- 8GB RAM\n- 128GB SSD\n\n\nDa Privatverkauf keine Garantie oder Rückgabe.",
       "location": "50937 Lindenthal - Köln Sülz",
       "distanceKm": 169,
       "active": true,
@@ -561,55 +561,6 @@
       ],
       "matches": false,
       "priceLabel": "380 €"
-    },
-    {
-      "id": "Kleinanzeigen:2816028961-228-7153",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/compulab-fitlet2-fanless-embedded-pc-quad-core-8gb-60gb-iot-pc/2816028961-228-7153",
-      "title": "Compulab fitlet2 Fanless Embedded PC Quad Core 8GB 60GB IoT PC",
-      "description": "Beschreibung\nCompulab fitlet2 Fanless Embedded PC (J3455 Quad Core, 8GB, 60GB SSD, HD Graphics 500), OHNE BS\n\nGebraucht - Wie neu:\nDie Geräte befinden sich in neuwertigem Zustand und wurden nur tlw. kurzzeitig in Betrieb genommen. Alle Geräte wurden technisch überprüft, gereinigt und auf Werkseinstellungen zurückgesetzt. Die Originalverpackung ist vorhanden.\n\nLieferumfang:\nCompulab fitlet2 wie beschrieben\nNetzteil,Staubschutzkappen für Anschlüsse,Bedienungsanleitung,OHNE Betriebssystem\n\nEine ausführliche Beschreibung finden Sie hier:\nhttps://www.harlander.com/compulab-fitlet2-fanless-embedded-pc-j3455-quad-core-8gb-60gb-ssd-hd-graphics-500-ohne-bs-demoware.html\n\nIntern (10098127) schwarz",
-      "location": "86698 Bayern - Oberndorf am Lech",
-      "distanceKm": 209,
-      "active": true,
-      "price": 180,
-      "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "Compulab fitlet2 Fanless Embedded PC Quad Core 8GB 60GB IoT PC",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": null,
-      "storage": "60 GB SSD",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "SSD/NVMe auf 1 TB: ca. 60 €"
-      ],
-      "upgradeCost": 60,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 360,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 180,
-      "savings": 120,
-      "score": 4.4,
-      "classification": null,
-      "openQuestions": [
-        "RAM nicht angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "180 €"
     },
     {
       "id": "Kleinanzeigen:3498354522-228-1556",
@@ -964,56 +915,6 @@
       "priceLabel": "45 €"
     },
     {
-      "id": "Kleinanzeigen:3528260048-228-26752",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/minisforum-n40-mini-pc-4-gb-ram-64-gb-windows-11-luefterlos/3528260048-228-26752",
-      "title": "MINISFORUM N40 Mini-PC 4 GB RAM 64 GB Windows 11 lüfterlos",
-      "description": "Beschreibung\nVerkaufe einen kompakten, lüfterlosen MINISFORUM N40 Mini-PC inklusive Netzteil.\n\n• Intel Celeron N4020\n• 4 GB DDR4-Arbeitsspeicher\n• 64 GB eMMC-Speicher\n• Windows 11 installiert\n• HDMI, VGA, USB und LAN\n• WLAN und Bluetooth\n\nDer Mini-PC ist gebraucht und funktioniert einwandfrei. Durch die lüfterlose Bauweise entstehen keine Lüftergeräusche.\n\nSichtbare Gebrauchsspuren am Gehäuse; an der Unterseite fehlt ein Gummifuß (siehe Fotos).\n\nLieferumfang: Mini-PC und Netzteil. Versand gegen Übernahme der Versandkosten möglich.",
-      "location": "18230 Bad Doberan - Landkreis - Zweedorf",
-      "distanceKm": null,
-      "active": true,
-      "price": 50,
-      "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "MINISFORUM N40 Mini-PC 4 GB RAM 64 GB Windows 11 lüfterlos",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; 64 GB RAM; mindestens 256 GB SSD/NVMe nötig; Windows 11/TPM/UEFI belegt",
-      "gpu": "nicht angegeben",
-      "ramGb": 64,
-      "storage": "nicht angegeben",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 70,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 880,
-      "comparisonPrice": 240,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 190,
-      "savings": 120,
-      "score": 6,
-      "classification": null,
-      "openQuestions": [
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "Entfernung zu Darmstadt unklar",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "50 €"
-    },
-    {
       "id": "Kleinanzeigen:3527435925-228-9304",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/mini-pc-orbsmart-aw-12l-luefterlos-8gb-ram-windows-11-pro/3527435925-228-9304",
@@ -1162,8 +1063,8 @@
     {
       "id": "Kleinanzeigen:3484969953-228-5787",
       "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/smarthome-server-pc-luefterlos-homeassistant-hutschine/3484969953-228-5787",
-      "title": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/smarthome-server-pc-luefterlos-raspi-alternative-hutschine/3484969953-228-5787",
+      "title": "SmartHome Server | PC | Lüfterlos | Raspi Alternative | Hutschine",
       "description": "Beschreibung\nIch biete hier einen kompakten und extrem energieeffizienten Siemens Simatic IPC 227E Nanobox PC an, der bisher als zuverlässige SmartHome-Zentrale gedient hat. Das Gerät eignet sich hervorragend für Projekte wie die Installation von Umbrel OS.\n\n- Modell: Siemens Simatic IPC 227E\n- Bauweise: Kompakter, lüfterloser Nanobox PC\n- Inklusive: Intel SSD und umgebauten Netzteil auf standard Schuko\n- Zustand: Voll funktionsfähig\n\nDer Industrie-PC ist sehr robust gebaut und bietet durch die lüfterlose Kühlung einen lautlosen Betrieb, was ihn ideal für den Dauerbetrieb zu Hause macht. Er wird lediglich aufgrund einer Umstrukturierung meines gesamten SmartHome-Systems abgegeben.\n\nBei Interesse oder weiteren Fragen schreib mir gerne eine Nachricht.\n\nBarzahlung bei Abholung. Oder versand bei Paypal Freunde Zahlung.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung, also keine Gewährleistung und keine Rücknahme. Zudem keine Garantie",
       "location": "92263 Bayern - Ebermannsdorf",
       "distanceKm": 247,
@@ -1171,7 +1072,7 @@
       "price": 150,
       "condition": "Voll funktionsfähig",
       "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "SmartHome Server | PC | Lüfterlos | Homeassistant | Hutschine",
+      "manufacturerModel": "SmartHome Server | PC | Lüfterlos | Raspi Alternative | Hutschine",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
@@ -1218,8 +1119,8 @@
       "location": "86415 Bayern - Mering",
       "distanceKm": 247,
       "active": true,
-      "price": 75,
-      "condition": "Siehe Bilder Windows 7...",
+      "price": 74,
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Win 11, 2x HDMI, Monitor",
       "cpu": "nicht angegeben",
@@ -1246,8 +1147,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 235,
-      "savings": 105,
+      "savingsBeforeUpgrades": 236,
+      "savings": 106,
       "score": 3.8,
       "classification": null,
       "openQuestions": [
@@ -1257,7 +1158,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "75 €"
+      "priceLabel": "74 €"
     },
     {
       "id": "Kleinanzeigen:3511333957-228-1582",
@@ -1658,11 +1559,58 @@
       "priceLabel": "150 €"
     },
     {
+      "id": "Kleinanzeigen:3527741362-228-6688",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/leise-r-workstion-gaming-pc-ryzen-9-32gb-wasserkuehlung-gtx1080ti/3527741362-228-6688",
+      "title": "Leise(r) Workstion/Gaming PC Ryzen 9 32GB Wasserkühlung GTX1080TI",
+      "description": "Beschreibung\nTOP 3-18% Gaming PC! Custom Wasserkühlung 16Core Ryzen9 32GB WIFI GTX 1080Ti\n\nAchtung: Hier handelt es sich nicht um einen 'billig'-PC. Es sind gepflegte, saubere, qualitativ hochwertige und teilweise NEUE Komponenten verbaut, die niedrige Temperaturen, lange Lebenszeit und einen leisen und wartungsarmen Betrieb ermöglichen. Des Weiteren ist das hier eine solide Basis, um in den Bereich Custom Wasserkühlung einzusteigen in einem vergleichsweise kompakten Gehäuse.\n\nIm weltweiten Passmark-Vergleich schneidet der PC in den oberen 3% (RAM); 10% (CPU); 18% (GPU) ab! Es handelt sich also um einen HIGH-END PC! Durch die Custom-Wasserkühlung schreien beim Gaming auch keine Lüfter und die Geräuschkulisse bleibt im Rahmen.\n\nSpezifikationen:\nBest Ryzen 3000 CPU: 16 Kerne 32 Threads Ryzen 9 3950X (Wassergekühlt mit Kryos Cuplex next)\n2nd best X570 Mainboard: AORUS X570 Master (Wassergekühlter Chipsatz!) WIFI 2x LAN: 2.5 Gbit; 1 Gbit\n\"Greatest GPU of all times\": AORUS GTX 1080ti (Wassergekühlt!)\n32 GB Arbeitsspeicher 3600MHZ CL16 (4x8GB) RGB Programmierbar (Farbwechsel usw)\n128GB NVME SSD (Weitere NEUE SSDs kann ich gern auf Anfrage einbauen. Wir suchen dir was passendes raus. Alternativ kann ich auch eine meiner 1-2TB SSDs oder 2-4TB HDDs anbieten)\nGigabyte 750 Watt 80+ GOLD Netzteil NEU\n240mm + 360mm KUPFER Radiator + Wasserpumpe NEU\nGehäuse mit Scharniertür + RGB Lüfter NEU\n3D-Gedruckter GPU-Halter\n3D-Gedruckter 360->420 Adapter für Radiator\n3D-Gedruckter Pumpenhalter am Radiator\n\nBenchmarks in 2560x1440:\nDAYZ: HIGH: 124 FPS; Medium: 201 FPS\nMetro Last Light Redux: VERY HIGH: 136 FPS\nPUBG: HIGH: 160 FPS; LOW: 270 FPS\nBattlefield 6: LOW: 88 FPS; HIGH (1080p): 92 FPS\nCOD Modern Warfare 3 (2023): ULTRA: 80 FPS; LOW: 100 FPS\nFortnite: HIGH: 94 FPS; LOW: 295+ FPS\nCounterstrike 2: SEHR HOCH: 161 FPS; LOW: 298+ FPS\nForza Horizon 5: HIGH: 158 FPS; Low: 235 FPS\nAnno 1800: HIGH: 132 FPS; LOW: 240 FPS\n\nHier noch ein kleiner Vergleich zur 5060; Bedenke, dass die 1080Ti im Video nicht Wassergekühlt ist und nicht über 2 ghz boosted, also gern nochmal 10-15% FPS drauf rechnen: https://www.youtube.com/watch?v=99eiyF_2rBo\n\nKann vor Kauf getestet werden.\nABHOLUNG! Kein Versand\nPrivatverkauf. Der Verkauf erfolgt unter Ausschluss der Sachmängelhaftung. Keine Garantie, keine Rücknahme.",
+      "location": "89250 Bayern - Senden",
+      "distanceKm": 201,
+      "active": true,
+      "price": 899,
+      "condition": "Sehr Gut",
+      "sellerRating": "OK Zufriedenheit",
+      "manufacturerModel": "Leise(r) Workstion/Gaming PC Ryzen 9 32GB Wasserkühlung GTX1080TI",
+      "cpu": "Ryzen 3000",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: Hardware-Decoding über GPU",
+      "windows11Suitability": "CPU nicht geeignet; 32 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "GTX1080TI",
+      "ramGb": 32,
+      "storage": "128 GB NVME",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 60,
+      "silentConcept": "nicht nachgewiesen",
+      "displaySuitability": "GTX1080TI; üblicherweise 3+ gleichzeitige Displays, Anschlüsse vor Kauf prüfen",
+      "replacementNewPrice": 920,
+      "comparisonPrice": 390,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": -509,
+      "savings": -569,
+      "score": 4.4,
+      "classification": null,
+      "openQuestions": [
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "899 €"
+    },
+    {
       "id": "eBay:267800004152",
       "source": "eBay",
       "url": "https://www.ebay.de/itm/267800004152",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 12903969-b4dd-4dd8-98a9-49c5d82eb00f",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 10508cf2-fe2c-4234-8e82-11ad2c3cbb4a",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
