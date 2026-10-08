@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-07T13:30:39.172Z",
+  "checkedAt": "2026-10-08T13:36:53.796Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -120,7 +120,7 @@
       "location": "65428 Hessen - Rüsselsheim",
       "distanceKm": 19,
       "active": true,
-      "price": 155,
+      "price": 150,
       "condition": "Sehr Gut",
       "sellerRating": "Zufriedenheit",
       "manufacturerModel": "Silentmaxx Mini PC geräuschlos * i5 * 16GB * 256 GB * Windows 11",
@@ -148,8 +148,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 155,
-      "savings": 40,
+      "savingsBeforeUpgrades": 160,
+      "savings": 45,
       "score": 3.4,
       "classification": null,
       "openQuestions": [
@@ -159,7 +159,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "155 €"
+      "priceLabel": "150 €"
     },
     {
       "id": "Kleinanzeigen:3509178615-228-2127",
@@ -672,7 +672,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": "befindet und...",
+      "condition": "- minimale...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -872,7 +872,7 @@
       "location": "64367 Hessen - Mühltal",
       "distanceKm": 8,
       "active": true,
-      "price": 45,
+      "price": 39,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Jetway Lüfterloser Mini-PC Atom N2600 2GB 2x LAN 2x COM",
@@ -900,9 +900,9 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 265,
-      "savings": 125,
-      "score": 2.9,
+      "savingsBeforeUpgrades": 271,
+      "savings": 131,
+      "score": 3,
       "classification": null,
       "openQuestions": [
         "RAM-Aufrüstung nötig (2 GB vorhanden)",
@@ -912,7 +912,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "45 €"
+      "priceLabel": "39 €"
     },
     {
       "id": "Kleinanzeigen:3527435925-228-9304",
@@ -925,7 +925,7 @@
       "active": true,
       "price": 111,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "nicht verfügbar",
       "manufacturerModel": "Mini-PC Orbsmart AW-12L, lüfterlos(!), 8GB RAM, Windows 11 Pro",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
@@ -1020,7 +1020,7 @@
       "active": true,
       "price": 75,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "nicht verfügbar",
       "manufacturerModel": "Spectra PowerBox 100-J19 Industrie-PC – lüfterlos – 8GB – 2x LAN",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
@@ -1119,7 +1119,7 @@
       "location": "86415 Bayern - Mering",
       "distanceKm": 247,
       "active": true,
-      "price": 74,
+      "price": 72,
       "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Win 11, 2x HDMI, Monitor",
@@ -1147,8 +1147,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 236,
-      "savings": 106,
+      "savingsBeforeUpgrades": 238,
+      "savings": 108,
       "score": 3.8,
       "classification": null,
       "openQuestions": [
@@ -1158,7 +1158,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "74 €"
+      "priceLabel": "72 €"
     },
     {
       "id": "Kleinanzeigen:3511333957-228-1582",
@@ -1469,9 +1469,9 @@
       "location": "73642 Baden-Württemberg - Welzheim",
       "distanceKm": 131,
       "active": true,
-      "price": 89,
+      "price": 80,
       "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
+      "sellerRating": "nicht verfügbar",
       "manufacturerModel": "Calmo XS Mini-PC – passiv - lüfterlos – 8GB RAM – 256GB SSD",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
@@ -1496,8 +1496,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 291,
-      "savings": 231,
+      "savingsBeforeUpgrades": 300,
+      "savings": 240,
       "score": 7.1,
       "classification": null,
       "openQuestions": [
@@ -1506,86 +1506,36 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "89 €"
+      "priceLabel": "80 €"
     },
     {
-      "id": "Kleinanzeigen:3454620108-228-5851",
+      "id": "Kleinanzeigen:2809461301-228-4915",
       "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/-leiser-mini-pc-lenovo-thinkcentre-m73-mit-ssd-und-windows-11/3454620108-228-5851",
-      "title": "⭕ Leiser Mini-PC Lenovo ThinkCentre M73 mit SSD und Windows 11",
-      "description": "Beschreibung\nLeiser und kompakter Mini-Computer Lenovo ThinkCentre M73\nFür Internet und Büroarbeiten. (nicht für Spiele)\n- Intel Pentium G3450T (2 x 2,9 GHz)\n- 128 GB SSD\n- 8 GB PC3L RAM (4+4)\n- 6 x USB, davon 2 x vorn\n- DP und VGA für einen Monitor (Adapter DP auf DVI oder HDMI zzgl. 5 €)\n- kein DVD, kein Wlan\n- Windows 11 Pro installiert*\n- ext. Netzteil\nAbmessungen ca. 18 x 18 x 4 cm\n\nBitte auch dies komplett lesen!\nWas hier nicht aufgeführt ist, hat der PC auch nicht.\nSolange der PC hier gelistet ist, kann er auch noch erworben werden.\nUnsere Computer sind ausschließlich \"Refurbish-Geräte\", die sorgfältig grundüberholt wurden und für die wir 12 Monate Gewährleistung auf die Hardware übernehmen.\nDer Preis in der Anzeige ist bereits knapp kalkuliert und deshalb ein nicht verhandelbarer Festpreis.\nWir verstehen uns als regionaler Anbieter - deshalb kein Versand (Nachfrage zwecklos).\nBezahlung ist grundsätzlich nur in bar möglich.\n* Windows 11 wurde von Microsoft für diese Hardware nicht getestet und wird deshalb offiziell nicht unterstützt. Von uns selbst fanden diverse Tests statt und das Betriebssystem erweist sich zum Zeitpunkt des Verkaufes als problemlos nutzbar.\nVor Abholung bitte unbedingt einen Termin vereinbaren, gern auch am Wochenende. Reicht auch telefonisch.\nFragen nach dem \"letzten Preis\" werden nicht beantwortet.\nKeine Reservierung von bestimmten Angeboten.\nMehr Informationen zum Anbieter (auch Adresse), wenn Sie auf \"Rechtliche Angaben\" unter der Anzeige klicken.\n==============\nKontakt & Erreichbarkeit\n>> Keine festen Öffnungszeiten\n>> Bitte unbedingt einen Termin vereinbaren (telefonisch oder über Kontakt)\n>> 0176-44415070 (eigene Rufnummer NICHT unterdrücken)\n► www.Computer-Storch.de\n==============\nBEWERTUNGEN\n> Top Service\n> Freundlich und hilfsbereit\n> Nach Absprache auch am Wochenende\n> 12 Monate Gewährleistung\n",
-      "location": "85084 Bayern - Reichertshofen",
-      "distanceKm": 247,
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-mini-slim-silent-office-multimedia-pc-/2809461301-228-4915",
+      "title": "☑️ Mini Slim Silent Office/Multimedia PC ☑️",
+      "description": "Beschreibung\nIch verkaufe meinen Mini-PC, der Aktuell Windows 10 in einen auf Werkszustand zurückgesetztem Zustand sich befindet. Ausgeliefert wurde er mit Windows 7. technische Daten sind auf den Fotos vermerkt. Eine Maus und Tastatur gibt es als Gratisbeigabe dazu.\n\nPayPal ist möglich, Zwischenverkauf vorbehalten, Abholung nur nach Absprache! Versand ist inklusive!\n\nDer Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt davon unberührt.",
+      "location": "65527 Hessen - Niedernhausen",
+      "distanceKm": 42,
       "active": true,
-      "price": 75,
-      "condition": "Gut",
+      "price": 150,
+      "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "⭕ Leiser Mini-PC Lenovo ThinkCentre M73 mit SSD und Windows 11",
+      "manufacturerModel": "☑️ Mini Slim Silent Office/Multimedia PC ☑️",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; Windows 11/TPM/UEFI belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
       "gpu": "nicht angegeben",
-      "ramGb": 8,
-      "storage": "128 GB SSD",
+      "ramGb": null,
+      "storage": "nicht angegeben",
       "upgradeable": false,
       "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 70 €",
-        "SSD/NVMe auf 1 TB: ca. 60 €"
+        "1-TB-SSD/NVMe: ca. 70 €"
       ],
-      "upgradeCost": 130,
+      "upgradeCost": 70,
       "silentConcept": "nicht nachgewiesen",
       "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
       "replacementNewPrice": 670,
-      "comparisonPrice": 190,
-      "estimatedAge": 6,
-      "warrantyMonths": 12,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 115,
-      "savings": -15,
-      "score": 0,
-      "classification": null,
-      "openQuestions": [
-        "RAM-Aufrüstung nötig (8 GB vorhanden)",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "75 €"
-    },
-    {
-      "id": "Kleinanzeigen:3527741362-228-6688",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/leise-r-workstion-gaming-pc-ryzen-9-32gb-wasserkuehlung-gtx1080ti/3527741362-228-6688",
-      "title": "Leise(r) Workstion/Gaming PC Ryzen 9 32GB Wasserkühlung GTX1080TI",
-      "description": "Beschreibung\nTOP 3-18% Gaming PC! Custom Wasserkühlung 16Core Ryzen9 32GB WIFI GTX 1080Ti\n\nAchtung: Hier handelt es sich nicht um einen 'billig'-PC. Es sind gepflegte, saubere, qualitativ hochwertige und teilweise NEUE Komponenten verbaut, die niedrige Temperaturen, lange Lebenszeit und einen leisen und wartungsarmen Betrieb ermöglichen. Des Weiteren ist das hier eine solide Basis, um in den Bereich Custom Wasserkühlung einzusteigen in einem vergleichsweise kompakten Gehäuse.\n\nIm weltweiten Passmark-Vergleich schneidet der PC in den oberen 3% (RAM); 10% (CPU); 18% (GPU) ab! Es handelt sich also um einen HIGH-END PC! Durch die Custom-Wasserkühlung schreien beim Gaming auch keine Lüfter und die Geräuschkulisse bleibt im Rahmen.\n\nSpezifikationen:\nBest Ryzen 3000 CPU: 16 Kerne 32 Threads Ryzen 9 3950X (Wassergekühlt mit Kryos Cuplex next)\n2nd best X570 Mainboard: AORUS X570 Master (Wassergekühlter Chipsatz!) WIFI 2x LAN: 2.5 Gbit; 1 Gbit\n\"Greatest GPU of all times\": AORUS GTX 1080ti (Wassergekühlt!)\n32 GB Arbeitsspeicher 3600MHZ CL16 (4x8GB) RGB Programmierbar (Farbwechsel usw)\n128GB NVME SSD (Weitere NEUE SSDs kann ich gern auf Anfrage einbauen. Wir suchen dir was passendes raus. Alternativ kann ich auch eine meiner 1-2TB SSDs oder 2-4TB HDDs anbieten)\nGigabyte 750 Watt 80+ GOLD Netzteil NEU\n240mm + 360mm KUPFER Radiator + Wasserpumpe NEU\nGehäuse mit Scharniertür + RGB Lüfter NEU\n3D-Gedruckter GPU-Halter\n3D-Gedruckter 360->420 Adapter für Radiator\n3D-Gedruckter Pumpenhalter am Radiator\n\nBenchmarks in 2560x1440:\nDAYZ: HIGH: 124 FPS; Medium: 201 FPS\nMetro Last Light Redux: VERY HIGH: 136 FPS\nPUBG: HIGH: 160 FPS; LOW: 270 FPS\nBattlefield 6: LOW: 88 FPS; HIGH (1080p): 92 FPS\nCOD Modern Warfare 3 (2023): ULTRA: 80 FPS; LOW: 100 FPS\nFortnite: HIGH: 94 FPS; LOW: 295+ FPS\nCounterstrike 2: SEHR HOCH: 161 FPS; LOW: 298+ FPS\nForza Horizon 5: HIGH: 158 FPS; Low: 235 FPS\nAnno 1800: HIGH: 132 FPS; LOW: 240 FPS\n\nHier noch ein kleiner Vergleich zur 5060; Bedenke, dass die 1080Ti im Video nicht Wassergekühlt ist und nicht über 2 ghz boosted, also gern nochmal 10-15% FPS drauf rechnen: https://www.youtube.com/watch?v=99eiyF_2rBo\n\nKann vor Kauf getestet werden.\nABHOLUNG! Kein Versand\nPrivatverkauf. Der Verkauf erfolgt unter Ausschluss der Sachmängelhaftung. Keine Garantie, keine Rücknahme.",
-      "location": "89250 Bayern - Senden",
-      "distanceKm": 201,
-      "active": true,
-      "price": 899,
-      "condition": "Sehr Gut",
-      "sellerRating": "OK Zufriedenheit",
-      "manufacturerModel": "Leise(r) Workstion/Gaming PC Ryzen 9 32GB Wasserkühlung GTX1080TI",
-      "cpu": "Ryzen 3000",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: Hardware-Decoding über GPU",
-      "windows11Suitability": "CPU nicht geeignet; 32 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "GTX1080TI",
-      "ramGb": 32,
-      "storage": "128 GB NVME",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "SSD/NVMe auf 1 TB: ca. 60 €"
-      ],
-      "upgradeCost": 60,
-      "silentConcept": "nicht nachgewiesen",
-      "displaySuitability": "GTX1080TI; üblicherweise 3+ gleichzeitige Displays, Anschlüsse vor Kauf prüfen",
-      "replacementNewPrice": 920,
-      "comparisonPrice": 390,
+      "comparisonPrice": 240,
       "estimatedAge": 6,
       "warrantyMonths": 0,
       "priceBasisDate": "2026-08-23",
@@ -1594,23 +1544,26 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": -509,
-      "savings": -569,
-      "score": 4.4,
+      "savingsBeforeUpgrades": 90,
+      "savings": 20,
+      "score": 0,
       "classification": null,
       "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
         "CPU unter Mindestleistung",
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "899 €"
+      "priceLabel": "150 €"
     },
     {
-      "id": "eBay:188021029767",
+      "id": "eBay:267800004152",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/188021029767",
+      "url": "https://www.ebay.de/itm/267800004152",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 8bd29a5c-4596-4a97-9138-da65f8fb0d86",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 3b8cefa8-2d8c-48cc-bda2-2e6345223ce9",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
