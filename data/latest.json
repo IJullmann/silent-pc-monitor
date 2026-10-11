@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-10T12:39:04.184Z",
+  "checkedAt": "2026-10-11T12:56:55.968Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -269,7 +269,7 @@
       "location": "58453 Nordrhein-Westfalen - Witten",
       "distanceKm": 195,
       "active": true,
-      "price": 40,
+      "price": 30,
       "condition": "gut, Nichtraucher",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "SilentMaxx PC Tower  ST-11 Pro",
@@ -296,8 +296,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 320,
-      "savings": 250,
+      "savingsBeforeUpgrades": 330,
+      "savings": 260,
       "score": 4.3,
       "classification": null,
       "openQuestions": [
@@ -308,7 +308,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "40 €"
+      "priceLabel": "30 €"
     },
     {
       "id": "Kleinanzeigen:3274218764-228-8390",
@@ -421,7 +421,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 80,
-      "condition": ", selten eingesetzt..",
+      "condition": ". Ideal als Office-PC, für...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -622,7 +622,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": ". Ideal für...",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -760,6 +760,56 @@
       ],
       "matches": false,
       "priceLabel": "199 €"
+    },
+    {
+      "id": "Kleinanzeigen:3536491115-228-369",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/luefterlosen-mini-pc/3536491115-228-369",
+      "title": "Lüfterlosen Mini Pc",
+      "description": "Beschreibung\nEs handelt sich hierbei um einen lüfterlosen Mini-PC (Industrial Box PC oder HTPC) mit einem schwarzen Aluminium-Kühlrippengehäuse.\n\nErkennbare Anschlüsse an der Rückseite:\n\n• AUD: Audioanschluss / Kopfhörerbuchse\n• USB: USB-Anschlüsse\n• LAN: Gigabit-Ethernet-Netzwerkanschluss (RJ45)\n• HDMI: Digitaler Video-/Audio-Ausgang\n• VGA: Analoger Videoanschluss\n• DC-12V: Stromanschluss für ein 12V-Netzteil\n• Antennenanschlüsse (Golden): Gewinde für optionales WLAN/Bluetooth\nMöchtest du wissen, welche",
+      "location": "66740 Saarland - Saarlouis",
+      "distanceKm": 151,
+      "active": true,
+      "price": 150,
+      "condition": "gebraucht",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Lüfterlosen Mini Pc",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 80,
+      "savings": 10,
+      "score": 2.2,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "150 €"
     },
     {
       "id": "Kleinanzeigen:3536211982-228-9042",
@@ -1016,7 +1066,7 @@
       "location": "64367 Hessen - Mühltal",
       "distanceKm": 8,
       "active": true,
-      "price": 39,
+      "price": 35,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Jetway Lüfterloser Mini-PC Atom N2600 2GB 2x LAN 2x COM",
@@ -1044,8 +1094,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 271,
-      "savings": 131,
+      "savingsBeforeUpgrades": 275,
+      "savings": 135,
       "score": 3,
       "classification": null,
       "openQuestions": [
@@ -1056,7 +1106,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "39 €"
+      "priceLabel": "35 €"
     },
     {
       "id": "Kleinanzeigen:3527435925-228-9304",
@@ -1158,6 +1208,56 @@
       ],
       "matches": false,
       "priceLabel": "75 €"
+    },
+    {
+      "id": "Kleinanzeigen:3484969953-228-5787",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/smarthome-server-pc-luefterlos-raspi-alternative-hutschine/3484969953-228-5787",
+      "title": "SmartHome Server | PC | Lüfterlos | Raspi Alternative | Hutschine",
+      "description": "Beschreibung\nIch biete hier einen kompakten und extrem energieeffizienten Siemens Simatic IPC 227E Nanobox PC an, der bisher als zuverlässige SmartHome-Zentrale gedient hat. Das Gerät eignet sich hervorragend für Projekte wie die Installation von Umbrel OS.\n\n- Modell: Siemens Simatic IPC 227E\n- Bauweise: Kompakter, lüfterloser Nanobox PC\n- Inklusive: Intel SSD und umgebauten Netzteil auf standard Schuko\n- Zustand: Voll funktionsfähig\n\nDer Industrie-PC ist sehr robust gebaut und bietet durch die lüfterlose Kühlung einen lautlosen Betrieb, was ihn ideal für den Dauerbetrieb zu Hause macht. Er wird lediglich aufgrund einer Umstrukturierung meines gesamten SmartHome-Systems abgegeben.\n\nBei Interesse oder weiteren Fragen schreib mir gerne eine Nachricht.\n\nBarzahlung bei Abholung. Oder versand bei Paypal Freunde Zahlung.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung, also keine Gewährleistung und keine Rücknahme. Zudem keine Garantie",
+      "location": "92263 Bayern - Ebermannsdorf",
+      "distanceKm": 247,
+      "active": true,
+      "price": 150,
+      "condition": "Voll funktionsfähig",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "SmartHome Server | PC | Lüfterlos | Raspi Alternative | Hutschine",
+      "cpu": "nicht angegeben",
+      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
+      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "nicht angegeben",
+      "ramGb": null,
+      "storage": "nicht angegeben",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "1-TB-SSD/NVMe: ca. 70 €"
+      ],
+      "upgradeCost": 70,
+      "silentConcept": "passiv/lüfterlos",
+      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
+      "replacementNewPrice": 850,
+      "comparisonPrice": 230,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 80,
+      "savings": 10,
+      "score": 2.2,
+      "classification": null,
+      "openQuestions": [
+        "RAM nicht angegeben",
+        "SSD/NVMe nicht eindeutig angegeben",
+        "3-Monitor-Anschlüsse bestätigen",
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "150 €"
     },
     {
       "id": "Kleinanzeigen:3514796355-228-7040",
@@ -1410,6 +1510,54 @@
       "priceLabel": "615 €"
     },
     {
+      "id": "Kleinanzeigen:3536691625-228-1737",
+      "source": "Kleinanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/gaming-pc-intel-i5-nvidia-rtx-leise-kompakt/3536691625-228-1737",
+      "title": "Gaming PC | Intel i5 | Nvidia RTX | Leise & Kompakt",
+      "description": "Beschreibung\nHi zusammen,\nich verkaufe hier einen schnellen, absolut zuverlässigen und extrem kompakten Gaming-PC im HP ProDesk Look. Der Rechner nimmt kaum Platz weg (siehe das Bild neben dem großen PC), läuft im Betrieb sehr leise und eignet sich ideal als kompakter Gaming- oder Multimedia-PC.\nDas System wurde komplett frisch aufgesetzt und für eine optimale Performance optimiert. Dank der schnellen SSD fährt der PC in nur etwa 15 Sekunden hoch und reagiert im Windows-Desktop blitzschnell. Die verbaute Nvidia RTX-Grafikkarte unterstützt moderne Features wie DLSS und Raytracing für flüssiges Gaming.\nDer PC wurde vor dem Inserieren noch einmal gründlich gereinigt und komplett von Staub befreit (siehe Fotos vom sauberen Innenleben).\nDie technischen Details:\n\n• Grafikkarte: Nvidia GeForce RTX 3050\n• Prozessor: Intel Core i5 6500\n• Arbeitsspeicher: 16 GB RAM\n• Speicher: Schnelle 120GB SSD für das Betriebssystem + 500 GB HDD Festplatte für Daten und Spiele\n• Zustand: Technisch einwandfrei, frisch installiert und direkt startklar (inkl. aktueller Nvidia-Grafiktreiber)\nDa es sich um einen absolut fairen Festpreis handelt, bitte keine Tauschangebote oder unrealistischen Preisanfragen.\nNur Abholung gegen Barzahlung in Iserlohn. Da Privatverkauf, keine Garantie oder Rücknahme. Der PC kann bei der Abholung vor Ort natürlich kurz getestet werden!",
+      "location": "58638 Nordrhein-Westfalen - Iserlohn",
+      "distanceKm": 182,
+      "active": true,
+      "price": 300,
+      "condition": "Sehr Gut",
+      "sellerRating": "TOP Zufriedenheit",
+      "manufacturerModel": "Gaming PC | Intel i5 | Nvidia RTX | Leise & Kompakt",
+      "cpu": "Core i5 6500",
+      "cpuVideoSuitability": "Intel Core unter i5/10. Generation; H.264/H.265: Hardware-Decoding über GPU",
+      "windows11Suitability": "CPU nicht geeignet; 16 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
+      "gpu": "RTX 3050",
+      "ramGb": 16,
+      "storage": "120 GB SSD",
+      "upgradeable": false,
+      "recommendedUpgrades": [
+        "RAM auf 32 GB: ca. 45 €",
+        "SSD/NVMe auf 1 TB: ca. 60 €"
+      ],
+      "upgradeCost": 105,
+      "silentConcept": "nicht nachgewiesen",
+      "displaySuitability": "RTX 3050; üblicherweise 3+ gleichzeitige Displays, Anschlüsse vor Kauf prüfen",
+      "replacementNewPrice": 1020,
+      "comparisonPrice": 370,
+      "estimatedAge": 6,
+      "warrantyMonths": 0,
+      "priceBasisDate": "2026-08-23",
+      "priceSources": [
+        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
+        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
+        "idealo: Ryzen 5 5600G boxed ab 152 €"
+      ],
+      "savingsBeforeUpgrades": 70,
+      "savings": -35,
+      "score": 3,
+      "classification": null,
+      "openQuestions": [
+        "CPU unter Mindestleistung",
+        "Windows 11 nicht offiziell unterstützt"
+      ],
+      "matches": false,
+      "priceLabel": "300 €"
+    },
+    {
       "id": "Kleinanzeigen:3535683007-228-1875",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/gamer-pc-fuer-4k-games-video-grafikbearbeitung-sehr-leise/3535683007-228-1875",
@@ -1460,68 +1608,18 @@
       "priceLabel": "1.330 €"
     },
     {
-      "id": "Kleinanzeigen:3454620108-228-5851",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/-leiser-mini-pc-lenovo-thinkcentre-m73-mit-ssd-und-windows-11/3454620108-228-5851",
-      "title": "⭕ Leiser Mini-PC Lenovo ThinkCentre M73 mit SSD und Windows 11",
-      "description": "Beschreibung\nLeiser und kompakter Mini-Computer Lenovo ThinkCentre M73\nFür Internet und Büroarbeiten. (nicht für Spiele)\n- Intel Pentium G3450T (2 x 2,9 GHz)\n- 128 GB SSD\n- 8 GB PC3L RAM (4+4)\n- 6 x USB, davon 2 x vorn\n- DP und VGA für einen Monitor (Adapter DP auf DVI oder HDMI zzgl. 5 €)\n- kein DVD, kein Wlan\n- Windows 11 Pro installiert*\n- ext. Netzteil\nAbmessungen ca. 18 x 18 x 4 cm\n\nBitte auch dies komplett lesen!\nWas hier nicht aufgeführt ist, hat der PC auch nicht.\nSolange der PC hier gelistet ist, kann er auch noch erworben werden.\nUnsere Computer sind ausschließlich \"Refurbish-Geräte\", die sorgfältig grundüberholt wurden und für die wir 12 Monate Gewährleistung auf die Hardware übernehmen.\nDer Preis in der Anzeige ist bereits knapp kalkuliert und deshalb ein nicht verhandelbarer Festpreis.\nWir verstehen uns als regionaler Anbieter - deshalb kein Versand (Nachfrage zwecklos).\nBezahlung ist grundsätzlich nur in bar möglich.\n* Windows 11 wurde von Microsoft für diese Hardware nicht getestet und wird deshalb offiziell nicht unterstützt. Von uns selbst fanden diverse Tests statt und das Betriebssystem erweist sich zum Zeitpunkt des Verkaufes als problemlos nutzbar.\nVor Abholung bitte unbedingt einen Termin vereinbaren, gern auch am Wochenende. Reicht auch telefonisch.\nFragen nach dem \"letzten Preis\" werden nicht beantwortet.\nKeine Reservierung von bestimmten Angeboten.\nMehr Informationen zum Anbieter (auch Adresse), wenn Sie auf \"Rechtliche Angaben\" unter der Anzeige klicken.\n==============\nKontakt & Erreichbarkeit\n>> Keine festen Öffnungszeiten\n>> Bitte unbedingt einen Termin vereinbaren (telefonisch oder über Kontakt)\n>> 0176-44415070 (eigene Rufnummer NICHT unterdrücken)\n► www.Computer-Storch.de\n==============\nBEWERTUNGEN\n> Top Service\n> Freundlich und hilfsbereit\n> Nach Absprache auch am Wochenende\n> 12 Monate Gewährleistung\n",
-      "location": "85084 Bayern - Reichertshofen",
-      "distanceKm": 247,
-      "active": true,
-      "price": 75,
-      "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "⭕ Leiser Mini-PC Lenovo ThinkCentre M73 mit SSD und Windows 11",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; Windows 11/TPM/UEFI belegt",
-      "gpu": "nicht angegeben",
-      "ramGb": 8,
-      "storage": "128 GB SSD",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 70 €",
-        "SSD/NVMe auf 1 TB: ca. 60 €"
-      ],
-      "upgradeCost": 130,
-      "silentConcept": "nicht nachgewiesen",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 670,
-      "comparisonPrice": 190,
-      "estimatedAge": 6,
-      "warrantyMonths": 12,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 115,
-      "savings": -15,
-      "score": 0,
-      "classification": null,
-      "openQuestions": [
-        "RAM-Aufrüstung nötig (8 GB vorhanden)",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "75 €"
-    },
-    {
-      "id": "eBay:407247906916",
+      "id": "eBay:298698931572",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/407247906916",
-      "title": "Unbekanntes System",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: d34ef3e4-7361-4696-88bc-070de2165b21",
+      "url": "https://www.ebay.de/itm/298698931572",
+      "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: d8bb0923-3a82-41ae-af02-425187b4f1cd",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
       "price": null,
       "condition": "gebraucht",
       "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Unbekanntes System",
+      "manufacturerModel": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
