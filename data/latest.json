@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-13T14:18:18.498Z",
+  "checkedAt": "2026-10-14T11:59:23.394Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -116,13 +116,13 @@
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/silentmaxx-st-11-pro-pc-tower-mit-30-gb-ram-und-radeon-hd-5750-/3538719021-228-1933",
       "title": "SilentMaxx ST-11 Pro PC-Tower mit 30 GB RAM und Radeon HD 5750 –",
-      "description": "Beschreibung\n\nVerkaufe einen großen SilentMaxx ST-11 Pro PC-Tower mit älterer Hardware, ideal für Bastler, Schrauber oder Nostalgie-Fans.\n\nDer Rechner wurde vor ca. 16 Jahren zusammengestellt und über die Jahre teilweise aktualisiert. Die Komponenten sind auf einen leisen Betrieb ausgelegt.\n\nAusstattung:\n\nGehäuse: SilentMaxx ST-11 Pro\n\nArbeitsspeicher: 30 GB RAM\n\nGrafikkarte: AMD Radeon HD 5750\n\nGroßer CPU-Kühler\n\nSilentMaxx-Festplattengehäuse\n\nSilentMaxx-Netzteil\n\nZustand und Hinweise:\n\nDas Gerät lässt sich einschalten und leuchtet.\n\nDie vollständige Funktionsfähigkeit der Hardware wurde nicht geprüft.\n\nAlle Festplatten wurden ausgebaut und sind nicht Bestandteil des Verkaufs.\n\nVerkauf als Bastlerware.\n\nAufgrund des Gewichts wird Abholung bevorzugt.\n\nIdeal zum Ausschlachten, für Bastelprojekte oder für Liebhaber älterer PC-Hardware.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung, soweit gesetzlich zulässig.",
+      "description": "Beschreibung\nVerkaufe einen großen SilentMaxx ST-11 Pro PC-Tower mit älterer Hardware, ideal für Bastler, Schrauber oder Nostalgie-Fans.\n\nDer Rechner wurde vor ca. 16 Jahren zusammengestellt und über die Jahre teilweise aktualisiert. Die Komponenten sind auf einen leisen Betrieb ausgelegt.\n\nAusstattung:\n\nGehäuse: SilentMaxx ST-11 Pro\n\nArbeitsspeicher: 30 GB RAM\n\nGrafikkarte: AMD Radeon HD 5750\n\nGroßer CPU-Kühler\n\nSilentMaxx-Festplattengehäuse\n\nSilentMaxx-Netzteil\n\nZustand und Hinweise:\n\nDas Gerät lässt sich einschalten und leuchtet.\n\nDie vollständige Funktionsfähigkeit der Hardware wurde nicht geprüft.\n\nAlle Festplatten wurden ausgebaut und sind nicht Bestandteil des Verkaufs.\n\nVerkauf als Bastlerware.\n\nAufgrund des Gewichts wird Abholung bevorzugt.\n\nIdeal zum Ausschlachten, für Bastelprojekte oder für Liebhaber älterer PC-Hardware.\n\nPrivatverkauf unter Ausschluss der Sachmängelhaftung, soweit gesetzlich zulässig.",
       "location": "44869 Bochum - Bochum-Wattenscheid",
       "distanceKm": 205,
       "active": true,
       "price": 30,
       "condition": "Defekt",
-      "sellerRating": "Zufriedenheit",
+      "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "SilentMaxx ST-11 Pro PC-Tower mit 30 GB RAM und Radeon HD 5750 –",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
@@ -462,56 +462,6 @@
       "priceLabel": "120 €"
     },
     {
-      "id": "Kleinanzeigen:3539674042-228-990",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/seasonic-prime-fanless-tx-700-700w-80-plus-titanium-pc-netzteil/3539674042-228-990",
-      "title": "Seasonic PRIME FANLESS TX-700 700W, 80 PLUS Titanium, PC-Netzteil",
-      "description": "Beschreibung\nVerkauft wird ein Seasonic PRIME FANLESS TX-700 700W. Das Netzteil funktioniert einwandfrei, erfüllt die 80 PLUS Titanium Zertifizierung und läuft zudem passiv ohne Lüfter. Es wird mit OVP und vollständigem Zubehör geliefert.\n\nDa es sich um einen Privatverkauf handelt, bin ich verpflichtet darauf hinzuweisen, dass ich sämtliche Gewährleistungs- und/oder Garantieansprüche ausschließe bzw. diese gegen die Händler oder Hersteller zu richten sind. Rücknahme und Umtausch ausgeschlossen.",
-      "location": "50677 Innenstadt - Köln Altstadt",
-      "distanceKm": 169,
-      "active": true,
-      "price": 149,
-      "condition": "Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "Seasonic PRIME FANLESS TX-700 700W, 80 PLUS Titanium, PC-Netzteil",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": null,
-      "storage": "nicht angegeben",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 70,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 230,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": 81,
-      "savings": 11,
-      "score": 2.2,
-      "classification": null,
-      "openQuestions": [
-        "RAM nicht angegeben",
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "149 €"
-    },
-    {
       "id": "Kleinanzeigen:3525242661-228-2066",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/minisforum-mini-pc-z83-f-fanless-4gb-ram-client-nas-stream-board/3525242661-228-2066",
@@ -571,7 +521,7 @@
       "location": "50937 Lindenthal - Köln Sülz",
       "distanceKm": 169,
       "active": true,
-      "price": 380,
+      "price": 350,
       "condition": "Sehr Gut",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "CWWK Mini-PC N100 Firewall Appliance, Fanless Mini-PC",
@@ -599,8 +549,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": -70,
-      "savings": -200,
+      "savingsBeforeUpgrades": -40,
+      "savings": -170,
       "score": 2.4,
       "classification": null,
       "openQuestions": [
@@ -610,7 +560,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "380 €"
+      "priceLabel": "350 €"
     },
     {
       "id": "Kleinanzeigen:3498354522-228-1556",
@@ -722,7 +672,7 @@
       "distanceKm": null,
       "active": true,
       "price": 250,
-      "condition": "Funktionieret einwandfrei durch...",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Dell fanless Industrie PC lautlos Dauerbetrieb",
       "cpu": "core i5 6440EQ",
@@ -871,7 +821,7 @@
       "distanceKm": 151,
       "active": true,
       "price": 150,
-      "condition": "gebraucht",
+      "condition": ", komplett lüfterlos und dadurch...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Lüfterlosen Mini Pc",
       "cpu": "nicht angegeben",
@@ -922,7 +872,7 @@
       "active": true,
       "price": 20,
       "condition": "Defekt",
-      "sellerRating": "nicht verfügbar",
+      "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Industrie PC Lüfterlos Touchscreen kapazitiv",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
@@ -1318,7 +1268,7 @@
       "location": "86415 Bayern - Mering",
       "distanceKm": 247,
       "active": true,
-      "price": 70,
+      "price": 69,
       "condition": ". Ideal als Office-PC, für...",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "lüfterloser Mini PC Intel i5, SSD, Win 11, 2x HDMI, Monitor",
@@ -1346,8 +1296,8 @@
         "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
         "idealo: Ryzen 5 5600G boxed ab 152 €"
       ],
-      "savingsBeforeUpgrades": 240,
-      "savings": 110,
+      "savingsBeforeUpgrades": 241,
+      "savings": 111,
       "score": 3.8,
       "classification": null,
       "openQuestions": [
@@ -1357,7 +1307,7 @@
         "Windows 11 nicht offiziell unterstützt"
       ],
       "matches": false,
-      "priceLabel": "70 €"
+      "priceLabel": "69 €"
     },
     {
       "id": "Kleinanzeigen:3511333957-228-1582",
@@ -1708,61 +1658,11 @@
       "priceLabel": "300 €"
     },
     {
-      "id": "Kleinanzeigen:3535683007-228-1875",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/gamer-pc-fuer-4k-games-video-grafikbearbeitung-sehr-leise/3535683007-228-1875",
-      "title": "Gamer PC für 4K-Games, Video-Grafikbearbeitung, SEHR LEISE",
-      "description": "Beschreibung\nDesktop Gamer-PC Midi Modular Gehäuse Fractal Design Define 7 Metall anthazit\n\nSeitenteile, Oberboden und Front lassen sich schraubenlos entfernen.\nKabelmanagment verdeckt in rechter Seite\nStaubfilter Unterboden, unter der Front, unter dem Oberboden\nAusreichend Be- und Entlüftung, für ausreichend Kühlung ist gesorgt\nAnschlüsse Oben USB C, 2 x USB2.0, 2 x USB 3.0, Audio in/out, Powerknopf\nDie einzelnen Komponenten als Foto in der Galerie.\n\nDieser PC wurde mit Komponenten \"Der Rechner für die nächsten 10 Jahre\"\nder Heise + C't Empfehlung Anfang 2024 gebaut. Sämtliche aktuellen\nPC-Spiele lassen sich mit mittlerer bis Ultra-Einstellung flüssig spielen.\nHerzstück 1440p Grafikkarte mit 16GB Speicher und 4k Technologie GDDR 6\n\nDer Rechner läuft einwandfrei und absolut Störungfrei!\n\nFragen beantworte ich dir umgehend per Mail.\n\nPrivat-Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung!",
-      "location": "50126 Nordrhein-Westfalen - Bergheim",
-      "distanceKm": 188,
-      "active": true,
-      "price": 1330,
-      "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "Gamer PC für 4K-Games, Video-Grafikbearbeitung, SEHR LEISE",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; 16 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": 16,
-      "storage": "nicht angegeben",
-      "upgradeable": false,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 45 €",
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 115,
-      "silentConcept": "nicht nachgewiesen",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 670,
-      "comparisonPrice": 240,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": -1090,
-      "savings": -1205,
-      "score": 0,
-      "classification": null,
-      "openQuestions": [
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "1.330 €"
-    },
-    {
       "id": "eBay:860011896983",
       "source": "eBay",
       "url": "https://www.ebay.de/itm/860011896983",
       "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: 3a723f44-059e-4fce-8812-86d9f9b8df08",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: cf60ec44-2605-474a-825f-a2bc257773bf",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
