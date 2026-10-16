@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-15T11:35:34.588Z",
+  "checkedAt": "2026-10-16T11:30:18.870Z",
   "sources": [
     {
       "name": "Kleinanzeigen",
@@ -471,7 +471,7 @@
       "distanceKm": 213,
       "active": true,
       "price": 80,
-      "condition": ", selten eingesetzt..",
+      "condition": "gebraucht",
       "sellerRating": "TOP Zufriedenheit",
       "manufacturerModel": "Minisforum mini PC Z83-F fanless 4gb Ram Client NAS Stream board",
       "cpu": "nicht angegeben",
@@ -1508,56 +1508,6 @@
       "priceLabel": "615 €"
     },
     {
-      "id": "Kleinanzeigen:3501306129-228-4923",
-      "source": "Kleinanzeigen",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/luefterlose-pc-i3-8100t-pc-industrial-motherboard-asus-prime-h310t/3501306129-228-4923",
-      "title": "Lüfterlose PC i3-8100T PC Industrial Motherboard Asus Prime H310T",
-      "description": "Beschreibung\nAsus PRIME H310T R2.0 Motherboard Intel H310 DDR4 32 GB unterstützt Intel für Core-CPU der 9./8. Generation USB 3.1 HDMI Mini ITX.\n\nASUS PRIME H310T R2.0 -DDR4 SODIMM -miniITX - Sockel 1151 Mainbaord CPU Intel I3\n\n\nZum Verkauf steht ein PC 13 8.gen mit 3,10 GHZ\n\nMarke Asus\nModell prime-h310t-r2-0 incl Slot Blende\n\nCPU Intel\nModell I3 8100T\n\nArbeitsspeicher 16 GB\nModell DDR4-2666 SODIMM\n\nFestplatte 256 GB M-Sata\n\n\nHardware vollfuntionsfähig\n\n\n",
-      "location": "34127 Hessen - Kassel",
-      "distanceKm": 173,
-      "active": true,
-      "price": 440,
-      "condition": "Sehr Gut",
-      "sellerRating": "TOP Zufriedenheit",
-      "manufacturerModel": "Lüfterlose PC i3-8100T PC Industrial Motherboard Asus Prime H310T",
-      "cpu": "nicht angegeben",
-      "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
-      "windows11Suitability": "CPU nicht geeignet; 16 GB RAM; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
-      "gpu": "nicht angegeben",
-      "ramGb": 16,
-      "storage": "nicht angegeben",
-      "upgradeable": true,
-      "recommendedUpgrades": [
-        "RAM auf 32 GB: ca. 45 €",
-        "1-TB-SSD/NVMe: ca. 70 €"
-      ],
-      "upgradeCost": 115,
-      "silentConcept": "passiv/lüfterlos",
-      "displaySuitability": "3 gleichzeitige Monitore nicht belegt",
-      "replacementNewPrice": 850,
-      "comparisonPrice": 310,
-      "estimatedAge": 6,
-      "warrantyMonths": 0,
-      "priceBasisDate": "2026-08-23",
-      "priceSources": [
-        "idealo: Ryzen 5 5600G / 32 GB / 1 TB Komplettsysteme 776–850 €",
-        "idealo: Ryzen 5 5600G / 16 GB / 500 GB Komplettsysteme ab 641 €",
-        "idealo: Ryzen 5 5600G boxed ab 152 €"
-      ],
-      "savingsBeforeUpgrades": -130,
-      "savings": -245,
-      "score": 2.6,
-      "classification": null,
-      "openQuestions": [
-        "SSD/NVMe nicht eindeutig angegeben",
-        "3-Monitor-Anschlüsse bestätigen",
-        "CPU unter Mindestleistung",
-        "Windows 11 nicht offiziell unterstützt"
-      ],
-      "matches": false,
-      "priceLabel": "440 €"
-    },
-    {
       "id": "Kleinanzeigen:3541152661-228-1776",
       "source": "Kleinanzeigen",
       "url": "https://www.kleinanzeigen.de/s-anzeige/lenovo-tiny-pc-m710q-i7-power-kompakt-leise-111/3541152661-228-1776",
@@ -1654,18 +1604,18 @@
       "priceLabel": "300 €"
     },
     {
-      "id": "eBay:267557918014",
+      "id": "eBay:860011896983",
       "source": "eBay",
-      "url": "https://www.ebay.de/itm/267557918014",
-      "title": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
-      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: dd491900-7496-4f40-a594-762c6dadc2c3",
+      "url": "https://www.ebay.de/itm/860011896983",
+      "title": "Unbekanntes System",
+      "description": "Zum Hauptinhalt\nIhr Browser wird geprüft, bevor Sie auf eBay zugreifen können.\nSie werden von Ihrem Browser gleich zum gewünschten Inhalt weitergeleitet. Bitte warten...\nReferenznummer: c404a217-49ed-426c-b83f-eda4e59adaff",
       "location": "Online-Händler · Versand",
       "distanceKm": null,
       "active": true,
       "price": null,
       "condition": "gebraucht",
       "sellerRating": "nicht verfügbar",
-      "manufacturerModel": "Ihr Browser wird geprüft, bevor Sie auf eBay zugreifen können.",
+      "manufacturerModel": "Unbekanntes System",
       "cpu": "nicht angegeben",
       "cpuVideoSuitability": "CPU unter Mindestleistung oder nicht erkannt; H.264/H.265: nicht belegt",
       "windows11Suitability": "CPU nicht geeignet; mindestens 16 GB RAM nötig; mindestens 256 GB SSD/NVMe nötig; TPM 2.0 und UEFI/Secure Boot vor Kauf bestätigen",
